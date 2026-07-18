@@ -1,0 +1,79 @@
+{
+  "_description": "Defines which documents and chapters are tested for each qualification. Edit to match your actual source documents and their chapters.",
+  "qualifications": [
+    {
+      "name": "Aerodrome",
+      "description": "Basic aerodrome control procedures and local rules.",
+      "documents": [
+        {
+          "name": "ICAO Annex 11",
+          "chapters": ["Aerodrome Control", "Airspace Classes"]
+        },
+        {
+          "name": "PAA AIP",
+          "chapters": ["Aerodrome", "ATS Airspace"]
+        }
+      ]
+    },
+    {
+      "name": "Area Procedure",
+      "description": "En-route non-radar procedures and separation.",
+      "documents": [
+        {
+          "name": "ICAO Annex 11",
+          "chapters": ["ATS Reporting Offices", "Coordination Procedures"]
+        },
+        {
+          "name": "ICAO Doc 4444",
+          "chapters": ["Separation Standards", "Phraseology"]
+        },
+        {
+          "name": "PAA AIP",
+          "chapters": ["ATS Airspace", "Flight Plan"]
+        }
+      ]
+    },
+    {
+      "name": "Area Radar",
+      "description": "Radar control in en-route airspace.",
+      "documents": [
+        {
+          "name": "ICAO Annex 11",
+          "chapters": ["Airspace Classes"]
+        },
+        {
+          "name": "ICAO Doc 4444",
+          "chapters": ["Separation Standards", "Radar Separation"]
+        }
+      ]
+    },
+    {
+      "name": "Approach Procedure",
+      "description": "Non-radar approach control and instrument procedures.",
+      "documents": [
+        {
+          "name": "ICAO Doc 4444",
+          "chapters": ["Separation Standards", "Coordination"]
+        },
+        {
+          "name": "PAA AIP",
+          "chapters": ["Instrument Approach", "ATS Airspace"]
+        }
+      ]
+    },
+    {
+      "name": "Approach Radar",
+      "description": "Radar approach control (ASR, PAR).",
+      "documents": [
+        {
+          "name": "ICAO Doc 4444",
+          "chapters": ["Radar Separation", "Phraseology"]
+        },
+        {
+          "name": "PAA AIP",
+          "chapters": ["Surveillance", "Instrument Approach"]
+        }
+      ]
+    }
+  ]
+}

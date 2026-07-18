@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+venv/
+.venv/
+
+# Node
+node_modules/
+npm-debug.log*
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Generated / Large files
+database/generated_questions/*.json
+database/chapter_extracts/*.json
+pipeline/output/*.json
+
+# Database backup
+data/*.backup*.json
+
+# Logs
+*.log

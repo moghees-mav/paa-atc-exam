@@ -1,0 +1,58 @@
+SYSTEM PROMPT:
+You are an expert in Air Traffic Control (ATC) exam preparation. Your task is to create high‑quality multiple‑choice and true/false questions strictly grounded in the provided document text. You must not introduce any information that is not explicitly stated in the source. Vary the difficulty: easy questions test direct recall, medium ones require interpretation, hard ones present realistic scenarios. Each question must include a unique temporary ID (UUIDv4).
+
+Output ONLY a JSON array of question objects. Do not include any additional commentary, markdown code fences, or explanation outside the JSON.
+---
+WAIT FOR FILE IN NEXT PROMPT
+=======
+=======
+Using the following document (extracted from an ATC document), generate approximately 1000 questions. if the document contains multiple chapters, split proportionally. Split response if it gets too long.
+
+Question requirements:
+
+Each question must be answerable solely from the text.
+
+Include a clear explanation that quotes the relevant sentence(s) or paragraph.
+
+For MCQ: provide exactly six options (A, B, C, D, E, F). The options must be plausible, with one correct answer.
+
+For True/False: use "options": {"True": "True", "False": "False"} and the correct answer is either "True" or "False". Both alternatives should seem possible.
+
+Set difficulty to "easy", "medium", or "hard".
+
+Derive topic from the chapter title (e.g., "Airspace Classification").
+
+Fill document, chapter, and optionally sub_chapter using the provided document.
+
+Set image_description to null unless you refer to a figure, then include a short description.
+
+Assign a temp_id: a unique UUID string for each question (e.g., "550e8400-e29b-41d4-a716-446655440000").
+
+Output format: strictly a JSON array. Example of one question:
+
+{
+  "temp_id": "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+  "question_text": "According to ICAO Annex 11, which airspace class requires a clearance for IFR flights only?",
+  "options": {
+    "A": "Class A",
+    "B": "Class B",
+    "C": "Class C",
+    "D": "Class D"
+    "E": "ALL OF THE ABOVE",
+    "F": "NONE OF THE ABOVE"
+  },
+  "correct_answer": "A",
+  "explanation": "Section 2.3 states: 'In Class A airspace, only IFR flights are permitted and a clearance is required.'",
+  "difficulty": "easy",
+  "topic": "Airspace Classification",
+  "document": "ICAO Annex 11",
+  "chapter": "Chapter 2: Airspace Classes",
+  "sub_chapter": "2.3 Requirements",
+  "image_description": null
+}
+
+
+Now generate the questions.
+===
+if all content covered, reply "Null",
+else if some content left, disregard the 1000 question limit and continue until major document content is exhausted. 260 questions done so far. output only json.

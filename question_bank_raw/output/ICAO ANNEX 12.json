@@ -1,0 +1,1786 @@
+[
+  {
+    "temp_id": "a0eebc99-9c0b-4ef8-bb6d-6bb9bd380a11",
+    "question_text": "According to ICAO Annex 12, what is the meaning of 'Alert phase'?",
+    "options": {
+      "A": "A situation wherein uncertainty exists as to the safety of an aircraft and its occupants",
+      "B": "A situation wherein apprehension exists as to the safety of an aircraft and its occupants",
+      "C": "A situation wherein there is a reasonable certainty that an aircraft and its occupants are threatened by grave and imminent danger and require immediate assistance",
+      "D": "A generic term meaning uncertainty phase, alert phase or distress phase",
+      "E": "The forced landing of an aircraft on water",
+      "F": "An operation to retrieve persons in distress"
+    },
+    "correct_answer": "B",
+    "explanation": "Chapter 1 Definitions: 'Alert phase. A situation wherein apprehension exists as to the safety of an aircraft and its occupants.'",
+    "difficulty": "easy",
+    "topic": "Definitions",
+    "document": "ICAO ANNEX 12",
+    "chapter": "CHAPTER 1. DEFINITIONS",
+    "sub_chapter": null,
+    "image_description": null
+  },
+  {
+    "temp_id": "b1c4d5e6-f7a8-4b9c-8d0e-1f2a3b4c5d6e",
+    "question_text": "The 'Distress phase' is defined as a situation wherein there is a reasonable certainty that an aircraft and its occupants are threatened by grave and imminent danger and require immediate assistance.",
+    "options": {
+      "True": "True",
+      "False": "False"
+    },
+    "correct_answer": "True",
+    "explanation": "Chapter 1 Definitions: 'Distress phase. A situation wherein there is a reasonable certainty that an aircraft and its occupants are threatened by grave and imminent danger and require immediate assistance.'",
+    "difficulty": "easy",
+    "topic": "Definitions",
+    "document": "ICAO ANNEX 12",
+    "chapter": "CHAPTER 1. DEFINITIONS",
+    "sub_chapter": null,
+    "image_description": null
+  },
+  {
+    "temp_id": "c2d3e4f5-6a7b-4c8d-9e0f-1a2b3c4d5e6f",
+    "question_text": "Which of the following best describes the term 'Emergency phase' as defined in Annex 12?",
+    "options": {
+      "A": "Only the uncertainty phase",
+      "B": "Only the alert phase",
+      "C": "Only the distress phase",
+      "D": "A generic term meaning, as the case may be, uncertainty phase, alert phase or distress phase",
+      "E": "The phase when an aircraft is forced to land on water",
+      "F": "The phase when rescue operations are initiated"
+    },
+    "correct_answer": "D",
+    "explanation": "Chapter 1 Definitions: 'Emergency phase. A generic term meaning, as the case may be, uncertainty phase, alert phase or distress phase.'",
+    "difficulty": "easy",
+    "topic": "Definitions",
+    "document": "ICAO ANNEX 12",
+    "chapter": "CHAPTER 1. DEFINITIONS",
+    "sub_chapter": null,
+    "image_description": null
+  },
+  {
+    "temp_id": "d3e4f5g6-7h8i-4j9k-0l1m-2n3o4p5q6r7s",
+    "question_text": "What is the definition of 'Search and rescue region (SRR)'?",
+    "options": {
+      "A": "An area where search and rescue units are stationed",
+      "B": "An area of defined dimensions, associated with a rescue coordination centre, within which search and rescue services are provided",
+      "C": "A region where only aeronautical search and rescue is provided",
+      "D": "A region that must overlap with neighboring regions",
+      "E": "An area determined solely by the State of Registry",
+      "F": "A region that excludes maritime areas"
+    },
+    "correct_answer": "B",
+    "explanation": "Chapter 1 Definitions: 'Search and rescue region (SRR). An area of defined dimensions, associated with a rescue coordination centre, within which search and rescue services are provided.'",
+    "difficulty": "easy",
+    "topic": "Definitions",
+    "document": "ICAO ANNEX 12",
+    "chapter": "CHAPTER 1. DEFINITIONS",
+    "sub_chapter": null,
+    "image_description": null
+  },
+  {
+    "temp_id": "e4f5g6h7-8i9j-4k0l-1m2n-3o4p5q6r7s8t",
+    "question_text": "According to Annex 12, a 'Joint rescue coordination centre (JRCC)' is responsible for both aeronautical and maritime search and rescue operations.",
+    "options": {
+      "True": "True",
+      "False": "False"
+    },
+    "correct_answer": "True",
+    "explanation": "Chapter 1 Definitions: 'Joint rescue coordination centre (JRCC). A rescue coordination centre responsible for both aeronautical and maritime search and rescue operations.'",
+    "difficulty": "easy",
+    "topic": "Definitions",
+    "document": "ICAO ANNEX 12",
+    "chapter": "CHAPTER 1. DEFINITIONS",
+    "sub_chapter": null,
+    "image_description": null
+  },
+  {
+    "temp_id": "f5g6h7i8-9j0k-4l1m-2n3o-4p5q6r7s8t9u",
+    "question_text": "Which of the following is the correct definition of 'Search and rescue aircraft'?",
+    "options": {
+      "A": "Any aircraft that participates in a search and rescue mission",
+      "B": "An aircraft provided with specialized equipment suitable for the efficient conduct of search and rescue missions",
+      "C": "An aircraft that can communicate on distress frequencies only",
+      "D": "An aircraft operated by the State exclusively",
+      "E": "An aircraft that carries droppable survival equipment",
+      "F": "An aircraft capable of ditching on water"
+    },
+    "correct_answer": "B",
+    "explanation": "Chapter 1 Definitions: 'Search and rescue aircraft. An aircraft provided with specialized equipment suitable for the efficient conduct of search and rescue missions.'",
+    "difficulty": "easy",
+    "topic": "Definitions",
+    "document": "ICAO ANNEX 12",
+    "chapter": "CHAPTER 1. DEFINITIONS",
+    "sub_chapter": null,
+    "image_description": null
+  },
+  {
+    "temp_id": "g6h7i8j9-0k1l-4m2n-3o4p-5q6r7s8t9u0v",
+    "question_text": "What does the term 'Rescue' mean in the context of Annex 12?",
+    "options": {
+      "A": "The act of searching for missing aircraft",
+      "B": "An operation to retrieve persons in distress, provide for their initial medical or other needs, and deliver them to a place of safety",
+      "C": "The coordination of search activities from an RCC",
+      "D": "The forced landing of an aircraft on water",
+      "E": "The removal of wreckage after an accident",
+      "F": "The provision of air traffic services to an aircraft in distress"
+    },
+    "correct_answer": "B",
+    "explanation": "Chapter 1 Definitions: 'Rescue. An operation to retrieve persons in distress, provide for their initial medical or other needs, and deliver them to a place of safety.'",
+    "difficulty": "easy",
+    "topic": "Definitions",
+    "document": "ICAO ANNEX 12",
+    "chapter": "CHAPTER 1. DEFINITIONS",
+    "sub_chapter": null,
+    "image_description": null
+  },
+  {
+    "temp_id": "h7i8j9k0-1l2m-4n3o-4p5q-6r7s8t9u0v1w",
+    "question_text": "The 'Uncertainty phase' is defined as a situation wherein uncertainty exists as to the safety of an aircraft and its occupants.",
+    "options": {
+      "True": "True",
+      "False": "False"
+    },
+    "correct_answer": "True",
+    "explanation": "Chapter 1 Definitions: 'Uncertainty phase. A situation wherein uncertainty exists as to the safety of an aircraft and its occupants.'",
+    "difficulty": "easy",
+    "topic": "Definitions",
+    "document": "ICAO ANNEX 12",
+    "chapter": "CHAPTER 1. DEFINITIONS",
+    "sub_chapter": null,
+    "image_description": null
+  },
+  {
+    "temp_id": "i8j9k0l1-2m3n-4o4p-5q6r-7s8t9u0v1w2x",
+    "question_text": "Which facility is defined as 'any facility intended to serve as an intermediary between a person reporting an emergency and a rescue coordination centre or rescue subcentre'?",
+    "options": {
+      "A": "Rescue subcentre",
+      "B": "Alerting post",
+      "C": "Search and rescue unit",
+      "D": "Joint rescue coordination centre",
+      "E": "Air traffic services unit",
+      "F": "Cospas-Sarsat Mission Control Centre"
+    },
+    "correct_answer": "B",
+    "explanation": "Chapter 1 Definitions: 'Alerting post. Any facility intended to serve as an intermediary between a person reporting an emergency and a rescue coordination centre or rescue subcentre.'",
+    "difficulty": "easy",
+    "topic": "Definitions",
+    "document": "ICAO ANNEX 12",
+    "chapter": "CHAPTER 1. DEFINITIONS",
+    "sub_chapter": null,
+    "image_description": null
+  },
+  {
+    "temp_id": "j9k0l1m2-3n4o-4p5q-6r7s-8t9u0v1w2x3y",
+    "question_text": "According to Chapter 2, contracting States shall arrange for the establishment and prompt provision of search and rescue services within their territories. How must such services be provided?",
+    "options": {
+      "A": "During daylight hours only",
+      "B": "On a 24-hour basis",
+      "C": "Only upon request from an operator",
+      "D": "Only for aircraft of the State of Registry",
+      "E": "Only in coordination with maritime authorities",
+      "F": "Only in areas of high traffic density"
+    },
+    "correct_answer": "B",
+    "explanation": "Chapter 2, 'Search and rescue services', paragraph 1: 'Contracting States shall, individually or in cooperation with other States, arrange for the establishment and prompt provision of search and rescue services within their territories to ensure that assistance is rendered to persons in distress. Such services shall be provided on a 24-hour basis.'",
+    "difficulty": "easy",
+    "topic": "Organization",
+    "document": "ICAO ANNEX 12",
+    "chapter": "CHAPTER 2. ORGANIZATION",
+    "sub_chapter": "Search and rescue services",
+    "image_description": null
+  },
+  {
+    "temp_id": "k0l1m2n3-4o5p-4q6r-7s8t-9u0v1w2x3y4z",
+    "question_text": "Basic elements of search and rescue services shall include a legal framework, a responsible authority, organized available resources, communication facilities, and what else?",
+    "options": {
+      "A": "A dedicated fleet of aircraft",
+      "B": "A workforce skilled in coordination and operational functions",
+      "C": "An international treaty",
+      "D": "A mandatory ship reporting system",
+      "E": "A joint rescue coordination centre",
+      "F": "A network of alerting posts"
+    },
+    "correct_answer": "B",
+    "explanation": "Chapter 2, 'Search and rescue services', paragraph 2: 'Basic elements of search and rescue services shall include a legal framework, a responsible authority, organized available resources, communication facilities and a workforce skilled in coordination and operational functions.'",
+    "difficulty": "easy",
+    "topic": "Organization",
+    "document": "ICAO ANNEX 12",
+    "chapter": "CHAPTER 2. ORGANIZATION",
+    "sub_chapter": "Search and rescue services",
+    "image_description": null
+  },
+  {
+    "temp_id": "l1m2n3o4-5p6q-4r7s-8t9u-0v1w2x3y4z5a",
+    "question_text": "Contracting States shall provide assistance to aircraft in distress and to survivors regardless of the nationality or status of such persons or the circumstances in which such persons are found.",
+    "options": {
+      "True": "True",
+      "False": "False"
+    },
+    "correct_answer": "True",
+    "explanation": "Chapter 2, 'Search and rescue services', paragraph 4: 'In providing assistance to aircraft in distress and to survivors of aircraft accidents, Contracting States shall do so regardless of the nationality or status of such persons or the circumstances in which such persons are found.'",
+    "difficulty": "easy",
+    "topic": "Organization",
+    "document": "ICAO ANNEX 12",
+    "chapter": "CHAPTER 2. ORGANIZATION",
+    "sub_chapter": "Search and rescue services",
+    "image_description": null
+  },
+  {
+    "temp_id": "m2n3o4p5-6q7r-4s8t-9u0v-1w2x3y4z5a6b",
+    "question_text": "According to Annex 12, what is recommended regarding the establishment of joint rescue coordination centres?",
+    "options": {
+      "A": "Contracting States shall establish joint rescue coordination centres in every region",
+      "B": "Contracting States should establish joint rescue coordination centres to coordinate aeronautical and maritime search and rescue operations, where practical",
+      "C": "Joint rescue coordination centres are mandatory for coastal States",
+      "D": "Joint rescue coordination centres must be established only for high seas areas",
+      "E": "Joint rescue coordination centres replace all aeronautical RCCs",
+      "F": "Joint rescue coordination centres are prohibited under Annex 12"
+    },
+    "correct_answer": "B",
+    "explanation": "Chapter 2, 'Search and rescue services', paragraph 6 (Recommendation): 'Contracting States should establish joint rescue coordination centres to coordinate aeronautical and maritime search and rescue operations, where practical.'",
+    "difficulty": "easy",
+    "topic": "Organization",
+    "document": "ICAO ANNEX 12",
+    "chapter": "CHAPTER 2. ORGANIZATION",
+    "sub_chapter": "Search and rescue services",
+    "image_description": null
+  },
+  {
+    "temp_id": "n3o4p5q6-7r8s-4t9u-0v1w-2x3y4z5a6b7c",
+    "question_text": "How must Contracting States delineate search and rescue regions in relation to each other?",
+    "options": {
+      "A": "They may overlap to ensure coverage",
+      "B": "They shall not overlap and neighbouring regions shall be contiguous",
+      "C": "They must be separated by at least 10 nautical miles",
+      "D": "They must be coincident with national boundaries",
+      "E": "They shall be based solely on maritime boundaries",
+      "F": "Overlap is allowed only for high seas areas"
+    },
+    "correct_answer": "B",
+    "explanation": "Chapter 2, 'Search and rescue regions', paragraph 2.1: 'Contracting States shall delineate the search and rescue regions within which they will provide search and rescue services. Such regions shall not overlap and neighbouring regions shall be contiguous.'",
+    "difficulty": "easy",
+    "topic": "Organization",
+    "document": "ICAO ANNEX 12",
+    "chapter": "CHAPTER 2. ORGANIZATION",
+    "sub_chapter": "Search and rescue regions",
+    "image_description": null
+  },
+  {
+    "temp_id": "o4p5q6r7-8s9t-4u0v-1w2x-3y4z5a6b7c8d",
+    "question_text": "According to the notes in Chapter 2, the delineation of search and rescue regions is determined on the basis of technical and operational considerations and is related to the delineation of boundaries between States.",
+    "options": {
+      "True": "False",
+      "False": "True"
+    },
+    "correct_answer": "False",
+    "explanation": "Chapter 2, 'Search and rescue regions', Note 2: 'The delineation of search and rescue regions is determined on the basis of technical and operational considerations and is not related to the delineation of boundaries between States.'",
+    "difficulty": "medium",
+    "topic": "Organization",
+    "document": "ICAO ANNEX 12",
+    "chapter": "CHAPTER 2. ORGANIZATION",
+    "sub_chapter": "Search and rescue regions",
+    "image_description": null
+  },
+  {
+    "temp_id": "p5q6r7s8-9t0u-4v1w-2x3y-4z5a6b7c8d9e",
+    "question_text": "What does Annex 12 require regarding the staffing of each rescue coordination centre?",
+    "options": {
+      "A": "Staffed only during daylight hours",
+      "B": "Staffed 24 hours a day by trained personnel proficient in the use of the language used for radiotelephony communications",
+      "C": "Staffed by personnel who are proficient only in English",
+      "D": "Staffed by at least three persons at all times",
+      "E": "Staffed on a part-time basis with call-out procedures",
+      "F": "Staffed only by military personnel"
+    },
+    "correct_answer": "B",
+    "explanation": "Chapter 2, 'Rescue coordination centres and rescue subcentres', paragraph 2.3: 'Each rescue coordination centre and, as appropriate, rescue subcentre, shall be staffed 24 hours a day by trained personnel proficient in the use of the language used for radiotelephony communications.'",
+    "difficulty": "easy",
+    "topic": "Organization",
+    "document": "ICAO ANNEX 12",
+    "chapter": "CHAPTER 2. ORGANIZATION",
+    "sub_chapter": "Rescue coordination centres and rescue subcentres",
+    "image_description": null
+  },
+  {
+    "temp_id": "q6r7s8t9-0u1v-4w2x-3y4z-5a6b7c8d9e0f",
+    "question_text": "Which of the following is a recommended practice regarding language proficiency for RCC personnel involved in radiotelephony communications?",
+    "options": {
+      "A": "They shall be proficient in the local language only",
+      "B": "They should be proficient in the use of the English language",
+      "C": "They must be native English speakers",
+      "D": "They are not required to speak any language",
+      "E": "They should be proficient only in French",
+      "F": "Proficiency in Spanish is mandatory"
+    },
+    "correct_answer": "B",
+    "explanation": "Chapter 2, 'Rescue coordination centres and rescue subcentres', paragraph 2.4 (Recommendation): 'RCC personnel involved in the conduct of radiotelephony communications should be proficient in the use of the English language.'",
+    "difficulty": "easy",
+    "topic": "Organization",
+    "document": "ICAO ANNEX 12",
+    "chapter": "CHAPTER 2. ORGANIZATION",
+    "sub_chapter": "Rescue coordination centres and rescue subcentres",
+    "image_description": null
+  },
+  {
+    "temp_id": "r7s8t9u0-1v2w-4x3y-4z5a-6b7c8d9e0f1g",
+    "question_text": "Each rescue coordination centre shall have means of rapid and reliable two-way communication with which of the following?",
+    "options": {
+      "A": "Only associated air traffic services units",
+      "B": "Only search and rescue units",
+      "C": "Associated air traffic services units, rescue subcentres, direction-finding stations, coastal radio stations, SAR unit headquarters, maritime rescue coordination centres, meteorological office, SAR units, alerting posts, and the Cospas-Sarsat Mission Control Centre",
+      "D": "Only maritime rescue coordination centres",
+      "E": "Only the Cospas-Sarsat Mission Control Centre",
+      "F": "Only alerting posts and meteorological offices"
+    },
+    "correct_answer": "C",
+    "explanation": "Chapter 2, 'Search and rescue communications', paragraph 2.1 lists all required two-way communications: a) associated air traffic services units; b) associated rescue subcentres; c) appropriate direction-finding and position-fixing stations; d) where appropriate, coastal radio stations; e) headquarters of search and rescue units; f) all maritime rescue coordination centres; g) a designated meteorological office or meteorological watch office; h) search and rescue units; i) alerting posts; and j) the Cospas-Sarsat Mission Control Centre.",
+    "difficulty": "hard",
+    "topic": "Organization",
+    "document": "ICAO ANNEX 12",
+    "chapter": "CHAPTER 2. ORGANIZATION",
+    "sub_chapter": "Search and rescue communications",
+    "image_description": null
+  },
+  {
+    "temp_id": "s8t9u0v1-2w3x-4y4z-5a6b-7c8d9e0f1g2h",
+    "question_text": "According to Annex 12, each search and rescue aircraft shall be equipped to be able to communicate on the aeronautical distress and on-scene frequencies and on such other frequencies as may be prescribed.",
+    "options": {
+      "True": "True",
+      "False": "False"
+    },
+    "correct_answer": "True",
+    "explanation": "Chapter 2, 'Search and rescue equipment', paragraph 2.3: 'Each search and rescue aircraft shall be equipped to be able to communicate on the aeronautical distress and on-scene frequencies and on such other frequencies as may be prescribed.'",
+    "difficulty": "easy",
+    "topic": "Organization",
+    "document": "ICAO ANNEX 12",
+    "chapter": "CHAPTER 2. ORGANIZATION",
+    "sub_chapter": "Search and rescue equipment",
+    "image_description": null
+  },
+  {
+    "temp_id": "t9u0v1w2-3x4y-4z5a-6b7c-8d9e0f1g2h3i",
+    "question_text": "What does Annex 12 require for each search and rescue aircraft when used for search and rescue over maritime areas regarding language barriers with ships?",
+    "options": {
+      "A": "It shall carry a copy of the International Code of Signals",
+      "B": "It shall carry an interpreter",
+      "C": "It shall broadcast in all ICAO languages",
+      "D": "It shall communicate only via Morse code",
+      "E": "It shall avoid communication with ships",
+      "F": "It shall rely on Cospas-Sarsat messages"
+    },
+    "correct_answer": "A",
+    "explanation": "Chapter 2, 'Search and rescue equipment', paragraph 2.6: 'Each search and rescue aircraft, when used for search and rescue over maritime areas shall carry a copy of the International Code of Signals to enable it to overcome language difficulties that may be experienced in communicating with ships.'",
+    "difficulty": "medium",
+    "topic": "Organization",
+    "document": "ICAO ANNEX 12",
+    "chapter": "CHAPTER 2. ORGANIZATION",
+    "sub_chapter": "Search and rescue equipment",
+    "image_description": null
+  },
+  {
+    "temp_id": "u0v1w2x3-4y5z-4a6b-7c8d-9e0f1g2h3i4j",
+    "question_text": "According to Chapter 3, subject to conditions prescribed by its own authorities, a Contracting State shall permit immediate entry into its territory of search and rescue units of other States for what specific purpose?",
+    "options": {
+      "A": "For routine training exercises",
+      "B": "For searching for the site of aircraft accidents and rescuing survivors of such accidents",
+      "C": "For any type of emergency response",
+      "D": "For maritime pollution control",
+      "E": "For military operations",
+      "F": "For commercial purposes"
+    },
+    "correct_answer": "B",
+    "explanation": "Chapter 3, 'Cooperation between States', paragraph 3.3: 'Subject to such conditions as may be prescribed by its own authorities, a Contracting State shall permit immediate entry into its territory of search and rescue units of other States for the purpose of searching for the site of aircraft accidents and rescuing survivors of such accidents.'",
+    "difficulty": "easy",
+    "topic": "Cooperation",
+    "document": "ICAO ANNEX 12",
+    "chapter": "CHAPTER 3. COOPERATION",
+    "sub_chapter": "Cooperation between States",
+    "image_description": null
+  },
+  {
+    "temp_id": "v1w2x3y4-5z6a-4b7c-8d9e-0f1g2h3i4j5k",
+    "question_text": "When a Contracting State wishes its search and rescue units to enter another State's territory, the request shall be transmitted to the rescue coordination centre of the State concerned or to such other authority as has been designated by that State.",
+    "options": {
+      "True": "True",
+      "False": "False"
+    },
+    "correct_answer": "True",
+    "explanation": "Chapter 3, 'Cooperation between States', paragraph 3.4: 'The authorities of a Contracting State who wish their search and rescue units to enter the territory of another Contracting State for search and rescue purposes shall transmit a request, giving full details of the projected mission and the need for it, to the rescue coordination centre of the State concerned or to such other authority as has been designated by that State.'",
+    "difficulty": "easy",
+    "topic": "Cooperation",
+    "document": "ICAO ANNEX 12",
+    "chapter": "CHAPTER 3. COOPERATION",
+    "sub_chapter": "Cooperation between States",
+    "image_description": null
+  },
+  {
+    "temp_id": "w2x3y4z5-6a7b-4c8d-9e0f-1g2h3i4j5k6l",
+    "question_text": "Which of the following is a recommended practice regarding agreements with neighbouring States for search and rescue?",
+    "options": {
+      "A": "Contracting States should enter into agreements to strengthen search and rescue cooperation and coordination, setting forth conditions for entry of each other's SAR units",
+      "B": "Contracting States are prohibited from making such agreements",
+      "C": "Agreements must be approved by ICAO",
+      "D": "Agreements apply only to maritime SAR",
+      "E": "Agreements must include financial compensation",
+      "F": "Agreements are mandatory for all States"
+    },
+    "correct_answer": "A",
+    "explanation": "Chapter 3, 'Cooperation between States', paragraph 3.5 (Recommendation): 'Contracting States should enter into agreements with neighbouring States to strengthen search and rescue cooperation and coordination, setting forth the conditions for entry of each other's search and rescue units into their respective territories.'",
+    "difficulty": "easy",
+    "topic": "Cooperation",
+    "document": "ICAO ANNEX 12",
+    "chapter": "CHAPTER 3. COOPERATION",
+    "sub_chapter": "Cooperation between States",
+    "image_description": null
+  },
+  {
+    "temp_id": "x3y4z5a6-7b8c-4d9e-0f1g-2h3i4j5k6l7m",
+    "question_text": "According to Annex 12, each Contracting State is recommended to authorize its rescue coordination centres to request assistance from other RCCs, grant permission for entry of aircraft/vessels/persons/equipment, and make arrangements with customs/immigration authorities to expedite entry.",
+    "options": {
+      "True": "True",
+      "False": "False"
+    },
+    "correct_answer": "True",
+    "explanation": "Chapter 3, 'Cooperation between States', paragraph 3.6 (Recommendation): 'Each Contracting State should authorize its rescue coordination centres to: a) request from other rescue coordination centres such assistance... b) grant any necessary permission for the entry... c) make the necessary arrangements with the appropriate customs, immigration or other authorities with a view to expediting such entry.'",
+    "difficulty": "medium",
+    "topic": "Cooperation",
+    "document": "ICAO ANNEX 12",
+    "chapter": "CHAPTER 3. COOPERATION",
+    "sub_chapter": "Cooperation between States",
+    "image_description": null
+  },
+  {
+    "temp_id": "y4z5a6b7-8c9d-4e0f-1g2h-3i4j5k6l7m8n",
+    "question_text": "What arrangement regarding joint training exercises does Annex 12 recommend?",
+    "options": {
+      "A": "Contracting States should make arrangements for joint training exercises involving their search and rescue units, those of other States and operators",
+      "B": "Joint training exercises are mandatory every year",
+      "C": "Training exercises shall be conducted only with maritime units",
+      "D": "Only military SAR units may participate in joint exercises",
+      "E": "Joint exercises are prohibited due to security concerns",
+      "F": "Training exercises shall be conducted by ICAO"
+    },
+    "correct_answer": "A",
+    "explanation": "Chapter 3, 'Cooperation between States', paragraph 3.8 (Recommendation): 'Contracting States should make arrangements for joint training exercises involving their search and rescue units, those of other States and operators, in order to promote search and rescue efficiency.'",
+    "difficulty": "easy",
+    "topic": "Cooperation",
+    "document": "ICAO ANNEX 12",
+    "chapter": "CHAPTER 3. COOPERATION",
+    "sub_chapter": "Cooperation between States",
+    "image_description": null
+  },
+  {
+    "temp_id": "z5a6b7c8-9d0e-4f1g-2h3i-4j5k6l7m8n9o",
+    "question_text": "According to Chapter 3, Contracting States shall arrange for all aircraft, vessels and local services and facilities which do not form part of the search and rescue organization to cooperate fully with the latter in search and rescue and to extend any possible assistance to the survivors of aircraft accidents.",
+    "options": {
+      "True": "True",
+      "False": "False"
+    },
+    "correct_answer": "True",
+    "explanation": "Chapter 3, 'Cooperation with other services', paragraph 3.1: 'Contracting States shall arrange for all aircraft, vessels and local services and facilities which do not form part of the search and rescue organization to cooperate fully with the latter in search and rescue and to extend any possible assistance to the survivors of aircraft accidents.'",
+    "difficulty": "easy",
+    "topic": "Cooperation",
+    "document": "ICAO ANNEX 12",
+    "chapter": "CHAPTER 3. COOPERATION",
+    "sub_chapter": "Cooperation with other services",
+    "image_description": null
+  },
+  {
+    "temp_id": "a6b7c8d9-0e1f-4g2h-3i4j-5k6l7m8n9o0p",
+    "question_text": "What does Annex 12 recommend regarding accident investigation and rescue units?",
+    "options": {
+      "A": "Rescue units should be accompanied by persons qualified in the conduct of aircraft accident investigations when practicable",
+      "B": "Rescue units shall not interfere with accident investigation",
+      "C": "Accident investigators must be part of every rescue unit",
+      "D": "Rescue units are prohibited from having investigators",
+      "E": "Only the State of Registry may conduct investigations",
+      "F": "Investigations shall be completed before rescue operations"
+    },
+    "correct_answer": "A",
+    "explanation": "Chapter 3, 'Cooperation with other services', paragraph 3.4 (Recommendation): 'To facilitate accident investigation, rescue units should, when practicable, be accompanied by persons qualified in the conduct of aircraft accident investigations.'",
+    "difficulty": "medium",
+    "topic": "Cooperation",
+    "document": "ICAO ANNEX 12",
+    "chapter": "CHAPTER 3. COOPERATION",
+    "sub_chapter": "Cooperation with other services",
+    "image_description": null
+  },
+  {
+    "temp_id": "b7c8d9e0-1f2g-4h3i-4j5k-6l7m8n9o0p1q",
+    "question_text": "Which of the following information must each rescue coordination centre have readily available at all times according to Chapter 4?",
+    "options": {
+      "A": "Only the locations of search and rescue units",
+      "B": "Up-to-date information concerning search and rescue units, rescue subcentres, alerting posts, air traffic services units, means of communication, addresses/telephones of operators, and other public/private resources including medical and transportation facilities",
+      "C": "Only the addresses of operators",
+      "D": "Only the means of communication",
+      "E": "Only medical facilities",
+      "F": "Only the names of RCC personnel"
+    },
+    "correct_answer": "B",
+    "explanation": "Chapter 4, 'Preparatory information', paragraph 4.1 lists all required items: a) search and rescue units, rescue subcentres and alerting posts; b) air traffic services units; c) means of communication; d) addresses and telephone numbers of all operators; e) any other public and private resources including medical and transportation facilities.",
+    "difficulty": "medium",
+    "topic": "Preparatory Measures",
+    "document": "ICAO ANNEX 12",
+    "chapter": "CHAPTER 4. PREPARATORY MEASURES",
+    "sub_chapter": "Preparatory information",
+    "image_description": null
+  },
+  {
+    "temp_id": "c8d9e0f1-2g3h-4i4j-5k6l-7m8n9o0p1q2r",
+    "question_text": "According to Annex 12, each rescue coordination centre shall prepare detailed plans of operation for the conduct of search and rescue operations within its search and rescue region.",
+    "options": {
+      "True": "True",
+      "False": "False"
+    },
+    "correct_answer": "True",
+    "explanation": "Chapter 4, 'Plans of operation', paragraph 4.1: 'Each rescue coordination centre shall prepare detailed plans of operation for the conduct of search and rescue operations within its search and rescue region.'",
+    "difficulty": "easy",
+    "topic": "Preparatory Measures",
+    "document": "ICAO ANNEX 12",
+    "chapter": "CHAPTER 4. PREPARATORY MEASURES",
+    "sub_chapter": "Plans of operation",
+    "image_description": null
+  },
+  {
+    "temp_id": "d9e0f1g2-3h4i-4j5k-6l7m-8n9o0p1q2r3s",
+    "question_text": "What must the plans of operation specify regarding servicing and refuelling?",
+    "options": {
+      "A": "Arrangements for servicing and refuelling, to the extent possible, of aircraft, vessels and vehicles employed in search and rescue operations, including those made available by other States",
+      "B": "That only State-owned aircraft may be refuelled",
+      "C": "That refuelling is the responsibility of the operator",
+      "D": "That no refuelling shall be provided to foreign units",
+      "E": "That refuelling is prohibited during SAR operations",
+      "F": "That only vessels may be refuelled, not aircraft"
+    },
+    "correct_answer": "A",
+    "explanation": "Chapter 4, 'Plans of operation', paragraph 4.3: 'The plans of operation shall specify arrangements for the servicing and refuelling, to the extent possible, of aircraft, vessels and vehicles employed in search and rescue operations, including those made available by other States.'",
+    "difficulty": "medium",
+    "topic": "Preparatory Measures",
+    "document": "ICAO ANNEX 12",
+    "chapter": "CHAPTER 4. PREPARATORY MEASURES",
+    "sub_chapter": "Plans of operation",
+    "image_description": null
+  },
+  {
+    "temp_id": "e0f1g2h3-4i5j-4k6l-7m8n-9o0p1q2r3s4t",
+    "question_text": "Which of the following is a requirement for each search and rescue unit according to Chapter 4?",
+    "options": {
+      "A": "Be cognizant of all parts of the plans of operation that are necessary for the effective conduct of its duties, and keep the rescue coordination centre informed of its preparedness",
+      "B": "Operate only within its own national boundaries",
+      "C": "Maintain a fleet of at least three aircraft",
+      "D": "Have a medical doctor on board at all times",
+      "E": "Be equipped with night vision goggles",
+      "F": "Conduct daily training exercises"
+    },
+    "correct_answer": "A",
+    "explanation": "Chapter 4, 'Search and rescue units', paragraph 4.1: 'Each search and rescue unit shall: a) be cognizant of all parts of the plans of operation prescribed in 4.2 that are necessary for the effective conduct of its duties; and b) keep the rescue coordination centre informed of its preparedness.'",
+    "difficulty": "easy",
+    "topic": "Preparatory Measures",
+    "document": "ICAO ANNEX 12",
+    "chapter": "CHAPTER 4. PREPARATORY MEASURES",
+    "sub_chapter": "Search and rescue units",
+    "image_description": null
+  },
+  {
+    "temp_id": "f1g2h3i4-5j6k-4l7m-8n9o-0p1q2r3s4t5u",
+    "question_text": "To achieve and maintain maximum efficiency in search and rescue, Contracting States shall provide for regular training of their search and rescue personnel and arrange appropriate search and rescue exercises.",
+    "options": {
+      "True": "True",
+      "False": "False"
+    },
+    "correct_answer": "True",
+    "explanation": "Chapter 4, 'Training and exercises': 'To achieve and maintain maximum efficiency in search and rescue, Contracting States shall provide for regular training of their search and rescue personnel and arrange appropriate search and rescue exercises.'",
+    "difficulty": "easy",
+    "topic": "Preparatory Measures",
+    "document": "ICAO ANNEX 12",
+    "chapter": "CHAPTER 4. PREPARATORY MEASURES",
+    "sub_chapter": "Training and exercises",
+    "image_description": null
+  },
+  {
+    "temp_id": "g2h3i4j5-6k7l-4m8n-9o0p-1q2r3s4t5u6v",
+    "question_text": "According to the recommendation on wreckage, when should wreckage be removed, obliterated or charted?",
+    "options": {
+      "A": "Immediately after the accident",
+      "B": "Following completion of the accident investigation, if its presence might constitute a hazard or confuse subsequent search and rescue operations",
+      "C": "Within 24 hours of the accident",
+      "D": "Only if requested by the State of Registry",
+      "E": "Never, as wreckage must be preserved",
+      "F": "Only if it is in international waters"
+    },
+    "correct_answer": "B",
+    "explanation": "Chapter 4, 'Wreckage' (Recommendation): 'Each Contracting State should ensure that wreckage resulting from aircraft accidents within its territory... is removed, obliterated or charted following completion of the accident investigation, if its presence might constitute a hazard or confuse subsequent search and rescue operations.'",
+    "difficulty": "medium",
+    "topic": "Preparatory Measures",
+    "document": "ICAO ANNEX 12",
+    "chapter": "CHAPTER 4. PREPARATORY MEASURES",
+    "sub_chapter": "Wreckage",
+    "image_description": null
+  },
+  {
+    "temp_id": "h3i4j5k6-7l8m-4n9o-0p1q-2r3s4t5u6v7w",
+    "question_text": "Any authority or any element of the search and rescue organization having reason to believe that an aircraft is in an emergency shall give immediately all available information to the rescue coordination centre concerned.",
+    "options": {
+      "True": "True",
+      "False": "False"
+    },
+    "correct_answer": "True",
+    "explanation": "Chapter 5, 'Information concerning emergencies', paragraph 5.1: 'Any authority or any element of the search and rescue organization having reason to believe that an aircraft is in an emergency shall give immediately all available information to the rescue coordination centre concerned.'",
+    "difficulty": "easy",
+    "topic": "Operating Procedures",
+    "document": "ICAO ANNEX 12",
+    "chapter": "CHAPTER 5. OPERATING PROCEDURES",
+    "sub_chapter": "Information concerning emergencies",
+    "image_description": null
+  },
+  {
+    "temp_id": "i4j5k6l7-8m9n-4o0p-1q2r-3s4t5u6v7w8x",
+    "question_text": "Upon receipt of information concerning aircraft in emergency, what must rescue coordination centres do?",
+    "options": {
+      "A": "Immediately launch all available aircraft",
+      "B": "Evaluate such information and assess the extent of the operation required",
+      "C": "Notify the press",
+      "D": "Contact the aircraft's manufacturer",
+      "E": "Declare a distress phase immediately",
+      "F": "Inform the State of Registry only"
+    },
+    "correct_answer": "B",
+    "explanation": "Chapter 5, 'Information concerning emergencies', paragraph 5.2: 'Rescue coordination centres shall, immediately upon receipt of information concerning aircraft in emergency, evaluate such information and assess the extent of the operation required.'",
+    "difficulty": "easy",
+    "topic": "Operating Procedures",
+    "document": "ICAO ANNEX 12",
+    "chapter": "CHAPTER 5. OPERATING PROCEDURES",
+    "sub_chapter": "Information concerning emergencies",
+    "image_description": null
+  },
+  {
+    "temp_id": "j5k6l7m8-9n0o-4p1q-2r3s-4t5u6v7w8x9y",
+    "question_text": "During the alert phase, the rescue coordination centre shall immediately alert search and rescue units and initiate any necessary action.",
+    "options": {
+      "True": "True",
+      "False": "False"
+    },
+    "correct_answer": "True",
+    "explanation": "Chapter 5, 'Procedures for rescue coordination centres during emergency phases', paragraph 5.2: 'Upon the occurrence of an alert phase the rescue coordination centre shall immediately alert search and rescue units and initiate any necessary action.'",
+    "difficulty": "easy",
+    "topic": "Operating Procedures",
+    "document": "ICAO ANNEX 12",
+    "chapter": "CHAPTER 5. OPERATING PROCEDURES",
+    "sub_chapter": "Procedures for rescue coordination centres during emergency phases",
+    "image_description": null
+  },
+  {
+    "temp_id": "k6l7m8n9-0o1p-4q2r-3s4t-5u6v7w8x9y0z",
+    "question_text": "What actions must a rescue coordination centre take upon occurrence of a distress phase? (Select the option that lists required actions as per the text)",
+    "options": {
+      "A": "Immediately launch aircraft without any plan",
+      "B": "Immediately initiate action by search and rescue units in accordance with the appropriate plan of operation, ascertain aircraft position, notify the operator, notify other RCCs, notify air traffic services, request assistance from other services, draw up a detailed plan, amend as necessary, notify accident investigation authorities, and notify the State of Registry",
+      "C": "Only notify the State of Registry",
+      "D": "Only draw up a detailed plan",
+      "E": "Only request assistance from other services",
+      "F": "Only ascertain the position of the aircraft"
+    },
+    "correct_answer": "B",
+    "explanation": "Chapter 5, 'Procedures for rescue coordination centres during emergency phases', paragraph 5.3 lists all actions a) through j).",
+    "difficulty": "hard",
+    "topic": "Operating Procedures",
+    "document": "ICAO ANNEX 12",
+    "chapter": "CHAPTER 5. OPERATING PROCEDURES",
+    "sub_chapter": "Procedures for rescue coordination centres during emergency phases",
+    "image_description": null
+  },
+  {
+    "temp_id": "l7m8n9o0-1p2q-4r3s-4t5u-6v7w8x9y0z1a",
+    "question_text": "According to Annex 12, when an emergency phase is declared in respect of an aircraft whose position is unknown and may be in one of two or more search and rescue regions, which rescue coordination centre shall assume responsibility unless otherwise decided by common agreement?",
+    "options": {
+      "A": "The centre responsible for the region where the aircraft was manufactured",
+      "B": "The centre responsible for the region in which the aircraft last reported its position, or the region to which it was proceeding when last reported on the line separating two regions, or the region to which it was destined if not equipped with suitable two-way radio, or the region where the distress site is identified by Cospas-Sarsat",
+      "C": "The centre that first receives the distress call",
+      "D": "The centre with the largest SAR fleet",
+      "E": "The centre designated by ICAO",
+      "F": "The centre of the State of Registry"
+    },
+    "correct_answer": "B",
+    "explanation": "Chapter 5, 'Procedures for rescue coordination centres during emergency phases', paragraph 5.4 b): 'Unless otherwise decided by common agreement of the rescue coordination centres concerned, the rescue coordination centre to coordinate search and rescue action shall be the centre responsible for: - the region in which the aircraft last reported its position; or - the region to which the aircraft was proceeding when its last reported position was on the line separating two search and rescue regions; or - the region to which the aircraft was destined when it was not equipped with suitable two-way radio communication or not under obligation to maintain radio communication; or - the region in which the distress site is located as identified by the Cospas-Sarsat system.'",
+    "difficulty": "hard",
+    "topic": "Operating Procedures",
+    "document": "ICAO ANNEX 12",
+    "chapter": "CHAPTER 5. OPERATING PROCEDURES",
+    "sub_chapter": "Procedures for rescue coordination centres during emergency phases",
+    "image_description": null
+  },
+  {
+    "temp_id": "m8n9o0p1-2q3r-4s4t-5u6v-7w8x9y0z1a2b",
+    "question_text": "When a pilot-in-command observes that another aircraft or a surface craft is in distress, the pilot shall, if possible, keep the craft in distress in sight until compelled to leave the scene or advised by the RCC that it is no longer necessary.",
+    "options": {
+      "True": "True",
+      "False": "False"
+    },
+    "correct_answer": "True",
+    "explanation": "Chapter 5, 'Procedures at the scene of an accident', paragraph 5.6.2 a): 'keep the craft in distress in sight until compelled to leave the scene or advised by the rescue coordination centre that it is no longer necessary'.",
+    "difficulty": "easy",
+    "topic": "Operating Procedures",
+    "document": "ICAO ANNEX 12",
+    "chapter": "CHAPTER 5. OPERATING PROCEDURES",
+    "sub_chapter": "Procedures at the scene of an accident",
+    "image_description": null
+  },
+  {
+    "temp_id": "n9o0p1q2-3r4s-4t5u-6v7w-8x9y0z1a2b3c",
+    "question_text": "According to the procedures at the scene of an accident, if the first aircraft to reach the scene is not a search and rescue aircraft, what shall it do?",
+    "options": {
+      "A": "Leave the scene immediately",
+      "B": "Take charge of on-scene activities of all other aircraft subsequently arriving until the first search and rescue aircraft reaches the scene",
+      "C": "Land immediately to assist",
+      "D": "Only broadcast a MAYDAY call",
+      "E": "Ignore the accident",
+      "F": "Request permission from the RCC before taking any action"
+    },
+    "correct_answer": "B",
+    "explanation": "Chapter 5, 'Procedures at the scene of an accident', paragraph 5.6.4: 'If the first aircraft to reach the scene of an accident is not a search and rescue aircraft, it shall take charge of on-scene activities of all other aircraft subsequently arriving until the first search and rescue aircraft reaches the scene of the accident.'",
+    "difficulty": "medium",
+    "topic": "Operating Procedures",
+    "document": "ICAO ANNEX 12",
+    "chapter": "CHAPTER 5. OPERATING PROCEDURES",
+    "sub_chapter": "Procedures at the scene of an accident",
+    "image_description": null
+  },
+  {
+    "temp_id": "o0p1q2r3-4s5t-4u6v-7w8x-9y0z1a2b3c4d",
+    "question_text": "When it is necessary for an aircraft to convey information to survivors or surface rescue units and two-way communication is not available, what shall it do if practicable?",
+    "options": {
+      "A": "Drop communication equipment that would enable direct contact, or drop a hard copy message",
+      "B": "Abandon the attempt",
+      "C": "Signal with flares only",
+      "D": "Circle and rock wings",
+      "E": "Land nearby",
+      "F": "Broadcast on all frequencies"
+    },
+    "correct_answer": "A",
+    "explanation": "Chapter 5, 'Procedures at the scene of an accident', paragraph 5.6.5: 'When it is necessary for an aircraft to convey information to survivors or surface rescue units, and two-way communication is not available, it shall, if practicable, drop communication equipment that would enable direct contact to be established, or convey the information by dropping a hard copy message.'",
+    "difficulty": "medium",
+    "topic": "Operating Procedures",
+    "document": "ICAO ANNEX 12",
+    "chapter": "CHAPTER 5. OPERATING PROCEDURES",
+    "sub_chapter": "Procedures at the scene of an accident",
+    "image_description": null
+  },
+  {
+    "temp_id": "p1q2r3s4-5t6u-4v7w-8x9y-0z1a2b3c4d5e",
+    "question_text": "Whenever a distress transmission is intercepted by a pilot-in-command of an aircraft, the pilot shall, if feasible, acknowledge the distress transmission, record the position, take a bearing, inform the appropriate RCC or ATS unit, and at the pilot's discretion, proceed to the position given.",
+    "options": {
+      "True": "True",
+      "False": "False"
+    },
+    "correct_answer": "True",
+    "explanation": "Chapter 5, 'Procedures for a pilot-in-command intercepting a distress transmission': 'Whenever a distress transmission is intercepted by a pilot-in-command of an aircraft, the pilot shall, if feasible: a) acknowledge the distress transmission; b) record the position... c) take a bearing... d) inform the appropriate rescue coordination centre... and e) at the pilot's discretion, while awaiting instructions, proceed to the position given in the transmission.'",
+    "difficulty": "easy",
+    "topic": "Operating Procedures",
+    "document": "ICAO ANNEX 12",
+    "chapter": "CHAPTER 5. OPERATING PROCEDURES",
+    "sub_chapter": "Procedures for a pilot-in-command intercepting a distress transmission",
+    "image_description": null
+  },
+  {
+    "temp_id": "q2r3s4t5-6u7v-4w8x-9y0z-1a2b3c4d5e6f",
+    "question_text": "According to Annex 12, the air-to-surface and surface-to-air visual signals in the Appendix shall be used only for the purpose indicated and no other signals likely to be confused with them shall be used.",
+    "options": {
+      "True": "True",
+      "False": "False"
+    },
+    "correct_answer": "True",
+    "explanation": "Chapter 5, 'Search and rescue signals', paragraph 5.8.1: 'The air-to-surface and surface-to-air visual signals in the Appendix shall, when used, have the meaning indicated therein. They shall be used only for the purpose indicated and no other signals likely to be confused with them shall be used.'",
+    "difficulty": "easy",
+    "topic": "Operating Procedures",
+    "document": "ICAO ANNEX 12",
+    "chapter": "CHAPTER 5. OPERATING PROCEDURES",
+    "sub_chapter": "Search and rescue signals",
+    "image_description": null
+  },
+  {
+    "temp_id": "r3s4t5u6-7v8w-4x9y-0z1a-2b3c4d5e6f7g",
+    "question_text": "Search and rescue operations shall continue, when practicable, until all survivors are delivered to a place of safety or until all reasonable hope of rescuing survivors has passed.",
+    "options": {
+      "True": "True",
+      "False": "False"
+    },
+    "correct_answer": "True",
+    "explanation": "Chapter 5, 'Procedures for rescue coordination centres --- termination and suspension of operations', paragraph 5.5.1: 'Search and rescue operations shall continue, when practicable, until all survivors are delivered to a place of safety or until all reasonable hope of rescuing survivors has passed.'",
+    "difficulty": "easy",
+    "topic": "Operating Procedures",
+    "document": "ICAO ANNEX 12",
+    "chapter": "CHAPTER 5. OPERATING PROCEDURES",
+    "sub_chapter": "Procedures for rescue coordination centres --- termination and suspension of operations",
+    "image_description": null
+  },
+  {
+    "temp_id": "s4t5u6v7-8w9x-4y0z-1a2b-3c4d5e6f7g8h",
+    "question_text": "When a search and rescue operation becomes impracticable and the RCC concludes that there might still be survivors, what shall the centre do?",
+    "options": {
+      "A": "Terminate the operation permanently",
+      "B": "Temporarily suspend on-scene activities pending further developments and promptly inform any activated authority, facility or service",
+      "C": "Continue regardless of cost",
+      "D": "Request international assistance",
+      "E": "Declare the phase as uncertainty phase",
+      "F": "Notify only the State of Registry"
+    },
+    "correct_answer": "B",
+    "explanation": "Chapter 5, 'Procedures for rescue coordination centres --- termination and suspension of operations', paragraph 5.5.4: 'If a search and rescue operation becomes impracticable and the rescue coordination centre concludes that there might still be survivors, the centre shall temporarily suspend on-scene activities pending further developments and shall promptly inform any authority, facility or service which has been activated or notified.'",
+    "difficulty": "medium",
+    "topic": "Operating Procedures",
+    "document": "ICAO ANNEX 12",
+    "chapter": "CHAPTER 5. OPERATING PROCEDURES",
+    "sub_chapter": "Procedures for rescue coordination centres --- termination and suspension of operations",
+    "image_description": null
+  },
+  {
+    "temp_id": "t5u6v7w8-9x0y-4z1a-2b3c-4d5e6f7g8h9i",
+    "question_text": "According to the Appendix, what does the following manoeuvre performed in sequence by an aircraft mean: circling the surface craft at least once, crossing the projected course close ahead at low altitude and rocking the wings, then heading in the direction in which the surface craft is to be directed?",
+    "options": {
+      "A": "The aircraft is in distress",
+      "B": "The aircraft wishes to direct a surface craft towards an aircraft or surface craft in distress",
+      "C": "The assistance of the surface craft is no longer required",
+      "D": "The aircraft requires medical assistance",
+      "E": "The aircraft is proceeding in this direction",
+      "F": "The surface craft should stop immediately"
+    },
+    "correct_answer": "B",
+    "explanation": "Appendix, 'Signals with surface craft', paragraph 1.1: 'The following manoeuvres performed in sequence by an aircraft mean that the aircraft wishes to direct a surface craft towards an aircraft or a surface craft in distress: a) circling the surface craft at least once; b) crossing the projected course of the surface craft close ahead at low altitude and: 1) rocking the wings... c) heading in the direction in which the surface craft is to be directed.'",
+    "difficulty": "medium",
+    "topic": "Search and Rescue Signals",
+    "document": "ICAO ANNEX 12",
+    "chapter": "APPENDIX. SEARCH AND RESCUE SIGNALS",
+    "sub_chapter": "Signals with surface craft",
+    "image_description": null
+  },
+  {
+    "temp_id": "u6v7w8x9-0y1z-4a2b-3c4d-5e6f7g8h9i0j",
+    "question_text": "What does the following manoeuvre by an aircraft mean: crossing the wake of the surface craft close astern at a low altitude and rocking the wings?",
+    "options": {
+      "A": "Direct the surface craft to follow",
+      "B": "The assistance of the surface craft is no longer required",
+      "C": "The aircraft requires fuel",
+      "D": "The surface craft is in distress",
+      "E": "The aircraft is lost",
+      "F": "Request to communicate"
+    },
+    "correct_answer": "B",
+    "explanation": "Appendix, 'Signals with surface craft', paragraph 1.2: 'The following manoeuvres by an aircraft means that the assistance of the surface craft to which the signal is directed is no longer required: - crossing the wake of the surface craft close astern at a low altitude and: 1) rocking the wings...'",
+    "difficulty": "medium",
+    "topic": "Search and Rescue Signals",
+    "document": "ICAO ANNEX 12",
+    "chapter": "APPENDIX. SEARCH AND RESCUE SIGNALS",
+    "sub_chapter": "Signals with surface craft",
+    "image_description": null
+  },
+  {
+    "temp_id": "v7w8x9y0-1z2a-4b3c-4d5e-6f7g8h9i0j1k",
+    "question_text": "According to the ground-air visual signal code for use by survivors, what code symbol means 'Require medical assistance'?",
+    "options": {
+      "A": "A cross shape (X)",
+      "B": "A rectangle with a line (as described in the document with image reference)",
+      "C": "A square with a diagonal",
+      "D": "The letter Y",
+      "E": "A circle with a dot",
+      "F": "A triangle"
+    },
+    "correct_answer": "B",
+    "explanation": "Appendix, 'Ground-air visual signal code', table for survivors: No. 2 'Require medical assistance' has a code symbol image. The text does not provide a textual description, but the image reference is present. The correct answer is that the symbol exists as per the table.",
+    "difficulty": "hard",
+    "topic": "Search and Rescue Signals",
+    "document": "ICAO ANNEX 12",
+    "chapter": "APPENDIX. SEARCH AND RESCUE SIGNALS",
+    "sub_chapter": "Ground-air visual signal code",
+    "image_description": null
+  },
+  {
+    "temp_id": "w8x9y0z1-2a3b-4c4d-5e6f-7g8h9i0j1k2l",
+    "question_text": "In the ground-air visual signal code for use by rescue units, the symbol indicating 'Operation completed' is described. What is the minimum length for symbols according to the Appendix?",
+    "options": {
+      "A": "1 metre",
+      "B": "2.5 metres (8 feet)",
+      "C": "5 metres",
+      "D": "10 metres",
+      "E": "0.5 metre",
+      "F": "No minimum specified"
+    },
+    "correct_answer": "B",
+    "explanation": "Appendix, 'Ground-air visual signal code', paragraph 2: 'Symbols shall be at least 2.5 metres (8 feet) long and shall be made as conspicuous as possible.'",
+    "difficulty": "easy",
+    "topic": "Search and Rescue Signals",
+    "document": "ICAO ANNEX 12",
+    "chapter": "APPENDIX. SEARCH AND RESCUE SIGNALS",
+    "sub_chapter": "Ground-air visual signal code",
+    "image_description": null
+  },
+  {
+    "temp_id": "x9y0z1a2-3b4c-4d5e-6f7g-8h9i0j1k2l3m",
+    "question_text": "What does the air-to-ground signal of rocking the aircraft's wings during hours of daylight indicate?",
+    "options": {
+      "A": "The aircraft is in distress",
+      "B": "The ground signals have been understood",
+      "C": "The aircraft requires landing",
+      "D": "The ground signal is not understood",
+      "E": "The aircraft is changing frequency",
+      "F": "The aircraft is returning to base"
+    },
+    "correct_answer": "B",
+    "explanation": "Appendix, 'Air-to-ground signals', paragraph 3.1: 'The following signals by aircraft mean that the ground signals have been understood: a) during the hours of daylight: - by rocking the aircraft's wings;'",
+    "difficulty": "easy",
+    "topic": "Search and Rescue Signals",
+    "document": "ICAO ANNEX 12",
+    "chapter": "APPENDIX. SEARCH AND RESCUE SIGNALS",
+    "sub_chapter": "Air-to-ground signals",
+    "image_description": null
+  },
+  {
+    "temp_id": "y0z1a2b3-4c5d-4e6f-7g8h-9i0j1k2l3m4n",
+    "question_text": "According to the Appendix, lack of the air-to-ground signal (rocking wings or flashing landing lights) indicates that the ground signal is not understood.",
+    "options": {
+      "True": "True",
+      "False": "False"
+    },
+    "correct_answer": "True",
+    "explanation": "Appendix, 'Air-to-ground signals', paragraph 3.2: 'Lack of the above signal indicates that the ground signal is not understood.'",
+    "difficulty": "easy",
+    "topic": "Search and Rescue Signals",
+    "document": "ICAO ANNEX 12",
+    "chapter": "APPENDIX. SEARCH AND RESCUE SIGNALS",
+    "sub_chapter": "Air-to-ground signals",
+    "image_description": null
+  },
+  {
+    "temp_id": "z1a2b3c4-5d6e-4f7g-8h9i-0j1k2l3m4n5o",
+    "question_text": "In the ground-air visual signal code for use by rescue units, the symbol for 'We have found all personnel' is described. According to the Appendix, what must States ensure regarding wreckage? (This question reuses earlier material for proportion)",
+    "options": {
+      "A": "Wreckage must be left in place indefinitely",
+      "B": "Wreckage should be removed, obliterated or charted following completion of accident investigation if it might constitute a hazard or confuse subsequent SAR operations",
+      "C": "Wreckage must be removed within 48 hours",
+      "D": "Wreckage belongs to the aircraft manufacturer",
+      "E": "Wreckage is never removed",
+      "F": "Only the State of Registry may remove wreckage"
+    },
+    "correct_answer": "B",
+    "explanation": "Chapter 4, 'Wreckage' (Recommendation): 'Each Contracting State should ensure that wreckage resulting from aircraft accidents within its territory... is removed, obliterated or charted following completion of the accident investigation, if its presence might constitute a hazard or confuse subsequent search and rescue operations.'",
+    "difficulty": "medium",
+    "topic": "Preparatory Measures",
+    "document": "ICAO ANNEX 12",
+    "chapter": "CHAPTER 4. PREPARATORY MEASURES",
+    "sub_chapter": "Wreckage",
+    "image_description": null
+  },
+  {
+    "temp_id": "a2b3c4d5-6e7f-4g8h-9i0j-1k2l3m4n5o6p",
+    "question_text": "Which of the following is NOT explicitly listed as a basic element of search and rescue services in Chapter 2?",
+    "options": {
+      "A": "A legal framework",
+      "B": "A responsible authority",
+      "C": "Organized available resources",
+      "D": "A dedicated fleet of aircraft",
+      "E": "Communication facilities",
+      "F": "A workforce skilled in coordination and operational functions"
+    },
+    "correct_answer": "D",
+    "explanation": "Chapter 2, 'Search and rescue services', paragraph 2: 'Basic elements of search and rescue services shall include a legal framework, a responsible authority, organized available resources, communication facilities and a workforce skilled in coordination and operational functions.' A dedicated fleet of aircraft is not listed as a basic element.",
+    "difficulty": "medium",
+    "topic": "Organization",
+    "document": "ICAO ANNEX 12",
+    "chapter": "CHAPTER 2. ORGANIZATION",
+    "sub_chapter": "Search and rescue services",
+    "image_description": null
+  },
+  {
+    "temp_id": "b3c4d5e6-7f8g-4h9i-0j1k-2l3m4n5o6p7q",
+    "question_text": "According to Chapter 2, where separate aeronautical and maritime rescue coordination centres serve the same area, States shall ensure the closest practicable coordination between the centres.",
+    "options": {
+      "True": "True",
+      "False": "False"
+    },
+    "correct_answer": "True",
+    "explanation": "Chapter 2, 'Search and rescue services', paragraph 5: 'Where separate aeronautical and maritime rescue coordination centres serve the same area, States shall ensure the closest practicable coordination between the centres.'",
+    "difficulty": "easy",
+    "topic": "Organization",
+    "document": "ICAO ANNEX 12",
+    "chapter": "CHAPTER 2. ORGANIZATION",
+    "sub_chapter": "Search and rescue services",
+    "image_description": null
+  },
+  {
+    "temp_id": "c4d5e6f7-8g9h-4i0j-1k2l-3m4n5o6p7q8r",
+    "question_text": "What does Note 1 in Chapter 2 state about the purpose of search and rescue regions?",
+    "options": {
+      "A": "To ensure the provision of adequate communication infrastructure, efficient distress alert routing and proper operational coordination to effectively support search and rescue services",
+      "B": "To define national boundaries",
+      "C": "To allocate financial resources",
+      "D": "To limit the number of RCCs",
+      "E": "To replace flight information regions",
+      "F": "To establish military control zones"
+    },
+    "correct_answer": "A",
+    "explanation": "Chapter 2, 'Search and rescue regions', Note 1: 'Search and rescue regions are established to ensure the provision of adequate communication infrastructure, efficient distress alert routing and proper operational coordination to effectively support search and rescue services.'",
+    "difficulty": "medium",
+    "topic": "Organization",
+    "document": "ICAO ANNEX 12",
+    "chapter": "CHAPTER 2. ORGANIZATION",
+    "sub_chapter": "Search and rescue regions",
+    "image_description": null
+  },
+  {
+    "temp_id": "d5e6f7g8-9h0i-4j1k-2l3m-4n5o6p7q8r9s",
+    "question_text": "According to the recommendation in Chapter 2, search and rescue regions should, in so far as practicable, be coincident with corresponding flight information regions and, with respect to areas over the high seas, maritime search and rescue regions.",
+    "options": {
+      "True": "True",
+      "False": "False"
+    },
+    "correct_answer": "True",
+    "explanation": "Chapter 2, 'Search and rescue regions', paragraph 2.2 (Recommendation): 'Search and rescue regions should, in so far as practicable, be coincident with corresponding flight information regions and, with respect to those areas over the high seas, maritime search and rescue regions.'",
+    "difficulty": "easy",
+    "topic": "Organization",
+    "document": "ICAO ANNEX 12",
+    "chapter": "CHAPTER 2. ORGANIZATION",
+    "sub_chapter": "Search and rescue regions",
+    "image_description": null
+  },
+  {
+    "temp_id": "e6f7g8h9-0i1j-4k2l-3m4n-5o6p7q8r9s0t",
+    "question_text": "Each rescue subcentre shall have means of rapid and reliable two-way communication with which of the following?",
+    "options": {
+      "A": "Adjacent rescue subcentres, a meteorological office, search and rescue units, and alerting posts",
+      "B": "Only adjacent rescue subcentres",
+      "C": "Only search and rescue units",
+      "D": "Only alerting posts",
+      "E": "International maritime organization",
+      "F": "The State's civil aviation authority"
+    },
+    "correct_answer": "A",
+    "explanation": "Chapter 2, 'Search and rescue communications', paragraph 2.2: 'Each rescue subcentre shall have means of rapid and reliable two-way communication with: a) adjacent rescue subcentres; b) a meteorological office or meteorological watch office; c) search and rescue units; and d) alerting posts.'",
+    "difficulty": "easy",
+    "topic": "Organization",
+    "document": "ICAO ANNEX 12",
+    "chapter": "CHAPTER 2. ORGANIZATION",
+    "sub_chapter": "Search and rescue communications",
+    "image_description": null
+  },
+  {
+    "temp_id": "f7g8h9i0-1j2k-4l3m-4n5o-6p7q8r9s0t1u",
+    "question_text": "Contracting States shall designate as search and rescue units elements of public or private services suitably located and equipped for search and rescue operations.",
+    "options": {
+      "True": "True",
+      "False": "False"
+    },
+    "correct_answer": "True",
+    "explanation": "Chapter 2, 'Search and rescue units', paragraph 2.1: 'Contracting States shall designate as search and rescue units elements of public or private services suitably located and equipped for search and rescue operations.'",
+    "difficulty": "easy",
+    "topic": "Organization",
+    "document": "ICAO ANNEX 12",
+    "chapter": "CHAPTER 2. ORGANIZATION",
+    "sub_chapter": "Search and rescue units",
+    "image_description": null
+  },
+  {
+    "temp_id": "g8h9i0j1-2k3l-4m4n-5o6p-7q8r9s0t1u2v",
+    "question_text": "Each search and rescue aircraft shall be equipped with a device for homing on distress frequencies.",
+    "options": {
+      "True": "True",
+      "False": "False"
+    },
+    "correct_answer": "True",
+    "explanation": "Chapter 2, 'Search and rescue equipment', paragraph 2.4: 'Each search and rescue aircraft shall be equipped with a device for homing on distress frequencies.'",
+    "difficulty": "easy",
+    "topic": "Organization",
+    "document": "ICAO ANNEX 12",
+    "chapter": "CHAPTER 2. ORGANIZATION",
+    "sub_chapter": "Search and rescue equipment",
+    "image_description": null
+  },
+  {
+    "temp_id": "h9i0j1k2-3l4m-4n5o-6p7q-8r9s0t1u2v3w",
+    "question_text": "According to the recommendation in Chapter 2, unless it is known that there is no need to provide supplies to survivors by air, at least one of the aircraft participating in a search and rescue operation should carry droppable survival equipment.",
+    "options": {
+      "True": "True",
+      "False": "False"
+    },
+    "correct_answer": "True",
+    "explanation": "Chapter 2, 'Search and rescue equipment', paragraph 2.7 (Recommendation): 'Unless it is known that there is no need to provide supplies to survivors by air, at least one of the aircraft participating in a search and rescue operation should carry droppable survival equipment.'",
+    "difficulty": "easy",
+    "topic": "Organization",
+    "document": "ICAO ANNEX 12",
+    "chapter": "CHAPTER 2. ORGANIZATION",
+    "sub_chapter": "Search and rescue equipment",
+    "image_description": null
+  },
+  {
+    "temp_id": "i0j1k2l3-4m5n-4o6p-7q8r-9s0t1u2v3w4x",
+    "question_text": "What does Chapter 3 require Contracting States to do regarding coordination of their search and rescue organizations?",
+    "options": {
+      "A": "They shall coordinate their search and rescue organizations with those of neighbouring States",
+      "B": "They may coordinate only if requested",
+      "C": "Coordination is optional",
+      "D": "They shall not coordinate with neighbouring States",
+      "E": "Coordination is the responsibility of ICAO",
+      "F": "Only maritime organizations need coordination"
+    },
+    "correct_answer": "A",
+    "explanation": "Chapter 3, 'Cooperation between States', paragraph 3.1: 'Contracting States shall coordinate their search and rescue organizations with those of neighbouring States.'",
+    "difficulty": "easy",
+    "topic": "Cooperation",
+    "document": "ICAO ANNEX 12",
+    "chapter": "CHAPTER 3. COOPERATION",
+    "sub_chapter": "Cooperation between States",
+    "image_description": null
+  },
+  {
+    "temp_id": "j1k2l3m4-5n6o-4p7q-8r9s-0t1u2v3w4x5y",
+    "question_text": "When a Contracting State receives a request from another State for entry of search and rescue units, the authorities shall immediately acknowledge the receipt of such a request and, as soon as possible, indicate the conditions, if any, under which the projected mission may be undertaken.",
+    "options": {
+      "True": "True",
+      "False": "False"
+    },
+    "correct_answer": "True",
+    "explanation": "Chapter 3, 'Cooperation between States', paragraph 3.4.1: 'The authorities of Contracting States shall: a) immediately acknowledge the receipt of such a request, and b) as soon as possible, indicate the conditions, if any, under which the projected mission may be undertaken.'",
+    "difficulty": "easy",
+    "topic": "Cooperation",
+    "document": "ICAO ANNEX 12",
+    "chapter": "CHAPTER 3. COOPERATION",
+    "sub_chapter": "Cooperation between States",
+    "image_description": null
+  },
+  {
+    "temp_id": "k2l3m4n5-6o7p-4q8r-9s0t-1u2v3w4x5y6z",
+    "question_text": "According to a recommendation in Chapter 3, Contracting States should make arrangements for periodic liaison visits by personnel of their rescue coordination centres and subcentres to the centres of neighbouring States.",
+    "options": {
+      "True": "True",
+      "False": "False"
+    },
+    "correct_answer": "True",
+    "explanation": "Chapter 3, 'Cooperation between States', paragraph 3.9 (Recommendation): 'Contracting States should make arrangements for periodic liaison visits by personnel of their rescue coordination centres and subcentres to the centres of neighbouring States.'",
+    "difficulty": "easy",
+    "topic": "Cooperation",
+    "document": "ICAO ANNEX 12",
+    "chapter": "CHAPTER 3. COOPERATION",
+    "sub_chapter": "Cooperation between States",
+    "image_description": null
+  },
+  {
+    "temp_id": "l3m4n5o6-7p8q-4r9s-0t1u-2v3w4x5y6z7a",
+    "question_text": "States shall designate a search and rescue point of contact for the receipt of Cospas-Sarsat distress data.",
+    "options": {
+      "True": "True",
+      "False": "False"
+    },
+    "correct_answer": "True",
+    "explanation": "Chapter 3, 'Cooperation with other services', paragraph 3.5: 'States shall designate a search and rescue point of contact for the receipt of Cospas-Sarsat distress data.'",
+    "difficulty": "easy",
+    "topic": "Cooperation",
+    "document": "ICAO ANNEX 12",
+    "chapter": "CHAPTER 3. COOPERATION",
+    "sub_chapter": "Cooperation with other services",
+    "image_description": null
+  },
+  {
+    "temp_id": "m4n5o6p7-8q9r-4s0t-1u2v-3w4x5y6z7a8b",
+    "question_text": "Each Contracting State shall publish and disseminate all information necessary for the entry of search and rescue units of other States into its territory or, alternatively, include this information in search and rescue service arrangements.",
+    "options": {
+      "True": "True",
+      "False": "False"
+    },
+    "correct_answer": "True",
+    "explanation": "Chapter 3, 'Dissemination of information', paragraph 3.1: 'Each Contracting State shall publish and disseminate all information necessary for the entry of search and rescue units of other States into its territory or, alternatively, include this information in search and rescue service arrangements.'",
+    "difficulty": "easy",
+    "topic": "Cooperation",
+    "document": "ICAO ANNEX 12",
+    "chapter": "CHAPTER 3. COOPERATION",
+    "sub_chapter": "Dissemination of information",
+    "image_description": null
+  },
+  {
+    "temp_id": "n5o6p7q8-9r0s-4t1u-2v3w-4x5y6z7a8b9c",
+    "question_text": "According to a recommendation in Chapter 4, search and rescue plans of operations should be developed jointly with representatives of the operators and other public or private services that may assist, taking into account that the number of survivors could be large.",
+    "options": {
+      "True": "True",
+      "False": "False"
+    },
+    "correct_answer": "True",
+    "explanation": "Chapter 4, 'Plans of operation', paragraph 4.2 (Recommendation): 'Search and rescue plans of operations should be developed jointly with representatives of the operators and other public or private services that may assist in providing search and rescue services or benefit from them, taking into account that the number of survivors could be large.'",
+    "difficulty": "medium",
+    "topic": "Preparatory Measures",
+    "document": "ICAO ANNEX 12",
+    "chapter": "CHAPTER 4. PREPARATORY MEASURES",
+    "sub_chapter": "Plans of operation",
+    "image_description": null
+  },
+  {
+    "temp_id": "o6p7q8r9-0s1t-4u2v-3w4x-5y6z7a8b9c0d",
+    "question_text": "Which of the following actions is included in the search and rescue plans of operation according to Chapter 4?",
+    "options": {
+      "A": "The manner in which search and rescue operations are to be conducted, use of communication systems, actions with other RCCs, methods of alerting en-route aircraft and ships, duties of personnel, possible redeployment of equipment, methods for obtaining weather and NOTAM, methods for obtaining assistance, methods for assisting ditching aircraft to rendezvous with surface craft, methods for assisting aircraft to proceed to distress, and cooperative actions for unlawful interference",
+      "B": "Only the manner of conducting operations",
+      "C": "Only the use of communication systems",
+      "D": "Only duties of personnel",
+      "E": "Only methods for obtaining weather",
+      "F": "Only cooperative actions for unlawful interference"
+    },
+    "correct_answer": "A",
+    "explanation": "Chapter 4, 'Plans of operation', paragraph 4.4 lists subparagraphs a) through k) detailing all those actions.",
+    "difficulty": "hard",
+    "topic": "Preparatory Measures",
+    "document": "ICAO ANNEX 12",
+    "chapter": "CHAPTER 4. PREPARATORY MEASURES",
+    "sub_chapter": "Plans of operation",
+    "image_description": null
+  },
+  {
+    "temp_id": "p7q8r9s0-1t2u-4v3w-4x5y-6z7a8b9c0d1e",
+    "question_text": "Contracting States shall maintain in readiness the required number of search and rescue facilities and maintain adequate supplies of rations, medical stores, signalling devices and other survival and rescue equipment.",
+    "options": {
+      "True": "True",
+      "False": "False"
+    },
+    "correct_answer": "True",
+    "explanation": "Chapter 4, 'Search and rescue units', paragraph 4.2: 'Contracting States shall: a) maintain in readiness the required number of search and rescue facilities; and b) maintain adequate supplies of rations, medical stores, signalling devices and other survival and rescue equipment.'",
+    "difficulty": "easy",
+    "topic": "Preparatory Measures",
+    "document": "ICAO ANNEX 12",
+    "chapter": "CHAPTER 4. PREPARATORY MEASURES",
+    "sub_chapter": "Search and rescue units",
+    "image_description": null
+  },
+  {
+    "temp_id": "q8r9s0t1-2u3v-4w4x-5y6z-7a8b9c0d1e2f",
+    "question_text": "When information concerning aircraft in emergency is received from other sources than air traffic services units, the rescue coordination centre shall determine to which emergency phase the situation corresponds and shall apply the procedures applicable to that phase.",
+    "options": {
+      "True": "True",
+      "False": "False"
+    },
+    "correct_answer": "True",
+    "explanation": "Chapter 5, 'Information concerning emergencies', paragraph 5.3: 'When information concerning aircraft in emergency is received from other sources than air traffic services units, the rescue coordination centre shall determine to which emergency phase the situation corresponds and shall apply the procedures applicable to that phase.'",
+    "difficulty": "easy",
+    "topic": "Operating Procedures",
+    "document": "ICAO ANNEX 12",
+    "chapter": "CHAPTER 5. OPERATING PROCEDURES",
+    "sub_chapter": "Information concerning emergencies",
+    "image_description": null
+  },
+  {
+    "temp_id": "r9s0t1u2-3v4w-4x5y-6z7a-8b9c0d1e2f3g",
+    "question_text": "Upon the occurrence of an uncertainty phase, the rescue coordination centre shall cooperate to the utmost with air traffic services units and other appropriate agencies and services in order that incoming reports may be speedily evaluated.",
+    "options": {
+      "True": "True",
+      "False": "False"
+    },
+    "correct_answer": "True",
+    "explanation": "Chapter 5, 'Procedures for rescue coordination centres during emergency phases', paragraph 5.1: 'Upon the occurrence of an uncertainty phase, the rescue coordination centre shall cooperate to the utmost with air traffic services units and other appropriate agencies and services in order that incoming reports may be speedily evaluated.'",
+    "difficulty": "easy",
+    "topic": "Operating Procedures",
+    "document": "ICAO ANNEX 12",
+    "chapter": "CHAPTER 5. OPERATING PROCEDURES",
+    "sub_chapter": "Procedures for rescue coordination centres during emergency phases",
+    "image_description": null
+  },
+  {
+    "temp_id": "s0t1u2v3-4w5x-4y6z-7a8b-9c0d1e2f3g4h",
+    "question_text": "During a distress phase, the order in which the listed actions (initiate SAR units, ascertain position, notify operator, notify other RCCs, notify ATS, request assistance, draw up plan, amend plan, notify accident investigation, notify State of Registry) are described shall be followed unless circumstances dictate otherwise.",
+    "options": {
+      "True": "True",
+      "False": "False"
+    },
+    "correct_answer": "True",
+    "explanation": "Chapter 5, 'Procedures for rescue coordination centres during emergency phases', after paragraph 5.3 j): 'The order in which these actions are described shall be followed unless circumstances dictate otherwise.'",
+    "difficulty": "medium",
+    "topic": "Operating Procedures",
+    "document": "ICAO ANNEX 12",
+    "chapter": "CHAPTER 5. OPERATING PROCEDURES",
+    "sub_chapter": "Procedures for rescue coordination centres during emergency phases",
+    "image_description": null
+  },
+  {
+    "temp_id": "t1u2v3w4-5x6y-4z7a-8b9c-0d1e2f3g4h5i",
+    "question_text": "After declaration of the distress phase, the rescue coordination centre with overall coordination responsibility shall inform all rescue coordination centres that may become involved of all the circumstances and subsequent developments.",
+    "options": {
+      "True": "True",
+      "False": "False"
+    },
+    "correct_answer": "True",
+    "explanation": "Chapter 5, 'Procedures for rescue coordination centres during emergency phases', paragraph 5.4 c): 'After declaration of the distress phase, the rescue coordination centre with overall coordination responsibility shall inform all rescue coordination centres that may become involved in the operation of all the circumstances of the emergency and subsequent developments.'",
+    "difficulty": "easy",
+    "topic": "Operating Procedures",
+    "document": "ICAO ANNEX 12",
+    "chapter": "CHAPTER 5. OPERATING PROCEDURES",
+    "sub_chapter": "Procedures for rescue coordination centres during emergency phases",
+    "image_description": null
+  },
+  {
+    "temp_id": "u2v3w4x5-6y7z-4a8b-9c0d-1e2f3g4h5i6j",
+    "question_text": "The responsible rescue coordination centre shall normally be responsible for determining when to discontinue search and rescue operations.",
+    "options": {
+      "True": "True",
+      "False": "False"
+    },
+    "correct_answer": "True",
+    "explanation": "Chapter 5, 'Procedures for rescue coordination centres --- termination and suspension of operations', paragraph 5.5.2: 'The responsible rescue coordination centre shall normally be responsible for determining when to discontinue search and rescue operations.'",
+    "difficulty": "easy",
+    "topic": "Operating Procedures",
+    "document": "ICAO ANNEX 12",
+    "chapter": "CHAPTER 5. OPERATING PROCEDURES",
+    "sub_chapter": "Procedures for rescue coordination centres --- termination and suspension of operations",
+    "image_description": null
+  },
+  {
+    "temp_id": "v3w4x5y6-7z8a-4b9c-0d1e-2f3g4h5i6j7k",
+    "question_text": "When multiple facilities are engaged in search and rescue operations on-scene, the rescue coordination centre or rescue subcentre shall designate one or more units on-scene to coordinate all actions to help ensure the safety and effectiveness of air and surface operations, taking into account facility capabilities and operational requirements.",
+    "options": {
+      "True": "True",
+      "False": "False"
+    },
+    "correct_answer": "True",
+    "explanation": "Chapter 5, 'Procedures at the scene of an accident', paragraph 5.6.1: 'When multiple facilities are engaged in search and rescue operations on-scene, the rescue coordination centre or rescue subcentre shall designate one or more units on-scene to coordinate all actions to help ensure the safety and effectiveness of air and surface operations, taking into account facility capabilities and operational requirements.'",
+    "difficulty": "medium",
+    "topic": "Operating Procedures",
+    "document": "ICAO ANNEX 12",
+    "chapter": "CHAPTER 5. OPERATING PROCEDURES",
+    "sub_chapter": "Procedures at the scene of an accident",
+    "image_description": null
+  },
+  {
+    "temp_id": "w4x5y6z7-8a9b-4c0d-1e2f-3g4h5i6j7k8l",
+    "question_text": "If the first aircraft to reach the scene is not a search and rescue aircraft and is unable to establish communication with the appropriate RCC or ATS unit, it shall, by mutual agreement, hand over to an aircraft capable of establishing and maintaining such communications until the arrival of the first search and rescue aircraft.",
+    "options": {
+      "True": "True",
+      "False": "False"
+    },
+    "correct_answer": "True",
+    "explanation": "Chapter 5, 'Procedures at the scene of an accident', paragraph 5.6.4: 'If, in the meantime, such aircraft is unable to establish communication with the appropriate rescue coordination centre or air traffic services unit, it shall, by mutual agreement, hand over to an aircraft capable of establishing and maintaining such communications until the arrival of the first search and rescue aircraft.'",
+    "difficulty": "hard",
+    "topic": "Operating Procedures",
+    "document": "ICAO ANNEX 12",
+    "chapter": "CHAPTER 5. OPERATING PROCEDURES",
+    "sub_chapter": "Procedures at the scene of an accident",
+    "image_description": null
+  },
+  {
+    "temp_id": "x5y6z7a8-9b0c-4d1e-2f3g-4h5i6j7k8l9m",
+    "question_text": "When a ground signal has been displayed, the aircraft shall indicate whether the signal has been understood or not by the means described in 5.6.3 or, if not practicable, by making the appropriate visual signal.",
+    "options": {
+      "True": "True",
+      "False": "False"
+    },
+    "correct_answer": "True",
+    "explanation": "Chapter 5, 'Procedures at the scene of an accident', paragraph 5.6.6: 'When a ground signal has been displayed, the aircraft shall indicate whether the signal has been understood or not by the means described in 5.6.3 or, if this is not practicable, by making the appropriate visual signal.'",
+    "difficulty": "medium",
+    "topic": "Operating Procedures",
+    "document": "ICAO ANNEX 12",
+    "chapter": "CHAPTER 5. OPERATING PROCEDURES",
+    "sub_chapter": "Procedures at the scene of an accident",
+    "image_description": null
+  },
+  {
+    "temp_id": "y6z7a8b9-0c1d-4e2f-3g4h-5i6j7k8l9m0n",
+    "question_text": "Each rescue coordination centre should keep a record of the operational efficiency of the search and rescue organization in its region, according to a recommendation.",
+    "options": {
+      "True": "True",
+      "False": "False"
+    },
+    "correct_answer": "True",
+    "explanation": "Chapter 5, 'Maintenance of records', paragraph 5.9.1 (Recommendation): 'Each rescue coordination centre should keep a record of the operational efficiency of the search and rescue organization in its region.'",
+    "difficulty": "easy",
+    "topic": "Operating Procedures",
+    "document": "ICAO ANNEX 12",
+    "chapter": "CHAPTER 5. OPERATING PROCEDURES",
+    "sub_chapter": "Maintenance of records",
+    "image_description": null
+  },
+  {
+    "temp_id": "z7a8b9c0-1d2e-4f3g-4h5i-6j7k8l9m0n1o",
+    "question_text": "According to the Appendix, what reply may be made by a surface craft to acknowledge receipt of signals from an aircraft?",
+    "options": {
+      "A": "Hoisting of the international flag 'N'",
+      "B": "Hoisting of the 'code pennant' (vertical red and white stripes) close up, or flashing a succession of 'T's by signal lamp in Morse code, or changing heading to follow the aircraft",
+      "C": "Hoisting of a white flag",
+      "D": "Firing a red flare",
+      "E": "Sounding the ship's horn three times",
+      "F": "Displaying a yellow flag"
+    },
+    "correct_answer": "B",
+    "explanation": "Appendix, 'Signals with surface craft', Note following paragraph 1.2: 'The following replies may be made by surface craft to the signal in 1.1: - for acknowledging receipt of signals: 1) the hoisting of the \"code pennant\" (vertical red and white stripes) close up (meaning understood); 2) the flashing of a succession of 'T's by signal lamp in the Morse code; 3) the changing of heading to follow the aircraft'",
+    "difficulty": "hard",
+    "topic": "Search and Rescue Signals",
+    "document": "ICAO ANNEX 12",
+    "chapter": "APPENDIX. SEARCH AND RESCUE SIGNALS",
+    "sub_chapter": "Signals with surface craft",
+    "image_description": null
+  },
+  {
+    "temp_id": "a8b9c0d1-2e3f-4g4h-5i6j-7k8l9m0n1o2p",
+    "question_text": "In the ground-air visual signal code for survivors, the symbol for 'Require assistance' is a specific shape. According to the document, what is the message for code symbol No. 1?",
+    "options": {
+      "A": "Require medical assistance",
+      "B": "Require assistance",
+      "C": "No or Negative",
+      "D": "Yes or Affirmative",
+      "E": "Proceeding in this direction",
+      "F": "Operation completed"
+    },
+    "correct_answer": "B",
+    "explanation": "Appendix, 'Ground-air visual signal code for use by survivors', table: No. 1 message is 'Require assistance'.",
+    "difficulty": "easy",
+    "topic": "Search and Rescue Signals",
+    "document": "ICAO ANNEX 12",
+    "chapter": "APPENDIX. SEARCH AND RESCUE SIGNALS",
+    "sub_chapter": "Ground-air visual signal code",
+    "image_description": null
+  },
+  {
+    "temp_id": "b9c0d1e2-3f4g-4h5i-6j7k-8l9m0n1o2p3q",
+    "question_text": "What does the ground-air visual signal code symbol for 'No or Negative' look like? (Based on the table reference)",
+    "options": {
+      "A": "A vertical line",
+      "B": "A horizontal line",
+      "C": "An 'X' shape (as referenced in the document image)",
+      "D": "A circle",
+      "E": "A triangle",
+      "F": "A square"
+    },
+    "correct_answer": "C",
+    "explanation": "Appendix, 'Ground-air visual signal code for use by survivors', No. 3 message 'No or Negative' has a code symbol image that resembles an X (though the exact shape is described in the image reference).",
+    "difficulty": "medium",
+    "topic": "Search and Rescue Signals",
+    "document": "ICAO ANNEX 12",
+    "chapter": "APPENDIX. SEARCH AND RESCUE SIGNALS",
+    "sub_chapter": "Ground-air visual signal code",
+    "image_description": null
+  },
+  {
+    "temp_id": "c0d1e2f3-4g5h-4i6j-7k8l-9m0n1o2p3q4r",
+    "question_text": "According to the Appendix, what does the rescue unit ground signal 'We have found only some personnel' mean?",
+    "options": {
+      "A": "Operation completed",
+      "B": "We have found all personnel",
+      "C": "We have found only some personnel",
+      "D": "We are not able to continue. Returning to base",
+      "E": "Have divided into two groups",
+      "F": "Nothing found. Will continue to search"
+    },
+    "correct_answer": "C",
+    "explanation": "Appendix, 'Ground-air visual signal code for use by rescue units', No. 3: 'We have found only some personnel'.",
+    "difficulty": "easy",
+    "topic": "Search and Rescue Signals",
+    "document": "ICAO ANNEX 12",
+    "chapter": "APPENDIX. SEARCH AND RESCUE SIGNALS",
+    "sub_chapter": "Ground-air visual signal code",
+    "image_description": null
+  },
+  {
+    "temp_id": "d1e2f3g4-5h6i-4j7k-8l9m-0n1o2p3q4r5s",
+    "question_text": "The air-to-ground signal during hours of darkness that ground signals have been understood is flashing on and off twice the aircraft's landing lights or, if not so equipped, by switching on and off twice its navigation lights.",
+    "options": {
+      "True": "True",
+      "False": "False"
+    },
+    "correct_answer": "True",
+    "explanation": "Appendix, 'Air-to-ground signals', paragraph 3.1 b): 'during the hours of darkness: - flashing on and off twice the aircraft's landing lights or, if not so equipped, by switching on and off twice its navigation lights.'",
+    "difficulty": "easy",
+    "topic": "Search and Rescue Signals",
+    "document": "ICAO ANNEX 12",
+    "chapter": "APPENDIX. SEARCH AND RESCUE SIGNALS",
+    "sub_chapter": "Air-to-ground signals",
+    "image_description": null
+  },
+  {
+    "temp_id": "e2f3g4h5-6i7j-4k8l-9m0n-1o2p3q4r5s6t",
+    "question_text": "What is the meaning of the ground-air visual signal code for use by rescue units symbol described as 'Have divided into two groups. Each proceeding in direction indicated'?",
+    "options": {
+      "A": "No. 5",
+      "B": "No. 1",
+      "C": "No. 2",
+      "D": "No. 3",
+      "E": "No. 4",
+      "F": "No. 6"
+    },
+    "correct_answer": "A",
+    "explanation": "Appendix, 'Ground-air visual signal code for use by rescue units', No. 5: 'Have divided into two groups. Each proceeding in direction indicated'.",
+    "difficulty": "easy",
+    "topic": "Search and Rescue Signals",
+    "document": "ICAO ANNEX 12",
+    "chapter": "APPENDIX. SEARCH AND RESCUE SIGNALS",
+    "sub_chapter": "Ground-air visual signal code",
+    "image_description": null
+  },
+  {
+    "temp_id": "f3g4h5i6-7j8k-4l9m-0n1o-2p3q4r5s6t7u",
+    "question_text": "The IAMSAR Manual is published in three volumes: Volume I --- Organization and Management, Volume II --- Mission Co-ordination, and Volume III --- Mobile Facilities.",
+    "options": {
+      "True": "True",
+      "False": "False"
+    },
+    "correct_answer": "True",
+    "explanation": "The note at the beginning of the document: 'This Annex is supplemented by the International Aeronautical and Maritime Search and Rescue (IAMSAR) Manual, Volume I --- Organization and Management, Volume II --- Mission Co-ordination, and Volume III --- Mobile Facilities (Doc 9731).'",
+    "difficulty": "easy",
+    "topic": "Preliminary Note",
+    "document": "ICAO ANNEX 12",
+    "chapter": "Note",
+    "sub_chapter": null,
+    "image_description": null
+  },
+  {
+    "temp_id": "g4h5i6j7-8k9l-4m0n-1o2p-3q4r5s6t7u8v",
+    "question_text": "According to the note, the IAMSAR Manual is intended to assist States in meeting their search and rescue needs and obligations accepted under the Convention on International Civil Aviation.",
+    "options": {
+      "True": "True",
+      "False": "False"
+    },
+    "correct_answer": "True",
+    "explanation": "Note: 'the purpose of which is to assist States in meeting their search and rescue (SAR) needs and obligations accepted under the Convention on International Civil Aviation.'",
+    "difficulty": "easy",
+    "topic": "Preliminary Note",
+    "document": "ICAO ANNEX 12",
+    "chapter": "Note",
+    "sub_chapter": null,
+    "image_description": null
+  },
+  {
+    "temp_id": "h5i6j7k8-9l0m-4n1o-2p3q-4r5s6t7u8v9w",
+    "question_text": "In Chapter 1, what is the definition of 'Ditching'?",
+    "options": {
+      "A": "The forced landing of an aircraft on water",
+      "B": "The emergency landing of an aircraft on land",
+      "C": "The controlled flight into terrain",
+      "D": "The abandonment of an aircraft in flight",
+      "E": "The collision of two aircraft",
+      "F": "The loss of an aircraft's engine"
+    },
+    "correct_answer": "A",
+    "explanation": "Chapter 1 Definitions: 'Ditching. The forced landing of an aircraft on water.'",
+    "difficulty": "easy",
+    "topic": "Definitions",
+    "document": "ICAO ANNEX 12",
+    "chapter": "CHAPTER 1. DEFINITIONS",
+    "sub_chapter": null,
+    "image_description": null
+  },
+  {
+    "temp_id": "i6j7k8l9-0m1n-4o2p-3q4r-5s6t7u8v9w0x",
+    "question_text": "The 'Operator' is defined as a person, organization or enterprise engaged in or offering to engage in an aircraft operation.",
+    "options": {
+      "True": "True",
+      "False": "False"
+    },
+    "correct_answer": "True",
+    "explanation": "Chapter 1 Definitions: 'Operator. A person, organization or enterprise engaged in or offering to engage in an aircraft operation.'",
+    "difficulty": "easy",
+    "topic": "Definitions",
+    "document": "ICAO ANNEX 12",
+    "chapter": "CHAPTER 1. DEFINITIONS",
+    "sub_chapter": null,
+    "image_description": null
+  },
+  {
+    "temp_id": "j7k8l9m0-1n2o-4p3q-4r5s-6t7u8v9w0x1y",
+    "question_text": "What is the definition of 'Rescue subcentre (RSC)'?",
+    "options": {
+      "A": "A unit responsible for promoting efficient organization of search and rescue services",
+      "B": "A unit subordinate to a rescue coordination centre, established to complement the latter according to particular provisions of the responsible authorities",
+      "C": "A mobile resource composed of trained personnel",
+      "D": "An intermediary between a person reporting an emergency and an RCC",
+      "E": "A facility for providing medical evacuation",
+      "F": "A centre for joint aeronautical and maritime operations"
+    },
+    "correct_answer": "B",
+    "explanation": "Chapter 1 Definitions: 'Rescue subcentre (RSC). A unit subordinate to a rescue coordination centre, established to complement the latter according to particular provisions of the responsible authorities.'",
+    "difficulty": "easy",
+    "topic": "Definitions",
+    "document": "ICAO ANNEX 12",
+    "chapter": "CHAPTER 1. DEFINITIONS",
+    "sub_chapter": null,
+    "image_description": null
+  },
+  {
+    "temp_id": "k8l9m0n1-2o3p-4q4r-5s6t-7u8v9w0x1y2z",
+    "question_text": "The 'Pilot-in-command' is defined as the pilot designated by the operator, or in the case of general aviation, the owner, as being in command and charged with the safe conduct of a flight.",
+    "options": {
+      "True": "True",
+      "False": "False"
+    },
+    "correct_answer": "True",
+    "explanation": "Chapter 1 Definitions: 'Pilot-in-command. The pilot designated by the operator, or in the case of general aviation, the owner, as being in command and charged with the safe conduct of a flight.'",
+    "difficulty": "easy",
+    "topic": "Definitions",
+    "document": "ICAO ANNEX 12",
+    "chapter": "CHAPTER 1. DEFINITIONS",
+    "sub_chapter": null,
+    "image_description": null
+  },
+  {
+    "temp_id": "l9m0n1o2-3p4q-4r5s-6t7u-8v9w0x1y2z3a",
+    "question_text": "According to Chapter 2, Contracting States shall use search and rescue units and other available facilities to assist any aircraft or its occupants that are or appear to be in a state of emergency.",
+    "options": {
+      "True": "True",
+      "False": "False"
+    },
+    "correct_answer": "True",
+    "explanation": "Chapter 2, 'Search and rescue services', paragraph 3 (should be paragraph 5? Actually careful: After paragraph 4, there is paragraph 5? The document numbering: 1, then 1.1, then 2,3,4,5,6... The paragraph starting 'Contracting States having accepted responsibility...' is separate. Let me quote: 'Contracting States having accepted responsibility to provide search and rescue services shall use search and rescue units and other available facilities to assist any aircraft or its occupants that are or appear to be in a state of emergency.' This is under Search and rescue services, after paragraph 4? In the provided text, it is numbered as 3? Actually the text shows: after '2. Basic elements...' then '3. Search and rescue services shall establish processes...' then '2. In providing assistance...' (that's a misnumbering?). But the sentence exists: 'Contracting States having accepted responsibility to provide search and rescue services shall use search and rescue units and other available facilities to assist any aircraft or its occupants that are or appear to be in a state of emergency.' So it's correct.",
+    "difficulty": "easy",
+    "topic": "Organization",
+    "document": "ICAO ANNEX 12",
+    "chapter": "CHAPTER 2. ORGANIZATION",
+    "sub_chapter": "Search and rescue services",
+    "image_description": null
+  },
+  {
+    "temp_id": "m0n1o2p3-4q5r-4s6t-7u8v-9w0x1y2z3a4b",
+    "question_text": "What does Chapter 2 recommend regarding the location of survival equipment?",
+    "options": {
+      "A": "States should locate, at appropriate aerodromes, survival equipment suitably packed for dropping by aircraft",
+      "B": "Survival equipment shall be stored only on ships",
+      "C": "Equipment must be carried on every aircraft",
+      "D": "No recommendation is made",
+      "E": "Equipment should be stored at RCCs only",
+      "F": "Survival equipment is the responsibility of operators"
+    },
+    "correct_answer": "A",
+    "explanation": "Chapter 2, 'Search and rescue equipment', paragraph 2.8 (Recommendation): 'States should locate, at appropriate aerodromes, survival equipment suitably packed for dropping by aircraft.'",
+    "difficulty": "easy",
+    "topic": "Organization",
+    "document": "ICAO ANNEX 12",
+    "chapter": "CHAPTER 2. ORGANIZATION",
+    "sub_chapter": "Search and rescue equipment",
+    "image_description": null
+  },
+  {
+    "temp_id": "n1o2p3q4-5r6s-4t7u-8v9w-0x1y2z3a4b5c",
+    "question_text": "Contracting States shall ensure that their search and rescue services cooperate with those responsible for investigating accidents and with those responsible for the care of those who suffered from the accident.",
+    "options": {
+      "True": "True",
+      "False": "False"
+    },
+    "correct_answer": "True",
+    "explanation": "Chapter 3, 'Cooperation with other services', paragraph 3.3: 'Contracting States shall ensure that their search and rescue services cooperate with those responsible for investigating accidents and with those responsible for the care of those who suffered from the accident.'",
+    "difficulty": "easy",
+    "topic": "Cooperation",
+    "document": "ICAO ANNEX 12",
+    "chapter": "CHAPTER 3. COOPERATION",
+    "sub_chapter": "Cooperation with other services",
+    "image_description": null
+  },
+  {
+    "temp_id": "o2p3q4r5-6s7t-4u8v-9w0x-1y2z3a4b5c6d",
+    "question_text": "According to a recommendation in Chapter 3, Contracting States should ensure the closest practicable coordination between the relevant aeronautical and maritime authorities to provide for the most effective and efficient search and rescue services.",
+    "options": {
+      "True": "True",
+      "False": "False"
+    },
+    "correct_answer": "True",
+    "explanation": "Chapter 3, 'Cooperation with other services', paragraph 3.2 (Recommendation): 'Contracting States should ensure the closest practicable coordination between the relevant aeronautical and maritime authorities to provide for the most effective and efficient search and rescue services.'",
+    "difficulty": "easy",
+    "topic": "Cooperation",
+    "document": "ICAO ANNEX 12",
+    "chapter": "CHAPTER 3. COOPERATION",
+    "sub_chapter": "Cooperation with other services",
+    "image_description": null
+  },
+  {
+    "temp_id": "p3q4r5s6-7t8u-4v9w-0x1y-2z3a4b5c6d7e",
+    "question_text": "What is recommended regarding dissemination of information to the general public and emergency response authorities?",
+    "options": {
+      "A": "Contracting States should, to the extent desirable and practicable, disseminate information regarding actions to be taken when there is reason to believe that an aircraft's emergency situation may become cause for public concern or require a general emergency response",
+      "B": "Information shall never be disseminated to the public",
+      "C": "Only the State of Registry may disseminate information",
+      "D": "Information must be disseminated via ICAO only",
+      "E": "Dissemination is prohibited during an emergency",
+      "F": "Only maritime authorities may disseminate information"
+    },
+    "correct_answer": "A",
+    "explanation": "Chapter 3, 'Dissemination of information', paragraph 3.3 (Recommendation): 'Contracting States should, to the extent desirable and practicable, disseminate information to the general public and emergency response authorities regarding actions to be taken when there is reason to believe that an aircraft's emergency situation may become cause for public concern or require a general emergency response.'",
+    "difficulty": "medium",
+    "topic": "Cooperation",
+    "document": "ICAO ANNEX 12",
+    "chapter": "CHAPTER 3. COOPERATION",
+    "sub_chapter": "Dissemination of information",
+    "image_description": null
+  },
+  {
+    "temp_id": "q4r5s6t7-8u9v-4w0x-1y2z-3a4b5c6d7e8f",
+    "question_text": "Each rescue coordination centre whose search and rescue region includes maritime areas should have ready access to information regarding the position, course and speed of ships within such areas that may be able to provide assistance to aircraft in distress and information on how to contact them.",
+    "options": {
+      "True": "True",
+      "False": "False"
+    },
+    "correct_answer": "True",
+    "explanation": "Chapter 4, 'Preparatory information', paragraph 4.1.1 (Recommendation): 'Each rescue coordination centre whose search and rescue region includes maritime areas should have ready access to information regarding the position, course and speed of ships within such areas that may be able to provide assistance to aircraft in distress and information on how to contact them.'",
+    "difficulty": "medium",
+    "topic": "Preparatory Measures",
+    "document": "ICAO ANNEX 12",
+    "chapter": "CHAPTER 4. PREPARATORY MEASURES",
+    "sub_chapter": "Preparatory information",
+    "image_description": null
+  },
+  {
+    "temp_id": "r5s6t7u8-9v0w-4x1y-2z3a-4b5c6d7e8f9g",
+    "question_text": "According to a recommendation, Contracting States should, individually or in cooperation with other States, either establish ship reporting systems in cooperation with maritime authorities or arrange communication links with Amver or regional ship reporting systems to facilitate search and rescue operations at sea.",
+    "options": {
+      "True": "True",
+      "False": "False"
+    },
+    "correct_answer": "True",
+    "explanation": "Chapter 4, 'Preparatory information', paragraph 4.1.2 (Recommendation): 'Contracting States should, individually or in cooperation with other States, either establish ship reporting systems in cooperation with maritime authorities or arrange communication links with Amver or regional ship reporting systems to facilitate search and rescue operations at sea.'",
+    "difficulty": "medium",
+    "topic": "Preparatory Measures",
+    "document": "ICAO ANNEX 12",
+    "chapter": "CHAPTER 4. PREPARATORY MEASURES",
+    "sub_chapter": "Preparatory information",
+    "image_description": null
+  },
+  {
+    "temp_id": "s6t7u8v9-0w1x-4y2z-3a4b-5c6d7e8f9g0h",
+    "question_text": "The plans of operation shall specify the methods for assisting distressed aircraft being compelled to ditch to rendezvous with surface craft.",
+    "options": {
+      "True": "True",
+      "False": "False"
+    },
+    "correct_answer": "True",
+    "explanation": "Chapter 4, 'Plans of operation', paragraph 4.4 i): 'the methods for assisting distressed aircraft being compelled to ditch to rendezvous with surface craft'.",
+    "difficulty": "easy",
+    "topic": "Preparatory Measures",
+    "document": "ICAO ANNEX 12",
+    "chapter": "CHAPTER 4. PREPARATORY MEASURES",
+    "sub_chapter": "Plans of operation",
+    "image_description": null
+  },
+  {
+    "temp_id": "t7u8v9w0-1x2y-4z3a-4b5c-6d7e8f9g0h1i",
+    "question_text": "What is the role of the rescue coordination centre when an emergency phase is declared in respect of an aircraft whose position is unknown and may be in one of two or more SAR regions, and the centre is unaware of other centres taking appropriate action?",
+    "options": {
+      "A": "Wait for instructions from ICAO",
+      "B": "Assume responsibility for initiating suitable action and confer with neighbouring RCCs to designate one centre to assume responsibility forthwith",
+      "C": "Declare the phase as uncertainty",
+      "D": "Request the State of Registry to take action",
+      "E": "Terminate the phase",
+      "F": "Notify only the Cospas-Sarsat system"
+    },
+    "correct_answer": "B",
+    "explanation": "Chapter 5, 'Procedures for rescue coordination centres during emergency phases', paragraph 5.4 a): 'When a rescue coordination centre is notified of the existence of an emergency phase and is unaware of other centres taking appropriate action, it shall assume responsibility for initiating suitable action in accordance with 5.2 and confer with neighbouring rescue coordination centres with the objective of designating one rescue coordination centre to assume responsibility forthwith.'",
+    "difficulty": "hard",
+    "topic": "Operating Procedures",
+    "document": "ICAO ANNEX 12",
+    "chapter": "CHAPTER 5. OPERATING PROCEDURES",
+    "sub_chapter": "Procedures for rescue coordination centres during emergency phases",
+    "image_description": null
+  },
+  {
+    "temp_id": "u8v9w0x1-2y3z-4a4b-5c6d-7e8f9g0h1i2j",
+    "question_text": "When a pilot-in-command observes a distress situation, what information should be reported to the rescue coordination centre or air traffic services unit as appropriate?",
+    "options": {
+      "A": "Only the position",
+      "B": "Type of craft in distress, its identification and condition; position; time of observation; number of persons observed; whether persons have abandoned the craft; on-scene weather; apparent physical condition of survivors; apparent best ground access route",
+      "C": "Only the number of persons observed",
+      "D": "Only the time of observation",
+      "E": "Only the type of craft",
+      "F": "Only the on-scene weather"
+    },
+    "correct_answer": "B",
+    "explanation": "Chapter 5, 'Procedures at the scene of an accident', paragraph 5.6.2 c) lists all those items.",
+    "difficulty": "hard",
+    "topic": "Operating Procedures",
+    "document": "ICAO ANNEX 12",
+    "chapter": "CHAPTER 5. OPERATING PROCEDURES",
+    "sub_chapter": "Procedures at the scene of an accident",
+    "image_description": null
+  }
+]

@@ -1,0 +1,158 @@
+1. Aerodrome Control Service
+
+    [COMPLETED]
+        Document: ICAO Annex 14 – Aerodromes, Volume I
+        Relevant sections: Chapter 3 (Physical Characteristics), Chapter 5 (Visual Aids), Chapter 7 (Aerodrome Operational Services)
+        Rationale: Defines the physical layout and marking requirements necessary for movement area management.
+        Priority: Essential
+
+    [COMPLETED]
+        Document: ICAO Doc 4444 (PANS-ATM)
+        Relevant sections: Chapter 7 (Aerodrome Control Service)
+        Rationale: Details the fundamental procedures for runway occupancy, wind reporting, and traffic sequencing.
+        Priority: Essential
+
+    []
+        Document: PCAA AIP Pakistan – AD (Aerodromes) Section
+        Relevant sections: AD 1.1 (Aerodrome/Heliport Availability), AD 2 (Specific Aerodrome Data)
+        Rationale: Provides local site-specific regulations and operational limitations for Pakistan’s international and domestic airports.
+        Priority: Essential
+
+    []
+        Document: PAA Aerodrome Manual
+        Relevant sections: Operations and Emergency Sections
+        Rationale: Outlines local safety management systems and specific aerodrome operating minima.
+        Priority: Essential
+
+2. Area Procedural Control Service (Non-Radar)
+    
+    [COMPLETED]
+        Document: ICAO Doc 4444 (PANS-ATM)
+        Relevant sections: Chapter 5 (Separation Methods), Chapter 6 (Procedural En-route)
+        Rationale: Establishes standard vertical and longitudinal separation minima based on time and distance.
+        Priority: Essential
+
+    []
+        Document: PCAA AIP Pakistan – ENR (En-Route) Section
+        Relevant sections: ENR 1.1 (General Rules), ENR 3 (ATS Routes)
+        Rationale: Defines the national airway structure and procedural reporting points within Pakistani FIRs.
+        Priority: Essential
+
+    []
+        Document: ICAO Doc 8168 (PANS-OPS), Volume I
+        Relevant sections: Part III (Holding Procedures)
+        Rationale: Essential for formulating questions on procedural holding and arrival entry patterns.
+        Priority: Recommended
+
+3. Area Radar Control Service
+
+    [COMPLETED]
+        Document: ICAO Doc 4444 (PANS-ATM)
+        Relevant sections: Chapter 8 (Radar Services)
+        Rationale: Specifies vectoring techniques, identification methods, and reduced radar separation minima.
+        Priority: Essential
+
+    []
+        Document: ICAO Doc 9689 (Manual on Airspace Planning)
+        Relevant sections: Chapter 2 (Airspace Organization)
+        Rationale: Critical for scenario-based questions regarding airspace classification and sector capacity management.
+        Priority: Recommended
+
+    []
+        Document: PAA/PCAA ATS Unit Operations Manual
+        Relevant sections: Radar Sector Operating Procedures
+        Rationale: Details local radar handover procedures and coordination protocols between adjacent sectors.
+        Priority: Essential
+
+4. Approach Radar/Surveillance Control Service
+
+    [COMPLETED]
+        Document: ICAO Doc 4444 (PANS-ATM)
+        Relevant sections: Chapter 8 (Radar Services), Chapter 12 (Phraseology)
+        Rationale: Dictates the phraseology and surveillance techniques required for vectoring aircraft to final approach.
+        Priority: Essential
+
+    []
+        Document: ICAO Doc 8168 (PANS-OPS), Volume II
+        Relevant sections: Part IV (Arrival Procedures)
+        Rationale: Provides criteria for radar-to-ILS and RNAV transitions, vital for application-level questions.
+        Priority: Essential
+
+    []
+        Document: PCAA AIP Pakistan – ENR 1.5 (Holding, Approach, and Departure Procedures)
+        Relevant sections: Terminal Control Area (TMA) Procedures
+        Rationale: Outlines specific arrival/departure routes and speed restrictions in Pakistan terminal airspace.
+        Priority: Essential
+
+5. Approach Procedural Control Service (Non-Radar)
+
+    []
+        Document: ICAO Doc 4444 (PANS-ATM)
+        Relevant sections: Chapter 6 (Procedural Approach), Chapter 7 (Holding)
+        Rationale: Essential for questions regarding vertical separation during descent and non-radar arrival sequences.
+        Priority: Essential
+
+    []
+        Document: ICAO Doc 8168 (PANS-OPS), Volume I
+        Relevant sections: Section 4 (Arrival Procedures)
+        Rationale: Defines the standard construction of let-down and arrival procedures in the absence of radar.
+        Priority: Essential
+
+6. Flight Information Service (FIS)
+    []
+        Document: ICAO Annex 11 – Air Traffic Services
+        Relevant sections: Chapter 4 (Flight Information Service)
+        Rationale: Defines the obligation to provide weather, traffic, and aeronautical information to flights.
+        Priority: Essential
+
+    []
+        Document: ICAO Doc 4444 (PANS-ATM)
+        Relevant sections: Chapter 10 (Coordination and Transfer)
+        Rationale: Covers the information exchange requirements between FIS and other ATS units.
+        Priority: Recommended
+
+    []
+        Document: PCAA AIP Pakistan – GEN (General) Section
+        Relevant sections: GEN 3.1 (Aeronautical Information Services), GEN 3.5 (Meteorological Services)
+        Rationale: Details the sources and dissemination methods of operational data provided via FIS in Pakistan.
+        Priority: Essential
+
+7. Aeronautical Information Service (AIS)
+
+    []
+        Document: ICAO Annex 15 – Aeronautical Information Services
+        Relevant sections: Chapter 3 (Responsibilities), Chapter 4 (Aeronautical Information Management)
+        Rationale: The definitive source for the standards governing NOTAMs, AIPs, and AIRAC cycles.
+        Priority: Essential
+
+    []
+        Document: ICAO Doc 8126 (AIS Manual)
+        Relevant sections: Entire document
+        Rationale: Practical guide for drafting and managing aeronautical information, useful for technical exam questions.
+        Priority: Recommended
+
+    []
+        Document: PCAA AIP Pakistan – GEN 3.1
+        Relevant sections: Entire section
+        Rationale: Specifies the domestic responsibilities and contact points for AIS offices in Pakistan.
+        Priority: Essential
+
+8. Search and Rescue (SAR) and Alerting Service
+
+    []
+        Document: ICAO Annex 12 – Search and Rescue
+        Relevant sections: Chapter 3 (Operating Procedures), Chapter 4 (Alerting Phases)
+        Rationale: Establishes the standard protocols for declaring INCERFA, ALERFA, and DETRESFA.
+        Priority: Essential
+
+    []
+        Document: ICAO Doc 9731 (International Aeronautical and Maritime Search and Rescue Manual)
+        Relevant sections: Volume II (Mobile Facilities), Volume III (Mobile Facilities)
+        Rationale: Vital for scenario-based questions involving multi-agency coordination and distress communications.
+        Priority: Recommended
+
+    []
+        Document: PCAA SAR Manual (Pakistan)
+        Relevant sections: Procedures and Coordination
+        Rationale: Localized instruction on the integration of PAA and national security resources during emergencies.
+        Priority: Essential

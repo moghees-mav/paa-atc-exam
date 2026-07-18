@@ -1,0 +1,2661 @@
+[
+  {
+    "temp_id": "a0eebc99-9c0b-4ef8-bb6d-6bb9bd380a11",
+    "question_text": "What is the primary object of the aeronautical information service (AIS) as stated in ICAO Annex 15, Chapter 1?",
+    "options": {
+      "A": "To provide meteorological information to aircraft",
+      "B": "To ensure the flow of aeronautical data and aeronautical information necessary for global air traffic management system safety, regularity, economy and efficiency in an environmentally sustainable manner",
+      "C": "To manage air traffic control towers at international airports",
+      "D": "To issue NOTAMs only for military operations",
+      "E": "To collect charges for aeronautical information products",
+      "F": "To develop new navigation technologies"
+    },
+    "correct_answer": "B",
+    "explanation": "Chapter 1, Note 1 states: 'The object of the aeronautical information service (AIS) is to ensure the flow of aeronautical data and aeronautical information necessary for global air traffic management (ATM) system safety, regularity, economy and efficiency in an environmentally sustainable manner.'",
+    "difficulty": "easy",
+    "topic": "General - Object of AIS",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 1. GENERAL",
+    "sub_chapter": null,
+    "image_description": null
+  },
+  {
+    "temp_id": "b0eebc99-9c0b-4ef8-bb6d-6bb9bd380a12",
+    "question_text": "According to Chapter 1, what can be the consequence of corrupt, erroneous, late or missing aeronautical data and information?",
+    "options": {
+      "A": "Only minor delays in flight schedules",
+      "B": "Increased fuel consumption but no safety impact",
+      "C": "Potential to affect the safety of air navigation",
+      "D": "Only administrative inconveniences",
+      "E": "Reduced airport charges",
+      "F": "Improved communication between pilots and controllers"
+    },
+    "correct_answer": "C",
+    "explanation": "Chapter 1, Note 1 states: 'Corrupt, erroneous, late or missing aeronautical data and aeronautical information can potentially affect the safety of air navigation.'",
+    "difficulty": "easy",
+    "topic": "General - Importance of data quality",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 1. GENERAL",
+    "sub_chapter": null,
+    "image_description": null
+  },
+  {
+    "temp_id": "c0eebc99-9c0b-4ef8-bb6d-6bb9bd380a13",
+    "question_text": "True or False: The Standards and Recommended Practices in Annex 15 are to be used in conjunction with the PANS-ABC (Doc 8400) and PANS-AIM (Doc 10066).",
+    "options": {
+      "True": "True",
+      "False": "False"
+    },
+    "correct_answer": "True",
+    "explanation": "Chapter 1, Notes 2 and 3 state: 'These Standards and Recommended Practices are to be used in conjunction with the Procedures for Air Navigation Services — ICAO Abbreviations and Codes (PANS-ABC, Doc 8400).' and '...with the Procedures for Air Navigation Services — Aeronautical Information Management (PANS-AIM, Doc 10066).'",
+    "difficulty": "easy",
+    "topic": "General - Related documents",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 1. GENERAL",
+    "sub_chapter": null,
+    "image_description": null
+  },
+  {
+    "temp_id": "d0eebc99-9c0b-4ef8-bb6d-6bb9bd380a14",
+    "question_text": "According to the definition in Chapter 1.1, what is an 'Aerodrome'?",
+    "options": {
+      "A": "Only a land area with a control tower",
+      "B": "A defined area on land or water intended to be used wholly or in part for arrival, departure and surface movement of aircraft, including buildings, installations and equipment",
+      "C": "Any field where helicopters can land",
+      "D": "A military installation with runways",
+      "E": "A terminal building only",
+      "F": "A water area exclusively for seaplanes"
+    },
+    "correct_answer": "B",
+    "explanation": "Chapter 1.1 defines: 'Aerodrome. A defined area on land or water (including any buildings, installations and equipment) intended to be used either wholly or in part for the arrival, departure and surface movement of aircraft.'",
+    "difficulty": "easy",
+    "topic": "Definitions - Aerodrome",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 1. GENERAL",
+    "sub_chapter": "1.1 Definitions",
+    "image_description": null
+  },
+  {
+    "temp_id": "e0eebc99-9c0b-4ef8-bb6d-6bb9bd380a15",
+    "question_text": "What is 'Aerodrome mapping data (AMD)' collected for?",
+    "options": {
+      "A": "Only for aircraft takeoff performance calculations",
+      "B": "Purposes that include improvement of user's situational awareness, surface navigation operations, training, charting and planning",
+      "C": "Exclusively for airport billing systems",
+      "D": "For weather forecasting at aerodromes",
+      "E": "For air traffic controller shift scheduling",
+      "F": "To calculate fuel requirements"
+    },
+    "correct_answer": "B",
+    "explanation": "Chapter 1.1 note under 'Aerodrome mapping data (AMD)' states: 'Aerodrome mapping data is collected for purposes that include the improvement of the user's situational awareness, surface navigation operations, training, charting and planning.'",
+    "difficulty": "medium",
+    "topic": "Definitions - Aerodrome mapping data",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 1. GENERAL",
+    "sub_chapter": "1.1 Definitions",
+    "image_description": null
+  },
+  {
+    "temp_id": "f0eebc99-9c0b-4ef8-bb6d-6bb9bd380a16",
+    "question_text": "Which of the following is NOT listed as an aeronautical information product?",
+    "options": {
+      "A": "Aeronautical Information Publication (AIP)",
+      "B": "Aeronautical Information Circulars (AIC)",
+      "C": "NOTAM",
+      "D": "Digital data sets",
+      "E": "Aircraft maintenance logs",
+      "F": "Aeronautical charts"
+    },
+    "correct_answer": "E",
+    "explanation": "Chapter 1.1 under 'Aeronautical information product' lists: 'Aeronautical Information Publication (AIP), including Amendments and Supplements; Aeronautical Information Circulars (AIC); aeronautical charts; NOTAM; and digital data sets.' Aircraft maintenance logs are not mentioned.",
+    "difficulty": "easy",
+    "topic": "Definitions - Aeronautical information products",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 1. GENERAL",
+    "sub_chapter": "1.1 Definitions",
+    "image_description": null
+  },
+  {
+    "temp_id": "a1eebc99-9c0b-4ef8-bb6d-6bb9bd380a17",
+    "question_text": "What does the acronym AIRAC stand for according to Chapter 1.1?",
+    "options": {
+      "A": "Aeronautical Information Regulation and Control",
+      "B": "Air Traffic Radar Control",
+      "C": "Aircraft Identification and Communication",
+      "D": "Aeronautical Instrument Repair and Calibration",
+      "E": "Airport Runway Inspection Committee",
+      "F": "Aviation Incident Reporting and Classification"
+    },
+    "correct_answer": "A",
+    "explanation": "Chapter 1.1 states: 'AIRAC. An acronym (aeronautical information regulation and control) signifying a system aimed at advance notification, based on common effective dates, of circumstances that necessitate significant changes in operating practices.'",
+    "difficulty": "easy",
+    "topic": "Definitions - AIRAC",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 1. GENERAL",
+    "sub_chapter": "1.1 Definitions",
+    "image_description": null
+  },
+  {
+    "temp_id": "b1eebc99-9c0b-4ef8-bb6d-6bb9bd380a18",
+    "question_text": "True or False: An ASHTAM is a NOTAM notifying volcanic activity that is of significance to aircraft operations.",
+    "options": {
+      "True": "True",
+      "False": "False"
+    },
+    "correct_answer": "True",
+    "explanation": "Chapter 1.1 defines: 'ASHTAM. A special series NOTAM notifying by means of a specific format change in activity of a volcano, a volcanic eruption and/or volcanic ash cloud that is of significance to aircraft operations.'",
+    "difficulty": "easy",
+    "topic": "Definitions - ASHTAM",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 1. GENERAL",
+    "sub_chapter": "1.1 Definitions",
+    "image_description": null
+  },
+  {
+    "temp_id": "c1eebc99-9c0b-4ef8-bb6d-6bb9bd380a19",
+    "question_text": "What does 'Data integrity (assurance level)' mean as defined in Chapter 1.1?",
+    "options": {
+      "A": "The number of digits used to express a value",
+      "B": "The probability that the true value is within an interval",
+      "C": "A degree of assurance that an aeronautical data and its value has not been lost or altered since origination or authorized amendment",
+      "D": "The geographic accuracy of coordinates",
+      "E": "The timeliness of data delivery",
+      "F": "The completeness of a data set"
+    },
+    "correct_answer": "C",
+    "explanation": "Chapter 1.1: 'Data integrity (assurance level). A degree of assurance that an aeronautical data and its value has not been lost or altered since the origination or authorized amendment.'",
+    "difficulty": "medium",
+    "topic": "Definitions - Data integrity",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 1. GENERAL",
+    "sub_chapter": "1.1 Definitions",
+    "image_description": null
+  },
+  {
+    "temp_id": "d1eebc99-9c0b-4ef8-bb6d-6bb9bd380a20",
+    "question_text": "According to the definition of 'Obstacle' in Chapter 1.1, which of the following is considered an obstacle?",
+    "options": {
+      "A": "Only mobile objects on the ground",
+      "B": "Fixed or mobile objects located on an area intended for surface movement of aircraft, or that extend above a defined surface to protect aircraft in flight, or that are assessed as a hazard to air navigation",
+      "C": "Only natural terrain features",
+      "D": "Only buildings higher than 100 meters",
+      "E": "Only temporary cranes near airports",
+      "F": "Any object on the ground regardless of location"
+    },
+    "correct_answer": "B",
+    "explanation": "Chapter 1.1 defines: 'Obstacle. All fixed (whether temporary or permanent) and mobile objects, or parts thereof, that: a) are located on an area intended for the surface movement of aircraft; or b) extend above a defined surface intended to protect aircraft in flight; or c) stand outside those defined surfaces and that have been assessed as being a hazard to air navigation.'",
+    "difficulty": "hard",
+    "topic": "Definitions - Obstacle",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 1. GENERAL",
+    "sub_chapter": "1.1 Definitions",
+    "image_description": null
+  },
+  {
+    "temp_id": "e1eebc99-9c0b-4ef8-bb6d-6bb9bd380a21",
+    "question_text": "What is the horizontal (geodetic) reference system that shall be used for international air navigation according to section 1.2.1?",
+    "options": {
+      "A": "European Datum 1950",
+      "B": "North American Datum 1983",
+      "C": "World Geodetic System—1984 (WGS-84)",
+      "D": "International Terrestrial Reference Frame (ITRF) 2000",
+      "E": "GPS Reference System",
+      "F": "Mean Sea Level Datum"
+    },
+    "correct_answer": "C",
+    "explanation": "Section 1.2.1.1 states: 'The World Geodetic System—1984 (WGS-84) shall be used as the horizontal (geodetic) reference system for international air navigation.'",
+    "difficulty": "easy",
+    "topic": "Common reference system - Horizontal",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 1. GENERAL",
+    "sub_chapter": "1.2 Common reference system for air navigation",
+    "image_description": null
+  },
+  {
+    "temp_id": "f1eebc99-9c0b-4ef8-bb6d-6bb9bd380a22",
+    "question_text": "True or False: For the vertical reference system, the geoid is defined as the equipotential surface that coincides with undisturbed mean sea level extended continuously through continents.",
+    "options": {
+      "True": "True",
+      "False": "False"
+    },
+    "correct_answer": "True",
+    "explanation": "Section 1.2.2.1 Note 1: 'The geoid globally most closely approximates MSL. It is defined as the equipotential surface in the gravity field of the Earth which coincides with the undisturbed MSL extended continuously through the continents.'",
+    "difficulty": "medium",
+    "topic": "Common reference system - Vertical",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 1. GENERAL",
+    "sub_chapter": "1.2 Common reference system for air navigation",
+    "image_description": null
+  },
+  {
+    "temp_id": "a2eebc99-9c0b-4ef8-bb6d-6bb9bd380a23",
+    "question_text": "Which temporal reference system shall be used for international air navigation according to section 1.2.3?",
+    "options": {
+      "A": "Julian calendar and local solar time",
+      "B": "Gregorian calendar and Coordinated Universal Time (UTC)",
+      "C": "Islamic calendar and GMT",
+      "D": "Chinese lunar calendar and Beijing time",
+      "E": "Julian calendar and UTC",
+      "F": "Gregorian calendar and local mean time"
+    },
+    "correct_answer": "B",
+    "explanation": "Section 1.2.3.1: 'The Gregorian calendar and Coordinated Universal Time (UTC) shall be used as the temporal reference system for international air navigation.'",
+    "difficulty": "easy",
+    "topic": "Common reference system - Temporal",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 1. GENERAL",
+    "sub_chapter": "1.2 Common reference system for air navigation",
+    "image_description": null
+  },
+  {
+    "temp_id": "b2eebc99-9c0b-4ef8-bb6d-6bb9bd380a24",
+    "question_text": "According to section 1.3.1, aeronautical information products intended for international distribution shall include text in which language for parts expressed in plain language?",
+    "options": {
+      "A": "French",
+      "B": "Spanish",
+      "C": "English",
+      "D": "Russian",
+      "E": "Arabic",
+      "F": "Chinese"
+    },
+    "correct_answer": "C",
+    "explanation": "Section 1.3.1: 'Aeronautical information products intended for international distribution shall include English text for those parts expressed in plain language.'",
+    "difficulty": "easy",
+    "topic": "Miscellaneous specifications - Language",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 1. GENERAL",
+    "sub_chapter": "1.3 Miscellaneous specifications",
+    "image_description": null
+  },
+  {
+    "temp_id": "c2eebc99-9c0b-4ef8-bb6d-6bb9bd380a25",
+    "question_text": "True or False: According to section 1.3.2, place names shall be spelt in conformity with local usage and transliterated into the ISO-Basic Latin alphabet when necessary.",
+    "options": {
+      "True": "True",
+      "False": "False"
+    },
+    "correct_answer": "True",
+    "explanation": "Section 1.3.2: 'Place names shall be spelt in conformity with local usage, transliterated, when necessary, into the ISO-Basic Latin alphabet.'",
+    "difficulty": "easy",
+    "topic": "Miscellaneous specifications - Place names",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 1. GENERAL",
+    "sub_chapter": "1.3 Miscellaneous specifications",
+    "image_description": null
+  },
+  {
+    "temp_id": "d2eebc99-9c0b-4ef8-bb6d-6bb9bd380a26",
+    "question_text": "What is the responsibility of each Contracting State regarding the provision of aeronautical information service (AIS) according to section 2.1.1?",
+    "options": {
+      "A": "Must provide AIS exclusively through a government agency",
+      "B": "Must provide AIS or agree with another State for joint service or delegate to a non‑governmental agency provided Standards are met",
+      "C": "Must outsource AIS to a private company without oversight",
+      "D": "Must not share AIS with other States",
+      "E": "Must charge all users for AIS",
+      "F": "Must provide AIS only for domestic flights"
+    },
+    "correct_answer": "B",
+    "explanation": "Section 2.1.1: 'Each Contracting State shall: a) provide an aeronautical information service (AIS); or b) agree with one or more other Contracting State(s) for the provision of a joint service; or c) delegate the authority for the provision of the service to a non-governmental agency, provided the Standards and Recommended Practices of this Annex are adequately met.'",
+    "difficulty": "medium",
+    "topic": "State responsibilities",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 2. STATE RESPONSIBILITIES",
+    "sub_chapter": "2.1 State responsibilities",
+    "image_description": null
+  },
+  {
+    "temp_id": "e2eebc99-9c0b-4ef8-bb6d-6bb9bd380a27",
+    "question_text": "According to section 2.1.2, a Contracting State shall ensure provision of aeronautical data and information covering its own territory and what other areas?",
+    "options": {
+      "A": "All neighboring countries",
+      "B": "Areas over the high seas for which it is responsible for providing air traffic services",
+      "C": "Only within 100 nautical miles of its coastline",
+      "D": "All international airspace",
+      "E": "Only the territory of the State",
+      "F": "Areas under the control of other States by agreement"
+    },
+    "correct_answer": "B",
+    "explanation": "Section 2.1.2: 'Each Contracting State shall ensure that the provision of aeronautical data and aeronautical information covers its own territory and those areas over the high seas for which it is responsible for the provision of air traffic services (ATS).'",
+    "difficulty": "medium",
+    "topic": "State responsibilities - Coverage",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 2. STATE RESPONSIBILITIES",
+    "sub_chapter": "2.1 State responsibilities",
+    "image_description": null
+  },
+  {
+    "temp_id": "f2eebc99-9c0b-4ef8-bb6d-6bb9bd380a28",
+    "question_text": "True or False: An AIS must ensure that aeronautical data and information are made available in a form suitable only for air traffic control units, not for flight crews.",
+    "options": {
+      "True": "True",
+      "False": "False"
+    },
+    "correct_answer": "False",
+    "explanation": "Section 2.2.1 states the AIS shall make data available for the ATM community including 'those involved in flight operations, including flight crews, flight planning and flight simulators; and the ATS unit responsible for flight information service'.",
+    "difficulty": "easy",
+    "topic": "AIS responsibilities",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 2. STATE RESPONSIBILITIES",
+    "sub_chapter": "2.2 AIS responsibilities and functions",
+    "image_description": null
+  },
+  {
+    "temp_id": "a3eebc99-9c0b-4ef8-bb6d-6bb9bd380a29",
+    "question_text": "If an AIS does not provide 24-hour service, how long before and after a flight in its area of responsibility must service be available?",
+    "options": {
+      "A": "One hour before and one hour after",
+      "B": "Two hours before and two hours after",
+      "C": "At least two hours before and two hours after such period",
+      "D": "Thirty minutes before and after",
+      "E": "Four hours before and after",
+      "F": "Only during daylight hours"
+    },
+    "correct_answer": "C",
+    "explanation": "Section 2.2.3: 'Where 24-hour service is not provided, service shall be available during the whole period an aircraft is in flight in the area of responsibility of the AIS, plus a period of at least two hours before and after such a period.'",
+    "difficulty": "medium",
+    "topic": "AIS service hours",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 2. STATE RESPONSIBILITIES",
+    "sub_chapter": "2.2 AIS responsibilities and functions",
+    "image_description": null
+  },
+  {
+    "temp_id": "b3eebc99-9c0b-4ef8-bb6d-6bb9bd380a30",
+    "question_text": "When an AIS distributes aeronautical data obtained from another State's AIS, how must it be identified?",
+    "options": {
+      "A": "As having been verified by the distributing AIS",
+      "B": "As having the authority of the originating State",
+      "C": "As provisional data only",
+      "D": "As the property of the distributing State",
+      "E": "With no identification required",
+      "F": "As classified information"
+    },
+    "correct_answer": "B",
+    "explanation": "Section 2.2.5: 'Aeronautical data and aeronautical information obtained under 2.2.4 a) shall, when distributed, be clearly identified as having the authority of the originating State.'",
+    "difficulty": "medium",
+    "topic": "Exchange of information",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 2. STATE RESPONSIBILITIES",
+    "sub_chapter": "2.2 AIS responsibilities and functions",
+    "image_description": null
+  },
+  {
+    "temp_id": "c3eebc99-9c0b-4ef8-bb6d-6bb9bd380a31",
+    "question_text": "According to section 2.3.6, which aeronautical information products shall be made available by the originating State without charge to a requesting State's AIS?",
+    "options": {
+      "A": "Only NOTAM",
+      "B": "AIP, AIC, NOTAM, and aeronautical charts",
+      "C": "Only digital data sets",
+      "D": "All products including aeronautical charts but not AIP",
+      "E": "Only AIP and AIC",
+      "F": "Only aeronautical charts and NOTAM"
+    },
+    "correct_answer": "B",
+    "explanation": "Section 2.3.6 lists: 'a) Aeronautical Information Publication (AIP), including Amendments and Supplements; b) Aeronautical Information Circulars (AIC); c) NOTAM; and d) aeronautical charts.' These shall be provided without charge.",
+    "difficulty": "hard",
+    "topic": "Exchange - Free products",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 2. STATE RESPONSIBILITIES",
+    "sub_chapter": "2.3 Exchange of aeronautical data and aeronautical information",
+    "image_description": null
+  },
+  {
+    "temp_id": "d3eebc99-9c0b-4ef8-bb6d-6bb9bd380a32",
+    "question_text": "True or False: According to section 2.4.1, a third party receiving a copyright-protected aeronautical information product from a State must be made aware of the copyright and the product appropriately annotated.",
+    "options": {
+      "True": "True",
+      "False": "False"
+    },
+    "correct_answer": "True",
+    "explanation": "Section 2.4.1: 'Any aeronautical information product which has been granted copyright protection by the originating State and provided to another State ... shall only be made available to a third party on the condition that the third party is made aware that the product is copyright protected and provided that it is appropriately annotated that the product is subject to copyright by the originating State.'",
+    "difficulty": "medium",
+    "topic": "Copyright",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 2. STATE RESPONSIBILITIES",
+    "sub_chapter": "2.4 Copyright",
+    "image_description": null
+  },
+  {
+    "temp_id": "e3eebc99-9c0b-4ef8-bb6d-6bb9bd380a33",
+    "question_text": "What does the term 'integrity classification' for aeronautical data include, according to Chapter 1.1?",
+    "options": {
+      "A": "High, medium, low",
+      "B": "Routine data, essential data, critical data",
+      "C": "Class 1, Class 2, Class 3",
+      "D": "Primary, secondary, tertiary",
+      "E": "Red, yellow, green",
+      "F": "Public, confidential, secret"
+    },
+    "correct_answer": "B",
+    "explanation": "Chapter 1.1 under 'Integrity classification (aeronautical data)' states: 'a) routine data; b) essential data; c) critical data' with descriptions of associated risk.",
+    "difficulty": "easy",
+    "topic": "Definitions - Integrity classification",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 1. GENERAL",
+    "sub_chapter": "1.1 Definitions",
+    "image_description": null
+  },
+  {
+    "temp_id": "f3eebc99-9c0b-4ef8-bb6d-6bb9bd380a34",
+    "question_text": "According to section 3.2.3.2, for essential data, what must be assured?",
+    "options": {
+      "A": "Only that corruption is avoided during processing",
+      "B": "That corruption does not occur at any stage of the entire process, including additional processes to address potential risks",
+      "C": "That data is backed up daily",
+      "D": "That only authorized personnel have access",
+      "E": "That data is encrypted",
+      "F": "That data is never changed after origination"
+    },
+    "correct_answer": "B",
+    "explanation": "Section 3.2.3.2 b): 'for essential data: assure corruption does not occur at any stage of the entire process and include additional processes as needed to address potential risks in the overall system architecture to further assure data integrity at this level'.",
+    "difficulty": "hard",
+    "topic": "Data quality - Integrity",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 3. INFORMATION MANAGEMENT AND QUALITY",
+    "sub_chapter": "3.2 Data quality specifications",
+    "image_description": null
+  },
+  {
+    "temp_id": "a4eebc99-9c0b-4ef8-bb6d-6bb9bd380a35",
+    "question_text": "True or False: According to section 3.3.2, an AIS must establish verification and validation procedures to ensure quality requirements are met upon receipt of aeronautical data.",
+    "options": {
+      "True": "True",
+      "False": "False"
+    },
+    "correct_answer": "True",
+    "explanation": "Section 3.3.2: 'An AIS shall establish verification and validation procedures which ensure that upon receipt of aeronautical data and aeronautical information, quality requirements are met.'",
+    "difficulty": "easy",
+    "topic": "Verification and validation",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 3. INFORMATION MANAGEMENT AND QUALITY",
+    "sub_chapter": "3.3 Aeronautical data and aeronautical information verification and validation",
+    "image_description": null
+  },
+  {
+    "temp_id": "b4eebc99-9c0b-4ef8-bb6d-6bb9bd380a36",
+    "question_text": "What does section 3.5.1 say about automation in AIS?",
+    "options": {
+      "A": "Automation is optional",
+      "B": "Automation shall be applied to ensure quality, efficiency and cost-effectiveness",
+      "C": "Automation is prohibited due to integrity risks",
+      "D": "Only manual processes are allowed",
+      "E": "Automation must be outsourced",
+      "F": "Automation applies only to NOTAM distribution"
+    },
+    "correct_answer": "B",
+    "explanation": "Section 3.5.1: 'Automation shall be applied in order to ensure the quality, efficiency and cost-effectiveness of aeronautical information services.'",
+    "difficulty": "easy",
+    "topic": "Automation",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 3. INFORMATION MANAGEMENT AND QUALITY",
+    "sub_chapter": "3.5 Automation",
+    "image_description": null
+  },
+  {
+    "temp_id": "c4eebc99-9c0b-4ef8-bb6d-6bb9bd380a37",
+    "question_text": "According to section 3.6.4, what must be done regarding personnel competencies within the quality management system?",
+    "options": {
+      "A": "No training is required if personnel have experience",
+      "B": "Competencies must be identified, personnel trained, and periodic assessments established",
+      "C": "Only initial assessments are needed",
+      "D": "Personnel can self-certify their skills",
+      "E": "Only managers need training",
+      "F": "Competencies are irrelevant for quality"
+    },
+    "correct_answer": "B",
+    "explanation": "Section 3.6.4: '...competencies and the associated knowledge, skills and abilities required for each function shall be identified, and personnel assigned to perform those functions shall be appropriately trained. ... Initial and periodic assessments shall be established that require personnel to demonstrate the required competencies.'",
+    "difficulty": "medium",
+    "topic": "Quality management - Personnel",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 3. INFORMATION MANAGEMENT AND QUALITY",
+    "sub_chapter": "3.6 Quality management system",
+    "image_description": null
+  },
+  {
+    "temp_id": "d4eebc99-9c0b-4ef8-bb6d-6bb9bd380a38",
+    "question_text": "True or False: Section 3.7.1 states that human factors principles must be taken into consideration in the organization, design, processing and distribution of aeronautical data and information.",
+    "options": {
+      "True": "True",
+      "False": "False"
+    },
+    "correct_answer": "True",
+    "explanation": "Section 3.7.1: 'The organization of an AIS as well as the design, contents, processing and distribution of aeronautical data and aeronautical information shall take into consideration human factors principles which facilitate their optimum utilization.'",
+    "difficulty": "easy",
+    "topic": "Human factors",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 3. INFORMATION MANAGEMENT AND QUALITY",
+    "sub_chapter": "3.7 Human factors considerations",
+    "image_description": null
+  },
+  {
+    "temp_id": "e4eebc99-9c0b-4ef8-bb6d-6bb9bd380a39",
+    "question_text": "According to section 4.1.1, which of the following is NOT listed as a sub-domain of aeronautical data to be managed by the AIS?",
+    "options": {
+      "A": "Aerodromes and heliports",
+      "B": "Air traffic services (ATS) routes",
+      "C": "Aircraft registration numbers",
+      "D": "Obstacles",
+      "E": "Terrain",
+      "F": "Geographic information"
+    },
+    "correct_answer": "C",
+    "explanation": "Section 4.1.1 lists: a) national regulations, rules and procedures; b) aerodromes and heliports; c) airspace; d) ATS routes; e) instrument flight procedures; f) radio navigation aids/systems; g) obstacles; h) terrain; and i) geographic information. Aircraft registration numbers are not included.",
+    "difficulty": "hard",
+    "topic": "Scope of aeronautical data",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 4. AERONAUTICAL DATA AND AERONAUTICAL INFORMATION SCOPE AND METADATA",
+    "sub_chapter": "4.1 Scope of aeronautical data and aeronautical information",
+    "image_description": null
+  },
+  {
+    "temp_id": "f4eebc99-9c0b-4ef8-bb6d-6bb9bd380a40",
+    "question_text": "What does section 4.2 require regarding metadata?",
+    "options": {
+      "A": "Metadata is optional for digital data",
+      "B": "Metadata shall be collected for aeronautical data processes and exchange points throughout the data chain",
+      "C": "Metadata only applies to obstacle data",
+      "D": "Metadata is required only for AIP",
+      "E": "Metadata is defined as the data itself",
+      "F": "Metadata is prohibited for security reasons"
+    },
+    "correct_answer": "B",
+    "explanation": "Section 4.2.1: 'Metadata shall be collected for aeronautical data processes and exchange points.' Section 4.2.2: 'Metadata collection shall be applied throughout the aeronautical information data chain, from origination to distribution to the next intended user.'",
+    "difficulty": "medium",
+    "topic": "Metadata",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 4. AERONAUTICAL DATA AND AERONAUTICAL INFORMATION SCOPE AND METADATA",
+    "sub_chapter": "4.2 Metadata",
+    "image_description": null
+  },
+  {
+    "temp_id": "a5eebc99-9c0b-4ef8-bb6d-6bb9bd380a41",
+    "question_text": "True or False: According to section 5.1.2, when aeronautical data are provided in multiple formats, processes must ensure consistency between formats.",
+    "options": {
+      "True": "True",
+      "False": "False"
+    },
+    "correct_answer": "True",
+    "explanation": "Section 5.1.2: 'When aeronautical data and aeronautical information are provided in multiple formats, processes shall be implemented to ensure data and information consistency between formats.'",
+    "difficulty": "easy",
+    "topic": "Aeronautical information products - Consistency",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 5. AERONAUTICAL INFORMATION PRODUCTS AND SERVICES",
+    "sub_chapter": "5.1 General",
+    "image_description": null
+  },
+  {
+    "temp_id": "b5eebc99-9c0b-4ef8-bb6d-6bb9bd380a42",
+    "question_text": "Which of the following is NOT a valid use of an Aeronautical Information Circular (AIC) according to section 5.2.4.1?",
+    "options": {
+      "A": "Long-term forecast of major changes in legislation",
+      "B": "Information of an explanatory or advisory nature liable to affect flight safety",
+      "C": "Immediate notification of a temporary runway closure (short duration)",
+      "D": "Information of an explanatory nature concerning technical matters",
+      "E": "Information of an advisory nature concerning legislative matters",
+      "F": "Notification of purely administrative matters"
+    },
+    "correct_answer": "C",
+    "explanation": "Section 5.2.4.1 lists allowed uses, and section 5.2.4.2 says 'An AIC shall not be used for information that qualifies for inclusion in AIP and NOTAM.' Temporary runway closure is NOTAM information. Also 5.2.4.1 does not include immediate short-duration operational changes.",
+    "difficulty": "hard",
+    "topic": "Aeronautical Information Circulars",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 5. AERONAUTICAL INFORMATION PRODUCTS AND SERVICES",
+    "sub_chapter": "5.2 Aeronautical information in a standardized presentation",
+    "image_description": null
+  },
+  {
+    "temp_id": "c5eebc99-9c0b-4ef8-bb6d-6bb9bd380a43",
+    "question_text": "According to section 5.2.5.1, which aeronautical chart may be included in the AIP using a page pocket on appropriate electronic media?",
+    "options": {
+      "A": "Aerodrome Ground Movement Chart ICAO",
+      "B": "Aerodrome Terrain and Obstacle Chart ICAO (Electronic)",
+      "C": "Instrument Approach Chart ICAO",
+      "D": "Standard Arrival Chart Instrument (STAR) ICAO",
+      "E": "Area Chart ICAO",
+      "F": "Visual Approach Chart ICAO"
+    },
+    "correct_answer": "B",
+    "explanation": "Section 5.2.5.1 lists chart types and a note: 'A page pocket may be used in the AIP to include the Aerodrome Terrain and Obstacle Chart ICAO (Electronic) on appropriate electronic media.'",
+    "difficulty": "medium",
+    "topic": "Aeronautical charts",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 5. AERONAUTICAL INFORMATION PRODUCTS AND SERVICES",
+    "sub_chapter": "5.2.5 Aeronautical charts",
+    "image_description": null
+  },
+  {
+    "temp_id": "d5eebc99-9c0b-4ef8-bb6d-6bb9bd380a44",
+    "question_text": "True or False: A checklist of valid NOTAM shall be regularly provided according to section 5.2.6.",
+    "options": {
+      "True": "True",
+      "False": "False"
+    },
+    "correct_answer": "True",
+    "explanation": "Section 5.2.6 states: 'A checklist of valid NOTAM shall be regularly provided.'",
+    "difficulty": "easy",
+    "topic": "NOTAM checklist",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 5. AERONAUTICAL INFORMATION PRODUCTS AND SERVICES",
+    "sub_chapter": "5.2.6 NOTAM",
+    "image_description": null
+  },
+  {
+    "temp_id": "e5eebc99-9c0b-4ef8-bb6d-6bb9bd380a45",
+    "question_text": "Which digital data sets are listed in section 5.3.1.1?",
+    "options": {
+      "A": "AIP data set, terrain data sets, obstacle data sets, aerodrome mapping data sets, instrument flight procedure data sets",
+      "B": "Weather data sets, traffic flow data sets, radar data sets",
+      "C": "Aircraft performance data sets, fuel data sets, weight and balance data sets",
+      "D": "NOTAM data sets, AIC data sets, chart data sets",
+      "E": "Communication data sets, navigation data sets, surveillance data sets",
+      "F": "Airport diagram data sets, approach lighting data sets, runway friction data sets"
+    },
+    "correct_answer": "A",
+    "explanation": "Section 5.3.1.1: 'Digital data shall be in the form of the following data sets: a) AIP data set; b) terrain data sets; c) obstacle data sets; d) aerodrome mapping data sets; and e) instrument flight procedure data sets.'",
+    "difficulty": "medium",
+    "topic": "Digital data sets - Types",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 5. AERONAUTICAL INFORMATION PRODUCTS AND SERVICES",
+    "sub_chapter": "5.3 Digital data sets",
+    "image_description": null
+  },
+  {
+    "temp_id": "f5eebc99-9c0b-4ef8-bb6d-6bb9bd380a46",
+    "question_text": "According to section 5.3.3.1, Area 1 for terrain and obstacle data sets covers what?",
+    "options": {
+      "A": "The area within 45 km of an aerodrome",
+      "B": "The entire territory of a State",
+      "C": "The movement area of an aerodrome",
+      "D": "Areas bordering the aerodrome movement area",
+      "E": "The area extending 900 m prior to runway threshold",
+      "F": "The take‑off flight path area only"
+    },
+    "correct_answer": "B",
+    "explanation": "Section 5.3.3.1: 'The coverage areas for terrain and obstacle data sets shall be specified as: - Area 1: the entire territory of a State;'",
+    "difficulty": "easy",
+    "topic": "Terrain data coverage - Area 1",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 5. AERONAUTICAL INFORMATION PRODUCTS AND SERVICES",
+    "sub_chapter": "5.3.3 Terrain and obstacle data sets",
+    "image_description": null
+  },
+  {
+    "temp_id": "a6eebc99-9c0b-4ef8-bb6d-6bb9bd380a47",
+    "question_text": "True or False: Section 5.3.3.3.2 requires terrain data to be provided for Area 1 only if the State chooses to do so.",
+    "options": {
+      "True": "True",
+      "False": "False"
+    },
+    "correct_answer": "False",
+    "explanation": "Section 5.3.3.3.2 states: 'Terrain data shall be provided for Area 1.' This is a mandatory requirement, not optional.",
+    "difficulty": "easy",
+    "topic": "Terrain data - Area 1 mandatory",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 5. AERONAUTICAL INFORMATION PRODUCTS AND SERVICES",
+    "sub_chapter": "5.3.3.3 Terrain data sets",
+    "image_description": null
+  },
+  {
+    "temp_id": "b6eebc99-9c0b-4ef8-bb6d-6bb9bd380a48",
+    "question_text": "According to section 5.3.3.4.2, how should obstacle data be treated relative to terrain data sets?",
+    "options": {
+      "A": "Obstacle data may be combined with terrain data sets",
+      "B": "Obstacle data shall not be included in terrain data sets",
+      "C": "Obstacle data must be stored in the same file as terrain data",
+      "D": "Obstacle data is optional for terrain data sets",
+      "E": "Terrain data sets must include all obstacles",
+      "F": "Obstacle data replaces terrain data"
+    },
+    "correct_answer": "B",
+    "explanation": "Section 5.3.3.4.2: 'Obstacle data shall not be included in terrain data sets.'",
+    "difficulty": "easy",
+    "topic": "Obstacle data separation",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 5. AERONAUTICAL INFORMATION PRODUCTS AND SERVICES",
+    "sub_chapter": "5.3.3.4 Obstacle data sets",
+    "image_description": null
+  },
+  {
+    "temp_id": "c6eebc99-9c0b-4ef8-bb6d-6bb9bd380a49",
+    "question_text": "What is the requirement for obstacle data in Area 1 according to section 5.3.3.4.3?",
+    "options": {
+      "A": "All obstacles regardless of height",
+      "B": "Obstacles whose height is 100 m or higher above ground",
+      "C": "Only obstacles taller than 50 m",
+      "D": "Only natural obstacles",
+      "E": "Only man-made obstacles",
+      "F": "No obstacles in Area 1"
+    },
+    "correct_answer": "B",
+    "explanation": "Section 5.3.3.4.3: 'Obstacle data shall be provided for obstacles in Area 1 whose height is 100 m or higher above ground.'",
+    "difficulty": "medium",
+    "topic": "Obstacle data - Area 1 threshold",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 5. AERONAUTICAL INFORMATION PRODUCTS AND SERVICES",
+    "sub_chapter": "5.3.3.4 Obstacle data sets",
+    "image_description": null
+  },
+  {
+    "temp_id": "d6eebc99-9c0b-4ef8-bb6d-6bb9bd380a50",
+    "question_text": "According to section 5.4.1.3, what is recommended for the provision of aeronautical information products?",
+    "options": {
+      "A": "Only postal mail",
+      "B": "Global communication networks such as the Internet should be employed whenever practicable",
+      "C": "Exclusive use of the aeronautical fixed service",
+      "D": "Only paper copies",
+      "E": "Use of fax machines",
+      "F": "Restricted distribution via diplomatic pouches"
+    },
+    "correct_answer": "B",
+    "explanation": "Section 5.4.1.3: 'Recommendation. - Global communication networks such as the Internet should, whenever practicable, be employed for the provision of aeronautical information products.'",
+    "difficulty": "easy",
+    "topic": "Distribution services - Internet",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 5. AERONAUTICAL INFORMATION PRODUCTS AND SERVICES",
+    "sub_chapter": "5.4 Distribution services",
+    "image_description": null
+  },
+  {
+    "temp_id": "e6eebc99-9c0b-4ef8-bb6d-6bb9bd380a51",
+    "question_text": "True or False: According to section 5.5.1, pre-flight aeronautical information must be made available only to flight crews, not to flight operations personnel.",
+    "options": {
+      "True": "True",
+      "False": "False"
+    },
+    "correct_answer": "False",
+    "explanation": "Section 5.5.1: 'aeronautical information relative to the route stages originating at the aerodrome/heliport shall be made available to flight operations personnel, including flight crews and services responsible for pre-flight information.' Thus it includes flight operations personnel.",
+    "difficulty": "medium",
+    "topic": "Pre-flight information service",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 5. AERONAUTICAL INFORMATION PRODUCTS AND SERVICES",
+    "sub_chapter": "5.5 Pre-flight information service",
+    "image_description": null
+  },
+  {
+    "temp_id": "f6eebc99-9c0b-4ef8-bb6d-6bb9bd380a52",
+    "question_text": "According to section 5.6.1, what type of information shall be received from flight crews regarding air navigation facilities?",
+    "options": {
+      "A": "Only complaints about food service",
+      "B": "Information concerning the state and operation of air navigation facilities or services",
+      "C": "Information about passenger numbers",
+      "D": "Information about fuel prices",
+      "E": "Information about airline schedules",
+      "F": "Information about cabin crew performance"
+    },
+    "correct_answer": "B",
+    "explanation": "Section 5.6.1: 'For any aerodrome/heliport used for international air operations, arrangements shall be made to receive information concerning the state and operation of air navigation facilities or services noted by flight crews.'",
+    "difficulty": "medium",
+    "topic": "Post-flight information service",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 5. AERONAUTICAL INFORMATION PRODUCTS AND SERVICES",
+    "sub_chapter": "5.6 Post-flight information service",
+    "image_description": null
+  },
+  {
+    "temp_id": "a7eebc99-9c0b-4ef8-bb6d-6bb9bd380a53",
+    "question_text": "What is the interval of common effective dates for the AIRAC system according to section 6.2.1?",
+    "options": {
+      "A": "14 days",
+      "B": "28 days",
+      "C": "56 days",
+      "D": "7 days",
+      "E": "30 days",
+      "F": "90 days"
+    },
+    "correct_answer": "B",
+    "explanation": "Section 6.2.1: '...basing establishment, withdrawal or significant changes upon a series of common effective dates at intervals of 28 days, including 8 November 2018.'",
+    "difficulty": "easy",
+    "topic": "AIRAC - Effective date interval",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 6. UPDATING",
+    "sub_chapter": "6.2 Aeronautical information regulation and control (AIRAC)",
+    "image_description": null
+  },
+  {
+    "temp_id": "b7eebc99-9c0b-4ef8-bb6d-6bb9bd380a54",
+    "question_text": "How many days in advance of the effective date must AIRAC information be made available to recipients?",
+    "options": {
+      "A": "14 days",
+      "B": "28 days",
+      "C": "42 days",
+      "D": "56 days",
+      "E": "7 days",
+      "F": "21 days"
+    },
+    "correct_answer": "B",
+    "explanation": "Section 6.2.3: 'Information provided under the AIRAC system shall be made available by the aeronautical information service (AIS) so as to reach recipients at least 28 days in advance of the effective date.' Note: AIS distributes at least 42 days in advance to achieve this, but the requirement for receipt is 28 days.",
+    "difficulty": "medium",
+    "topic": "AIRAC - Advance notification",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 6. UPDATING",
+    "sub_chapter": "6.2 Aeronautical information regulation and control (AIRAC)",
+    "image_description": null
+  },
+  {
+    "temp_id": "c7eebc99-9c0b-4ef8-bb6d-6bb9bd380a55",
+    "question_text": "According to section 6.3.1.3, how should temporary changes of long duration (three months or longer) be published?",
+    "options": {
+      "A": "As AIP Amendments",
+      "B": "As AIP Supplements",
+      "C": "As NOTAM",
+      "D": "As AIC",
+      "E": "As a Trigger NOTAM only",
+      "F": "As a digital data set only"
+    },
+    "correct_answer": "B",
+    "explanation": "Section 6.3.1.3: 'Temporary changes of long duration (three months or longer) and information of short duration which contains extensive text and/or graphics shall be published as AIP Supplements.'",
+    "difficulty": "easy",
+    "topic": "AIP Supplements - Temporary changes",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 6. UPDATING",
+    "sub_chapter": "6.3.1 AIP updates",
+    "image_description": null
+  },
+  {
+    "temp_id": "d7eebc99-9c0b-4ef8-bb6d-6bb9bd380a56",
+    "question_text": "What is a Trigger NOTAM according to section 6.3.2.1?",
+    "options": {
+      "A": "A NOTAM that warns of military exercises",
+      "B": "A NOTAM originated when an AIP Amendment or AIP Supplement is published in accordance with AIRAC procedures",
+      "C": "A NOTAM that cancels all previous NOTAM",
+      "D": "A NOTAM that is issued only for volcanic ash",
+      "E": "A NOTAM that triggers automatic airport lighting",
+      "F": "A NOTAM that is never used internationally"
+    },
+    "correct_answer": "B",
+    "explanation": "Section 6.3.2.1: 'When an AIP Amendment or an AIP Supplement is published in accordance with AIRAC procedures, a Trigger NOTAM shall be originated.'",
+    "difficulty": "hard",
+    "topic": "Trigger NOTAM",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 6. UPDATING",
+    "sub_chapter": "6.3.2 NOTAM",
+    "image_description": null
+  },
+  {
+    "temp_id": "e7eebc99-9c0b-4ef8-bb6d-6bb9bd380a57",
+    "question_text": "True or False: According to section 6.3.2.4, a NOTAM may be used to notify routine maintenance work on aprons that does not affect safe movement of aircraft.",
+    "options": {
+      "True": "True",
+      "False": "False"
+    },
+    "correct_answer": "False",
+    "explanation": "Section 6.3.2.4 lists information that shall NOT be notified by NOTAM, including 'a) routine maintenance work on aprons and taxiways which does not affect the safe movement of aircraft;'",
+    "difficulty": "medium",
+    "topic": "NOTAM - Exclusions",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 6. UPDATING",
+    "sub_chapter": "6.3.2 NOTAM",
+    "image_description": null
+  },
+  {
+    "temp_id": "f7eebc99-9c0b-4ef8-bb6d-6bb9bd380a58",
+    "question_text": "According to section 6.3.3.5, what must be synchronized?",
+    "options": {
+      "A": "NOTAM and AIC",
+      "B": "AIP and digital data set updates",
+      "C": "Terrain and obstacle data sets",
+      "D": "Pre-flight and post-flight information",
+      "E": "Domestic and international AIS",
+      "F": "Paper and electronic AIP"
+    },
+    "correct_answer": "B",
+    "explanation": "Section 6.3.3.5: 'Updates to AIP and digital data sets shall be synchronized.'",
+    "difficulty": "easy",
+    "topic": "Synchronization of updates",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 6. UPDATING",
+    "sub_chapter": "6.3.3 Data set updates",
+    "image_description": null
+  },
+  {
+    "temp_id": "a8eebc99-9c0b-4ef8-bb6d-6bb9bd380a59",
+    "question_text": "What does the term 'Bare Earth' mean in the definitions of Chapter 1.1?",
+    "options": {
+      "A": "The surface of the Earth including all buildings and vegetation",
+      "B": "Surface of the Earth including bodies of water and permanent ice and snow, excluding vegetation and manmade objects",
+      "C": "Only the soil surface without any water",
+      "D": "The top layer of soil only",
+      "E": "The Earth's core",
+      "F": "The atmosphere above the ground"
+    },
+    "correct_answer": "B",
+    "explanation": "Chapter 1.1 defines: 'Bare Earth. Surface of the Earth including bodies of water and permanent ice and snow, and excluding vegetation and manmade objects.'",
+    "difficulty": "medium",
+    "topic": "Definitions - Bare Earth",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 1. GENERAL",
+    "sub_chapter": "1.1 Definitions",
+    "image_description": null
+  },
+  {
+    "temp_id": "b8eebc99-9c0b-4ef8-bb6d-6bb9bd380a60",
+    "question_text": "True or False: According to section 1.2.2.2, the Earth Gravitational Model — 1996 (EGM-96) shall be used as the global gravity model for international air navigation.",
+    "options": {
+      "True": "True",
+      "False": "False"
+    },
+    "correct_answer": "True",
+    "explanation": "Section 1.2.2.2: 'The Earth Gravitational Model — 1996 (EGM-96) shall be used as the global gravity model for international air navigation.'",
+    "difficulty": "easy",
+    "topic": "Vertical reference system - Gravity model",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 1. GENERAL",
+    "sub_chapter": "1.2 Common reference system for air navigation",
+    "image_description": null
+  },
+  {
+    "temp_id": "c8eebc99-9c0b-4ef8-bb6d-6bb9bd380a61",
+    "question_text": "According to section 1.2.2.3, when a geoid model other than EGM-96 is used, what must be provided in the AIP?",
+    "options": {
+      "A": "Only the name of the model",
+      "B": "A description of the model used, including parameters required for height transformation between the model and EGM-96",
+      "C": "The raw gravity data",
+      "D": "The software used to compute the model",
+      "E": "The coordinates of all airports",
+      "F": "A comparison with WGS-84"
+    },
+    "correct_answer": "B",
+    "explanation": "Section 1.2.2.3: 'When a geoid model other than the EGM-96 model is used, a description of the model used, including the parameters required for height transformation between the model and EGM-96, shall be provided in the Aeronautical Information Publication (AIP).'",
+    "difficulty": "medium",
+    "topic": "Vertical reference system - Geoid models",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 1. GENERAL",
+    "sub_chapter": "1.2 Common reference system for air navigation",
+    "image_description": null
+  },
+  {
+    "temp_id": "d8eebc99-9c0b-4ef8-bb6d-6bb9bd380a62",
+    "question_text": "True or False: Section 1.2.3.2 states that if a different temporal reference system is used, no description is required.",
+    "options": {
+      "True": "True",
+      "False": "False"
+    },
+    "correct_answer": "False",
+    "explanation": "Section 1.2.3.2: 'When a different temporal reference system is used for some applications, the feature catalogue, or the metadata associated with an application schema or a data set, as appropriate shall include a description of that system or a citation for a document that describes that temporal reference system.' Thus a description is required.",
+    "difficulty": "easy",
+    "topic": "Temporal reference system - Alternate systems",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 1. GENERAL",
+    "sub_chapter": "1.2 Common reference system for air navigation",
+    "image_description": null
+  },
+  {
+    "temp_id": "e8eebc99-9c0b-4ef8-bb6d-6bb9bd380a63",
+    "question_text": "According to section 2.1.3, who remains responsible for aeronautical data and information provided under the State's authority?",
+    "options": {
+      "A": "The non-governmental agency",
+      "B": "The State concerned",
+      "C": "The AIS unit",
+      "D": "The originator of the data",
+      "E": "The next intended user",
+      "F": "ICAO"
+    },
+    "correct_answer": "B",
+    "explanation": "Section 2.1.3: 'The State concerned shall remain responsible for the aeronautical data and aeronautical information provided in accordance with 2.1.2. Aeronautical data and aeronautical information provided for and on behalf of a State shall clearly indicate that they are provided under the authority of that State, irrespective of the format in which they are provided.'",
+    "difficulty": "easy",
+    "topic": "State responsibility",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 2. STATE RESPONSIBILITIES",
+    "sub_chapter": "2.1 State responsibilities",
+    "image_description": null
+  },
+  {
+    "temp_id": "f8eebc99-9c0b-4ef8-bb6d-6bb9bd380a64",
+    "question_text": "What must each Contracting State ensure regarding formal arrangements between originators and the AIS?",
+    "options": {
+      "A": "That originators are paid for their data",
+      "B": "That formal arrangements are established in relation to the timely and complete provision of aeronautical data and information",
+      "C": "That all data is provided free of charge",
+      "D": "That no arrangements are needed",
+      "E": "That only digital data is exchanged",
+      "F": "That arrangements are reviewed annually by ICAO"
+    },
+    "correct_answer": "B",
+    "explanation": "Section 2.1.5: 'Each Contracting State shall ensure that formal arrangements are established between originators of aeronautical data and aeronautical information and the AIS in relation to the timely and complete provision of aeronautical data and aeronautical information.'",
+    "difficulty": "medium",
+    "topic": "Formal arrangements with originators",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 2. STATE RESPONSIBILITIES",
+    "sub_chapter": "2.1 State responsibilities",
+    "image_description": null
+  },
+  {
+    "temp_id": "a9eebc99-9c0b-4ef8-bb6d-6bb9bd380a65",
+    "question_text": "According to section 2.2.6, if aeronautical data obtained from other sources cannot be verified before distribution, how must it be identified?",
+    "options": {
+      "A": "As having the authority of the originating State",
+      "B": "As unverified",
+      "C": "As provisional",
+      "D": "As not for navigation",
+      "E": "As classified",
+      "F": "No identification needed"
+    },
+    "correct_answer": "B",
+    "explanation": "Section 2.2.6: 'Aeronautical data and aeronautical information obtained under 2.2.4 b) shall, if possible, be verified before distribution and if not verified shall, when distributed, be clearly identified as such.'",
+    "difficulty": "medium",
+    "topic": "Unverified data handling",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 2. STATE RESPONSIBILITIES",
+    "sub_chapter": "2.2 AIS responsibilities and functions",
+    "image_description": null
+  },
+  {
+    "temp_id": "b9eebc99-9c0b-4ef8-bb6d-6bb9bd380a66",
+    "question_text": "True or False: Section 2.3.2 recommends that formal arrangements should be established between parties providing aeronautical data on behalf of States and their users.",
+    "options": {
+      "True": "True",
+      "False": "False"
+    },
+    "correct_answer": "True",
+    "explanation": "Section 2.3.2: 'Recommendation. - Formal arrangements should be established between those parties providing aeronautical data and aeronautical information on behalf of the States and their users in relation to the provision of the service.'",
+    "difficulty": "easy",
+    "topic": "Formal arrangements with users",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 2. STATE RESPONSIBILITIES",
+    "sub_chapter": "2.3 Exchange of aeronautical data and aeronautical information",
+    "image_description": null
+  },
+  {
+    "temp_id": "c9eebc99-9c0b-4ef8-bb6d-6bb9bd380a67",
+    "question_text": "According to section 2.3.8, when are digital data sets provided to another State's AIS?",
+    "options": {
+      "A": "Always free of charge",
+      "B": "On the basis of agreement between the Contracting States concerned",
+      "C": "Only for emergency situations",
+      "D": "Never, only paper products",
+      "E": "Upon request without conditions",
+      "F": "Through ICAO centrally"
+    },
+    "correct_answer": "B",
+    "explanation": "Section 2.3.8: 'When aeronautical data and aeronautical information are provided in the form of digital data sets to be used by the AIS, they shall be provided on the basis of agreement between the Contracting States concerned.'",
+    "difficulty": "easy",
+    "topic": "Digital data exchange - Agreement required",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 2. STATE RESPONSIBILITIES",
+    "sub_chapter": "2.3 Exchange of aeronautical data and aeronautical information",
+    "image_description": null
+  },
+  {
+    "temp_id": "d9eebc99-9c0b-4ef8-bb6d-6bb9bd380a68",
+    "question_text": "What does section 2.5 recommend regarding cost recovery for collecting and compiling aeronautical data?",
+    "options": {
+      "A": "Users must pay per product",
+      "B": "The overhead cost should be included in the cost basis for airport and air navigation services charges as appropriate",
+      "C": "Costs are borne entirely by the State",
+      "D": "Costs are recovered through a separate tax",
+      "E": "No cost recovery is allowed",
+      "F": "Costs are recovered from ICAO"
+    },
+    "correct_answer": "B",
+    "explanation": "Section 2.5: 'Recommendation. The overhead cost of collecting and compiling aeronautical data and aeronautical information should be included in the cost basis for airport and air navigation services charges as appropriate in accordance with the principles contained in ICAO's Policies on Charges for Airports and Air Navigation Services (Doc 9082).'",
+    "difficulty": "hard",
+    "topic": "Cost recovery",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 2. STATE RESPONSIBILITIES",
+    "sub_chapter": "2.5 Cost recovery",
+    "image_description": null
+  },
+  {
+    "temp_id": "e9eebc99-9c0b-4ef8-bb6d-6bb9bd380a69",
+    "question_text": "According to section 3.2.1, the order of accuracy for aeronautical data shall be in accordance with what?",
+    "options": {
+      "A": "The preference of the AIS",
+      "B": "Its intended use",
+      "C": "The type of aircraft",
+      "D": "The age of the data",
+      "E": "The cost of collection",
+      "F": "International standards regardless of use"
+    },
+    "correct_answer": "B",
+    "explanation": "Section 3.2.1: 'The order of accuracy for aeronautical data shall be in accordance with its intended use.'",
+    "difficulty": "easy",
+    "topic": "Data accuracy - Intended use",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 3. INFORMATION MANAGEMENT AND QUALITY",
+    "sub_chapter": "3.2 Data quality specifications",
+    "image_description": null
+  },
+  {
+    "temp_id": "f9eebc99-9c0b-4ef8-bb6d-6bb9bd380a70",
+    "question_text": "True or False: Section 3.2.2 states that the resolution of aeronautical data can be coarser than the actual data accuracy.",
+    "options": {
+      "True": "True",
+      "False": "False"
+    },
+    "correct_answer": "False",
+    "explanation": "Section 3.2.2: 'The order of resolution of aeronautical data shall be commensurate with the actual data accuracy.' 'Commensurate' means consistent with, not coarser.",
+    "difficulty": "medium",
+    "topic": "Data resolution",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 3. INFORMATION MANAGEMENT AND QUALITY",
+    "sub_chapter": "3.2 Data quality specifications",
+    "image_description": null
+  },
+  {
+    "temp_id": "a10eebc99-9c0b-4ef8-bb6d-6bb9bd380a71",
+    "question_text": "What does section 3.2.4 require regarding traceability of aeronautical data?",
+    "options": {
+      "A": "Traceability is required only for critical data",
+      "B": "Traceability shall be ensured and retained as long as the data is in use",
+      "C": "Traceability is optional",
+      "D": "Traceability must be removed after 5 years",
+      "E": "Only metadata needs traceability",
+      "F": "Traceability applies only to obstacle data"
+    },
+    "correct_answer": "B",
+    "explanation": "Section 3.2.4: 'Traceability of aeronautical data shall be ensured and retained as long as the data is in use.'",
+    "difficulty": "easy",
+    "topic": "Data traceability",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 3. INFORMATION MANAGEMENT AND QUALITY",
+    "sub_chapter": "3.2 Data quality specifications",
+    "image_description": null
+  },
+  {
+    "temp_id": "b10eebc99-9c0b-4ef8-bb6d-6bb9bd380a72",
+    "question_text": "According to section 3.4.1, when must digital data error detection techniques be used?",
+    "options": {
+      "A": "Only during storage",
+      "B": "Only during transmission",
+      "C": "During transmission and/or storage of aeronautical data and digital data sets",
+      "D": "Only for critical data",
+      "E": "Only for terrain data",
+      "F": "Only for NOTAM"
+    },
+    "correct_answer": "C",
+    "explanation": "Section 3.4.1: 'Digital data error detection techniques shall be used during the transmission and/or storage of aeronautical data and digital data sets.'",
+    "difficulty": "easy",
+    "topic": "Data error detection",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 3. INFORMATION MANAGEMENT AND QUALITY",
+    "sub_chapter": "3.4 Data error detection",
+    "image_description": null
+  },
+  {
+    "temp_id": "c10eebc99-9c0b-4ef8-bb6d-6bb9bd380a73",
+    "question_text": "True or False: Section 3.6.2 recommends that quality management should be applicable only to the distribution part of the aeronautical data chain.",
+    "options": {
+      "True": "True",
+      "False": "False"
+    },
+    "correct_answer": "False",
+    "explanation": "Section 3.6.2: 'Recommendation. Quality management should be applicable to the whole aeronautical data chain from data origination to distribution to the next intended user, taking into consideration the intended use of data.'",
+    "difficulty": "easy",
+    "topic": "Quality management - Whole chain",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 3. INFORMATION MANAGEMENT AND QUALITY",
+    "sub_chapter": "3.6 Quality management system",
+    "image_description": null
+  },
+  {
+    "temp_id": "d10eebc99-9c0b-4ef8-bb6d-6bb9bd380a74",
+    "question_text": "According to section 3.6.6, what must the quality management system provide to users?",
+    "options": {
+      "A": "Free access to all data",
+      "B": "The necessary assurance and confidence that distributed data satisfies quality requirements",
+      "C": "A guarantee of no errors",
+      "D": "Real-time updates",
+      "E": "Direct contact with data originators",
+      "F": "Training on data use"
+    },
+    "correct_answer": "B",
+    "explanation": "Section 3.6.6: 'The established quality management system shall provide users with the necessary assurance and confidence that distributed aeronautical data and aeronautical information satisfy the aeronautical data quality requirements.'",
+    "difficulty": "medium",
+    "topic": "Quality management - User confidence",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 3. INFORMATION MANAGEMENT AND QUALITY",
+    "sub_chapter": "3.6 Quality management system",
+    "image_description": null
+  },
+  {
+    "temp_id": "e10eebc99-9c0b-4ef8-bb6d-6bb9bd380a75",
+    "question_text": "How shall demonstration of compliance of the quality management system be achieved according to section 3.6.8?",
+    "options": {
+      "A": "By self-declaration",
+      "B": "By audit",
+      "C": "By user feedback",
+      "D": "By ICAO inspection",
+      "E": "By peer review",
+      "F": "By annual report"
+    },
+    "correct_answer": "B",
+    "explanation": "Section 3.6.8: 'Demonstration of compliance of the quality management system applied shall be by audit. If nonconformity is identified, initiating action to correct its cause shall be determined and taken without undue delay.'",
+    "difficulty": "easy",
+    "topic": "Compliance demonstration - Audit",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 3. INFORMATION MANAGEMENT AND QUALITY",
+    "sub_chapter": "3.6 Quality management system",
+    "image_description": null
+  },
+  {
+    "temp_id": "f10eebc99-9c0b-4ef8-bb6d-6bb9bd380a76",
+    "question_text": "According to section 5.2.1.1, in what forms shall the AIP, AIP Amendment, AIP Supplement and AIC be provided?",
+    "options": {
+      "A": "Only in electronic form",
+      "B": "Only on paper",
+      "C": "On paper and/or as an electronic document",
+      "D": "As a digital data set only",
+      "E": "As a microfilm",
+      "F": "As a CD-ROM only"
+    },
+    "correct_answer": "C",
+    "explanation": "Section 5.2.1.1: 'The AIP, AIP Amendment, AIP Supplement and AIC shall be provided on paper and/or as an electronic document.'",
+    "difficulty": "easy",
+    "topic": "AIP formats",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 5. AERONAUTICAL INFORMATION PRODUCTS AND SERVICES",
+    "sub_chapter": "5.2.1 Aeronautical information in a standardized presentation",
+    "image_description": null
+  },
+  {
+    "temp_id": "a11eebc99-9c0b-4ef8-bb6d-6bb9bd380a77",
+    "question_text": "True or False: Section 5.2.2 requires that the AIP include a statement of the competent authority responsible for the air navigation facilities, services or procedures covered.",
+    "options": {
+      "True": "True",
+      "False": "False"
+    },
+    "correct_answer": "True",
+    "explanation": "Section 5.2.2 lists what the AIP shall include, including 'a) a statement of the competent authority responsible for the air navigation facilities, services or procedures covered by the AIP;'",
+    "difficulty": "easy",
+    "topic": "AIP content - Competent authority",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 5. AERONAUTICAL INFORMATION PRODUCTS AND SERVICES",
+    "sub_chapter": "5.2.2 Aeronautical Information Publication",
+    "image_description": null
+  },
+  {
+    "temp_id": "b11eebc99-9c0b-4ef8-bb6d-6bb9bd380a78",
+    "question_text": "According to section 5.2.4.3, how often shall the validity of AIC currently in force be reviewed?",
+    "options": {
+      "A": "Every month",
+      "B": "At least once a year",
+      "C": "Every two years",
+      "D": "Every six months",
+      "E": "Every five years",
+      "F": "Only when a new AIC is issued"
+    },
+    "correct_answer": "B",
+    "explanation": "Section 5.2.4.3: 'The validity of AIC currently in force shall be reviewed at least once a year.'",
+    "difficulty": "easy",
+    "topic": "AIC validity review",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 5. AERONAUTICAL INFORMATION PRODUCTS AND SERVICES",
+    "sub_chapter": "5.2.4 Aeronautical Information Circulars",
+    "image_description": null
+  },
+  {
+    "temp_id": "c11eebc99-9c0b-4ef8-bb6d-6bb9bd380a79",
+    "question_text": "What does section 5.2.5.5 say about chart resolution of aeronautical data?",
+    "options": {
+      "A": "It is the same for all charts",
+      "B": "It shall be that as specified for a particular chart",
+      "C": "It is determined by the AIS",
+      "D": "It is not specified",
+      "E": "It must be the highest possible resolution",
+      "F": "It is the same as data resolution"
+    },
+    "correct_answer": "B",
+    "explanation": "Section 5.2.5.5: 'The chart resolution of aeronautical data shall be that as specified for a particular chart.'",
+    "difficulty": "medium",
+    "topic": "Chart resolution",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 5. AERONAUTICAL INFORMATION PRODUCTS AND SERVICES",
+    "sub_chapter": "5.2.5 Aeronautical charts",
+    "image_description": null
+  },
+  {
+    "temp_id": "d11eebc99-9c0b-4ef8-bb6d-6bb9bd380a80",
+    "question_text": "According to section 5.3.1.2, what must be provided together with each data set to the next intended user?",
+    "options": {
+      "A": "A paper copy of the data",
+      "B": "At least the minimum set of metadata that ensures traceability",
+      "C": "A NOTAM trigger",
+      "D": "A digital signature",
+      "E": "An encryption key",
+      "F": "A user manual"
+    },
+    "correct_answer": "B",
+    "explanation": "Section 5.3.1.2: 'Each data set shall be provided to the next intended user together with at least the minimum set of metadata that ensures traceability.'",
+    "difficulty": "easy",
+    "topic": "Data sets - Metadata requirement",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 5. AERONAUTICAL INFORMATION PRODUCTS AND SERVICES",
+    "sub_chapter": "5.3.1 Digital data sets - General",
+    "image_description": null
+  },
+  {
+    "temp_id": "e11eebc99-9c0b-4ef8-bb6d-6bb9bd380a81",
+    "question_text": "True or False: Section 5.3.2.1 recommends that an AIP data set should be provided covering the extent of information as provided in the AIP.",
+    "options": {
+      "True": "True",
+      "False": "False"
+    },
+    "correct_answer": "True",
+    "explanation": "Section 5.3.2.1: 'Recommendation. An AIP data set should be provided covering the extent of information as provided in the AIP.'",
+    "difficulty": "easy",
+    "topic": "AIP data set recommendation",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 5. AERONAUTICAL INFORMATION PRODUCTS AND SERVICES",
+    "sub_chapter": "5.3.2 AIP data set",
+    "image_description": null
+  },
+  {
+    "temp_id": "f11eebc99-9c0b-4ef8-bb6d-6bb9bd380a82",
+    "question_text": "According to section 5.3.3.1, Area 2c for terrain and obstacle data sets is defined as:",
+    "options": {
+      "A": "An area extending from the ends of Area 2a with a length of 10 km",
+      "B": "An area extending outside Area 2a and Area 2b at a distance of not more than 10 km from the boundary of Area 2a",
+      "C": "The entire territory of a State",
+      "D": "The area bordering the movement area extending 90 m from runway centre line",
+      "E": "The area extending 900 m prior to runway threshold",
+      "F": "An area up to 45 km from the aerodrome reference point"
+    },
+    "correct_answer": "B",
+    "explanation": "Section 5.3.3.1: 'Area 2c: an area extending outside Area 2a and Area 2b at a distance of not more than 10 km from the boundary of Area 2a;'",
+    "difficulty": "hard",
+    "topic": "Terrain data coverage - Area 2c",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 5. AERONAUTICAL INFORMATION PRODUCTS AND SERVICES",
+    "sub_chapter": "5.3.3 Terrain and obstacle data sets",
+    "image_description": null
+  },
+  {
+    "temp_id": "a12eebc99-9c0b-4ef8-bb6d-6bb9bd380a83",
+    "question_text": "For which runways must terrain data be provided for Area 4 according to section 5.3.3.3.8?",
+    "options": {
+      "A": "All runways",
+      "B": "Runways where precision approach Category II or III operations have been established",
+      "C": "Only Category I runways",
+      "D": "Only non-precision runways",
+      "E": "Only runways used by international flights",
+      "F": "All runways with a length over 2000 m"
+    },
+    "correct_answer": "B",
+    "explanation": "Section 5.3.3.3.8: 'For aerodromes regularly used by international civil aviation, terrain data shall be provided for Area 4 for all runways where precision approach Category II or III operations have been established and where detailed terrain information is required by operators to enable them to assess the effect of terrain on decision height determination by use of radio altimeters.'",
+    "difficulty": "hard",
+    "topic": "Terrain data - Area 4 for Cat II/III",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 5. AERONAUTICAL INFORMATION PRODUCTS AND SERVICES",
+    "sub_chapter": "5.3.3.3 Terrain data sets",
+    "image_description": null
+  },
+  {
+    "temp_id": "b12eebc99-9c0b-4ef8-bb6d-6bb9bd380a84",
+    "question_text": "According to section 5.3.3.4.5 a), what is the height of the Area 2a obstacle collection surface?",
+    "options": {
+      "A": "2 m above the nearest runway elevation",
+      "B": "3 m above the nearest runway elevation measured along the runway centre line",
+      "C": "5 m above ground",
+      "D": "10 m above the runway end",
+      "E": "1.2% slope",
+      "F": "15 m above ground"
+    },
+    "correct_answer": "B",
+    "explanation": "Section 5.3.3.4.5 a): 'The Area 2a obstacle collection surface shall have a height of 3m above the nearest runway elevation measured along the runway centre line, and for those portions related to a clearway, if one exists, at the elevation of the nearest runway end;'",
+    "difficulty": "medium",
+    "topic": "Obstacle data - Area 2a collection surface",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 5. AERONAUTICAL INFORMATION PRODUCTS AND SERVICES",
+    "sub_chapter": "5.3.3.4 Obstacle data sets",
+    "image_description": null
+  },
+  {
+    "temp_id": "c12eebc99-9c0b-4ef8-bb6d-6bb9bd380a85",
+    "question_text": "True or False: Section 5.3.4.2 recommends that aerodrome mapping data sets should be made available for all aerodromes, regardless of international use.",
+    "options": {
+      "True": "True",
+      "False": "False"
+    },
+    "correct_answer": "False",
+    "explanation": "Section 5.3.4.2: 'Recommendation. Aerodrome mapping data sets should be made available for aerodromes regularly used by international civil aviation.' Not for all aerodromes.",
+    "difficulty": "easy",
+    "topic": "Aerodrome mapping data sets - Recommendation",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 5. AERONAUTICAL INFORMATION PRODUCTS AND SERVICES",
+    "sub_chapter": "5.3.4 Aerodrome mapping data sets",
+    "image_description": null
+  },
+  {
+    "temp_id": "d12eebc99-9c0b-4ef8-bb6d-6bb9bd380a86",
+    "question_text": "According to section 5.4.2.3, what shall be employed for NOTAM distribution whenever practicable?",
+    "options": {
+      "A": "The Internet",
+      "B": "The aeronautical fixed service (AFS)",
+      "C": "Postal mail",
+      "D": "Satellite phone",
+      "E": "Fax",
+      "F": "Radio broadcast"
+    },
+    "correct_answer": "B",
+    "explanation": "Section 5.4.2.3: 'The aeronautical fixed service (AFS) shall, whenever practicable, be employed for NOTAM distribution.'",
+    "difficulty": "easy",
+    "topic": "NOTAM distribution - AFS",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 5. AERONAUTICAL INFORMATION PRODUCTS AND SERVICES",
+    "sub_chapter": "5.4.2 NOTAM distribution",
+    "image_description": null
+  },
+  {
+    "temp_id": "e12eebc99-9c0b-4ef8-bb6d-6bb9bd380a87",
+    "question_text": "When a NOTAM is sent by means other than the AFS, what must be used preceding the text?",
+    "options": {
+      "A": "The word 'NOTAM'",
+      "B": "A six-digit date-time group indicating the date and time of NOTAM origination, and the identification of the originator",
+      "C": "The ICAO airport code",
+      "D": "The NOTAM series number",
+      "E": "The valid period",
+      "F": "The signature of the originator"
+    },
+    "correct_answer": "B",
+    "explanation": "Section 5.4.2.4: 'When a NOTAM is sent by means other than the AFS, a six-digit date-time group indicating the date and time of NOTAM origination, and the identification of the originator shall be used, preceding the text.'",
+    "difficulty": "medium",
+    "topic": "NOTAM - Date-time group",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 5. AERONAUTICAL INFORMATION PRODUCTS AND SERVICES",
+    "sub_chapter": "5.4.2 NOTAM distribution",
+    "image_description": null
+  },
+  {
+    "temp_id": "f12eebc99-9c0b-4ef8-bb6d-6bb9bd380a88",
+    "question_text": "According to section 5.5.2, what form may be used to make available recapitulation of valid NOTAM of operational significance?",
+    "options": {
+      "A": "AIP Supplements",
+      "B": "Plain-language pre-flight information bulletins (PIB)",
+      "C": "AIC",
+      "D": "Digital data sets",
+      "E": "Trigger NOTAM",
+      "F": "SNOWTAM"
+    },
+    "correct_answer": "B",
+    "explanation": "Section 5.5.2 Note 2: 'A recapitulation of valid NOTAM of operational significance and other information of urgent character may be made available to flight crews in the form of plain-language pre-flight information bulletins (PIB).'",
+    "difficulty": "medium",
+    "topic": "Pre-flight information - PIB",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 5. AERONAUTICAL INFORMATION PRODUCTS AND SERVICES",
+    "sub_chapter": "5.5 Pre-flight information service",
+    "image_description": null
+  },
+  {
+    "temp_id": "a13eebc99-9c0b-4ef8-bb6d-6bb9bd380a89",
+    "question_text": "True or False: Section 5.6.3 requires arrangements to receive information about wildlife hazards from flight crews.",
+    "options": {
+      "True": "True",
+      "False": "False"
+    },
+    "correct_answer": "True",
+    "explanation": "Section 5.6.3: 'For any aerodrome/heliport used for international air operations, arrangements shall be made to receive information concerning the presence of wildlife hazards observed by flight crews.'",
+    "difficulty": "easy",
+    "topic": "Post-flight - Wildlife hazards",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 5. AERONAUTICAL INFORMATION PRODUCTS AND SERVICES",
+    "sub_chapter": "5.6 Post-flight information service",
+    "image_description": null
+  },
+  {
+    "temp_id": "b13eebc99-9c0b-4ef8-bb6d-6bb9bd380a90",
+    "question_text": "According to section 6.2.2, after an AIRAC effective date, when can the information be changed?",
+    "options": {
+      "A": "At any time",
+      "B": "Not for at least another 28 days, unless the circumstance is temporary and would not persist for the full period",
+      "C": "After 14 days",
+      "D": "Only after 56 days",
+      "E": "Only if ICAO approves",
+      "F": "Never, information is permanent"
+    },
+    "correct_answer": "B",
+    "explanation": "Section 6.2.2: 'The information notified under the AIRAC system shall not be changed further for at least another 28 days after the effective date, unless the circumstance notified is of a temporary nature and would not persist for the full period.'",
+    "difficulty": "medium",
+    "topic": "AIRAC - Change restrictions",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 6. UPDATING",
+    "sub_chapter": "6.2 Aeronautical information regulation and control (AIRAC)",
+    "image_description": null
+  },
+  {
+    "temp_id": "c13eebc99-9c0b-4ef8-bb6d-6bb9bd380a91",
+    "question_text": "When information has not been submitted by the AIRAC date, what must be distributed according to section 6.2.4?",
+    "options": {
+      "A": "A reminder",
+      "B": "A NIL notification not later than one cycle before the AIRAC effective date concerned",
+      "C": "A Trigger NOTAM",
+      "D": "An AIP Supplement",
+      "E": "Nothing",
+      "F": "A NOTAM with the missing information"
+    },
+    "correct_answer": "B",
+    "explanation": "Section 6.2.4: 'When information has not been submitted by the AIRAC date, a NIL notification shall be distributed not later than one cycle before the AIRAC effective date concerned.'",
+    "difficulty": "hard",
+    "topic": "AIRAC - NIL notification",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 6. UPDATING",
+    "sub_chapter": "6.2 Aeronautical information regulation and control (AIRAC)",
+    "image_description": null
+  },
+  {
+    "temp_id": "d13eebc99-9c0b-4ef8-bb6d-6bb9bd380a92",
+    "question_text": "According to section 6.2.5, what shall not be used for pre-planned operationally significant changes requiring cartographic work or updating of navigation databases?",
+    "options": {
+      "A": "AIRAC effective dates",
+      "B": "Implementation dates other than AIRAC effective dates",
+      "C": "Any effective date",
+      "D": "NIL notifications",
+      "E": "Trigger NOTAM",
+      "F": "AIP Supplements"
+    },
+    "correct_answer": "B",
+    "explanation": "Section 6.2.5: 'Implementation dates other than AIRAC effective dates shall not be used for pre-planned operationally significant changes requiring cartographic work and/or for updating of navigation databases.'",
+    "difficulty": "medium",
+    "topic": "AIRAC - Mandatory effective dates",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 6. UPDATING",
+    "sub_chapter": "6.2 Aeronautical information regulation and control (AIRAC)",
+    "image_description": null
+  },
+  {
+    "temp_id": "e13eebc99-9c0b-4ef8-bb6d-6bb9bd380a93",
+    "question_text": "What does section 6.2.7 recommend regarding advance notice for major changes?",
+    "options": {
+      "A": "Information should be made available at least 28 days in advance",
+      "B": "Information should be made available at least 56 days in advance",
+      "C": "Information should be made available at least 90 days in advance",
+      "D": "No advance notice is needed",
+      "E": "Information should be made available on the effective date",
+      "F": "Information should be made available at least 14 days in advance"
+    },
+    "correct_answer": "B",
+    "explanation": "Section 6.2.7: 'Recommendation. Whenever major changes are planned and where advance notice is desirable and practicable, information should be made available by the AIS so as to reach recipients at least 56 days in advance of the effective date.'",
+    "difficulty": "easy",
+    "topic": "AIRAC - Major changes advance notice",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 6. UPDATING",
+    "sub_chapter": "6.2 Aeronautical information regulation and control (AIRAC)",
+    "image_description": null
+  },
+  {
+    "temp_id": "f13eebc99-9c0b-4ef8-bb6d-6bb9bd380a94",
+    "question_text": "According to section 6.3.2.3 m), what type of hazards affecting air navigation must be notified by NOTAM?",
+    "options": {
+      "A": "Only military exercises",
+      "B": "Hazards not otherwise promulgated, including obstacles, military exercises, radio frequency interferences, rocket launches, displays, fireworks, sky lanterns, rocket debris, races and major parachuting events",
+      "C": "Only natural hazards",
+      "D": "Only obstacles",
+      "E": "Only radio frequency interferences",
+      "F": "Only rocket launches"
+    },
+    "correct_answer": "B",
+    "explanation": "Section 6.3.2.3 m): 'presence of hazards not otherwise promulgated, which affect air navigation (including obstacles, military exercises and operations, intentional and unintentional radio frequency interferences, rocket launches, displays, fireworks, sky lanterns, rocket debris, races and major parachuting events);'",
+    "difficulty": "hard",
+    "topic": "NOTAM - Hazards to be notified",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 6. UPDATING",
+    "sub_chapter": "6.3.2 NOTAM",
+    "image_description": null
+  },
+  {
+    "temp_id": "a14eebc99-9c0b-4ef8-bb6d-6bb9bd380a95",
+    "question_text": "True or False: Section 6.3.2.4 states that partial temporary failure of air-ground communications when suitable alternative frequencies are known and operative shall be notified by NOTAM.",
+    "options": {
+      "True": "True",
+      "False": "False"
+    },
+    "correct_answer": "False",
+    "explanation": "Section 6.3.2.4 e): 'partial temporary failure of air-ground communications when suitable alternative frequencies are known to be available and are operative' is listed as information that shall NOT be notified by NOTAM.",
+    "difficulty": "medium",
+    "topic": "NOTAM exclusions - Communication failure",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 6. UPDATING",
+    "sub_chapter": "6.3.2 NOTAM",
+    "image_description": null
+  },
+  {
+    "temp_id": "b14eebc99-9c0b-4ef8-bb6d-6bb9bd380a96",
+    "question_text": "According to section 6.3.3.2, how shall permanent changes and temporary changes of long duration (three months or longer) be issued as digital data?",
+    "options": {
+      "A": "Only as a complete data set",
+      "B": "Only as a subset that includes only the differences",
+      "C": "In the form of a complete data set or a subset that includes only the differences from the previously issued complete data set",
+      "D": "As a NOTAM",
+      "E": "As an AIP Supplement",
+      "F": "As a paper document only"
+    },
+    "correct_answer": "C",
+    "explanation": "Section 6.3.3.2: 'Permanent changes and temporary changes of long duration (three months or longer) made available as digital data shall be issued in the form of a complete data set or a subset that includes only the differences from the previously issued complete data set.'",
+    "difficulty": "medium",
+    "topic": "Data set updates - Format options",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 6. UPDATING",
+    "sub_chapter": "6.3.3 Data set updates",
+    "image_description": null
+  },
+  {
+    "temp_id": "c14eebc99-9c0b-4ef8-bb6d-6bb9bd380a97",
+    "question_text": "What does the definition of 'Aeronautical information' in Chapter 1.1 specify?",
+    "options": {
+      "A": "Raw data from sensors",
+      "B": "Information resulting from the assembly, analysis and formatting of aeronautical data",
+      "C": "Only NOTAM messages",
+      "D": "Meteorological reports only",
+      "E": "Air traffic control clearances",
+      "F": "Aircraft performance data"
+    },
+    "correct_answer": "B",
+    "explanation": "Chapter 1.1 defines: 'Aeronautical information. Information resulting from the assembly, analysis and formatting of aeronautical data.'",
+    "difficulty": "easy",
+    "topic": "Definitions - Aeronautical information",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 1. GENERAL",
+    "sub_chapter": "1.1 Definitions",
+    "image_description": null
+  },
+  {
+    "temp_id": "d14eebc99-9c0b-4ef8-bb6d-6bb9bd380a98",
+    "question_text": "According to Chapter 1.1, what is a 'Feature type'?",
+    "options": {
+      "A": "A specific geographic coordinate",
+      "B": "Class of real world phenomena with common properties",
+      "C": "An operation performed on data",
+      "D": "A relationship between two data sets",
+      "E": "A metadata element",
+      "F": "A type of aeronautical chart"
+    },
+    "correct_answer": "B",
+    "explanation": "Chapter 1.1: 'Feature type. Class of real world phenomena with common properties (ISO 19110).'",
+    "difficulty": "medium",
+    "topic": "Definitions - Feature type",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 1. GENERAL",
+    "sub_chapter": "1.1 Definitions",
+    "image_description": null
+  },
+  {
+    "temp_id": "e14eebc99-9c0b-4ef8-bb6d-6bb9bd380a99",
+    "question_text": "What is 'Geoid undulation' as defined in Chapter 1.1?",
+    "options": {
+      "A": "The height of a point above mean sea level",
+      "B": "The distance of the geoid above or below the mathematical reference ellipsoid",
+      "C": "The difference between two datums",
+      "D": "The curvature of the Earth",
+      "E": "The height of terrain above geoid",
+      "F": "The slope of the geoid"
+    },
+    "correct_answer": "B",
+    "explanation": "Chapter 1.1: 'Geoid undulation. The distance of the geoid above (positive) or below (negative) the mathematical reference ellipsoid.'",
+    "difficulty": "medium",
+    "topic": "Definitions - Geoid undulation",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 1. GENERAL",
+    "sub_chapter": "1.1 Definitions",
+    "image_description": null
+  },
+  {
+    "temp_id": "f14eebc99-9c0b-4ef8-bb6d-6bb9bd380a100",
+    "question_text": "True or False: According to Chapter 1.1, a 'Heliport' is defined as only a defined area on water intended for helicopters.",
+    "options": {
+      "True": "True",
+      "False": "False"
+    },
+    "correct_answer": "False",
+    "explanation": "Chapter 1.1 defines: 'Heliport. An aerodrome or a defined area on a structure intended to be used wholly or in part for the arrival, departure and surface movement of helicopters.' It includes aerodromes and structures, not only water.",
+    "difficulty": "easy",
+    "topic": "Definitions - Heliport",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 1. GENERAL",
+    "sub_chapter": "1.1 Definitions",
+    "image_description": null
+  },
+  {
+    "temp_id": "a15eebc99-9c0b-4ef8-bb6d-6bb9bd380a101",
+    "question_text": "What is the definition of 'Pre-flight information bulletin (PIB)' in Chapter 1.1?",
+    "options": {
+      "A": "A summary of weather forecasts",
+      "B": "A presentation of current NOTAM information of operational significance, prepared prior to flight",
+      "C": "A bulletin containing AIP amendments",
+      "D": "A digital data set for navigation",
+      "E": "A list of all active AIC",
+      "F": "A flight plan form"
+    },
+    "correct_answer": "B",
+    "explanation": "Chapter 1.1 defines: 'Pre-flight information bulletin (PIB). A presentation of current NOTAM information of operational significance, prepared prior to flight.'",
+    "difficulty": "easy",
+    "topic": "Definitions - PIB",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 1. GENERAL",
+    "sub_chapter": "1.1 Definitions",
+    "image_description": null
+  },
+  {
+    "temp_id": "b15eebc99-9c0b-4ef8-bb6d-6bb9bd380a102",
+    "question_text": "According to Chapter 1.1, what is 'Station declination'?",
+    "options": {
+      "A": "The difference between magnetic north and true north",
+      "B": "An alignment variation between the zero degree radial of a VOR and true north, determined at calibration",
+      "C": "The angle between the runway and the north",
+      "D": "The deviation of a compass",
+      "E": "The variation of radio signals",
+      "F": "The offset of an ILS localizer"
+    },
+    "correct_answer": "B",
+    "explanation": "Chapter 1.1: 'Station declination. An alignment variation between the zero degree radial of a VOR and true north, determined at the time the VOR station is calibrated.'",
+    "difficulty": "hard",
+    "topic": "Definitions - Station declination",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 1. GENERAL",
+    "sub_chapter": "1.1 Definitions",
+    "image_description": null
+  },
+  {
+    "temp_id": "c15eebc99-9c0b-4ef8-bb6d-6bb9bd380a103",
+    "question_text": "What does the definition of 'Validation' in Chapter 1.1 refer to?",
+    "options": {
+      "A": "Checking that specified requirements have been fulfilled",
+      "B": "Confirmation that requirements for a specific intended use or application have been fulfilled",
+      "C": "Ensuring data is free of errors",
+      "D": "The process of assembling data",
+      "E": "The act of publishing information",
+      "F": "The verification of metadata"
+    },
+    "correct_answer": "B",
+    "explanation": "Chapter 1.1: 'Validation. Confirmation, through the provision of objective evidence, that the requirements for a specific intended use or application have been fulfilled (ISO 9000).'",
+    "difficulty": "medium",
+    "topic": "Definitions - Validation",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 1. GENERAL",
+    "sub_chapter": "1.1 Definitions",
+    "image_description": null
+  },
+  {
+    "temp_id": "d15eebc99-9c0b-4ef8-bb6d-6bb9bd380a104",
+    "question_text": "True or False: The definition of 'Verification' in Chapter 1.1 is the same as 'Validation'.",
+    "options": {
+      "True": "True",
+      "False": "False"
+    },
+    "correct_answer": "False",
+    "explanation": "Chapter 1.1 defines Verification as 'Confirmation, through the provision of objective evidence, that specified requirements have been fulfilled' while Validation refers to 'requirements for a specific intended use or application'. They are distinct.",
+    "difficulty": "medium",
+    "topic": "Definitions - Verification vs Validation",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 1. GENERAL",
+    "sub_chapter": "1.1 Definitions",
+    "image_description": null
+  },
+  {
+    "temp_id": "e15eebc99-9c0b-4ef8-bb6d-6bb9bd380a105",
+    "question_text": "According to section 2.2.1, the AIS shall make aeronautical data available to which of the following?",
+    "options": {
+      "A": "Only air traffic control units",
+      "B": "Those involved in flight operations including flight crews, flight planning and flight simulators, and the ATS unit responsible for flight information service",
+      "C": "Only airline operations centers",
+      "D": "Only the military",
+      "E": "Only international operators",
+      "F": "Only ICAO"
+    },
+    "correct_answer": "B",
+    "explanation": "Section 2.2.1: 'An AIS shall ensure that aeronautical data and aeronautical information ... are made available in a form suitable for the operational requirements of the air traffic management (ATM) community, including: a) those involved in flight operations, including flight crews, flight planning and flight simulators; and b) the ATS unit responsible for flight information service and the services responsible for pre-flight information.'",
+    "difficulty": "medium",
+    "topic": "AIS responsibilities - Users",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 2. STATE RESPONSIBILITIES",
+    "sub_chapter": "2.2 AIS responsibilities and functions",
+    "image_description": null
+  },
+  {
+    "temp_id": "f15eebc99-9c0b-4ef8-bb6d-6bb9bd380a106",
+    "question_text": "According to section 2.3.10, what shall be used for the provision of data sets?",
+    "options": {
+      "A": "National standards only",
+      "B": "Globally interoperable aeronautical data and aeronautical information exchange models",
+      "C": "Proprietary formats",
+      "D": "Paper charts",
+      "E": "Voice communications",
+      "F": "Individual bilateral agreements"
+    },
+    "correct_answer": "B",
+    "explanation": "Section 2.3.10: 'Globally interoperable aeronautical data and aeronautical information exchange models shall be used for the provision of data sets.'",
+    "difficulty": "easy",
+    "topic": "Exchange models - Interoperability",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 2. STATE RESPONSIBILITIES",
+    "sub_chapter": "2.3 Exchange of aeronautical data and aeronautical information",
+    "image_description": null
+  },
+  {
+    "temp_id": "a16eebc99-9c0b-4ef8-bb6d-6bb9bd380a107",
+    "question_text": "True or False: Section 2.4.2 allows the receiving State to provide digital data sets of the providing State to any third party without consent.",
+    "options": {
+      "True": "True",
+      "False": "False"
+    },
+    "correct_answer": "False",
+    "explanation": "Section 2.4.2: 'When aeronautical data and aeronautical information are provided to a State in accordance with 2.3.8, the receiving State shall not provide the digital data sets of the providing State to any third party without the consent of the providing State.'",
+    "difficulty": "easy",
+    "topic": "Copyright - Digital data sets",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 2. STATE RESPONSIBILITIES",
+    "sub_chapter": "2.4 Copyright",
+    "image_description": null
+  },
+  {
+    "temp_id": "b16eebc99-9c0b-4ef8-bb6d-6bb9bd380a108",
+    "question_text": "According to section 3.3.1, what must be done with material to be issued as part of an aeronautical information product before it is submitted to the AIS?",
+    "options": {
+      "A": "It must be approved by the State",
+      "B": "It must be thoroughly checked to ensure all necessary information is included and correct in detail",
+      "C": "It must be translated into English",
+      "D": "It must be encrypted",
+      "E": "It must be stored in a database",
+      "F": "It must be converted to digital format"
+    },
+    "correct_answer": "B",
+    "explanation": "Section 3.3.1: 'Material to be issued as part of an aeronautical information product shall be thoroughly checked before it is submitted to the AIS in order to ensure that all necessary information has been included and that it is correct in detail.'",
+    "difficulty": "medium",
+    "topic": "Verification before submission",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 3. INFORMATION MANAGEMENT AND QUALITY",
+    "sub_chapter": "3.3 Aeronautical data and aeronautical information verification and validation",
+    "image_description": null
+  },
+  {
+    "temp_id": "c16eebc99-9c0b-4ef8-bb6d-6bb9bd380a109",
+    "question_text": "What does section 3.5.3 require automation to enable?",
+    "options": {
+      "A": "Manual data entry",
+      "B": "Digital aeronautical data exchange between parties involved in the data processing chain and use of globally interoperable exchange models",
+      "C": "Printing of charts",
+      "D": "Voice communication",
+      "E": "Redundant storage",
+      "F": "Data encryption"
+    },
+    "correct_answer": "B",
+    "explanation": "Section 3.5.3: 'In order to meet the data quality requirements, automation shall: a) enable digital aeronautical data exchange between the parties involved in the data processing chain; and b) use aeronautical information exchange models and data exchange models designed to be globally interoperable.'",
+    "difficulty": "hard",
+    "topic": "Automation requirements - Exchange and interoperability",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 3. INFORMATION MANAGEMENT AND QUALITY",
+    "sub_chapter": "3.5 Automation",
+    "image_description": null
+  },
+  {
+    "temp_id": "d16eebc99-9c0b-4ef8-bb6d-6bb9bd380a110",
+    "question_text": "According to section 3.6.3, what does the quality management system recommended to follow?",
+    "options": {
+      "A": "ISO 9001",
+      "B": "ISO 9000 series of quality assurance standards and be certified by an accredited certification body",
+      "C": "ISO 19100 series",
+      "D": "ICAO Doc 8126",
+      "E": "No specific standard",
+      "F": "National standards only"
+    },
+    "correct_answer": "B",
+    "explanation": "Section 3.6.3: 'Recommendation. The quality management system established in accordance with 3.6.1 should follow the ISO 9000 series of quality assurance standards and be certified by an accredited certification body.'",
+    "difficulty": "easy",
+    "topic": "Quality management - ISO 9000",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 3. INFORMATION MANAGEMENT AND QUALITY",
+    "sub_chapter": "3.6 Quality management system",
+    "image_description": null
+  },
+  {
+    "temp_id": "e16eebc99-9c0b-4ef8-bb6d-6bb9bd380a111",
+    "question_text": "True or False: According to section 5.2.4.2, an AIC may be used for information that qualifies for inclusion in the AIP.",
+    "options": {
+      "True": "True",
+      "False": "False"
+    },
+    "correct_answer": "False",
+    "explanation": "Section 5.2.4.2: 'An AIC shall not be used for information that qualifies for inclusion in AIP and NOTAM.'",
+    "difficulty": "easy",
+    "topic": "AIC - Exclusions",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 5. AERONAUTICAL INFORMATION PRODUCTS AND SERVICES",
+    "sub_chapter": "5.2.4 Aeronautical Information Circulars",
+    "image_description": null
+  },
+  {
+    "temp_id": "f16eebc99-9c0b-4ef8-bb6d-6bb9bd380a112",
+    "question_text": "According to section 5.3.3.4.10, for which runways must obstacle data be provided for Area 4?",
+    "options": {
+      "A": "All runways",
+      "B": "Runways where precision approach Category II or III operations have been established",
+      "C": "Only Category I runways",
+      "D": "All runways at international aerodromes",
+      "E": "Only runways with instrument approaches",
+      "F": "Runways used by heavy aircraft"
+    },
+    "correct_answer": "B",
+    "explanation": "Section 5.3.3.4.10: 'For aerodromes regularly used by international civil aviation, obstacle data shall be provided for Area 4 for all runways where precision approach Category II or III operations have been established.'",
+    "difficulty": "hard",
+    "topic": "Obstacle data - Area 4 for Cat II/III",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 5. AERONAUTICAL INFORMATION PRODUCTS AND SERVICES",
+    "sub_chapter": "5.3.3.4 Obstacle data sets",
+    "image_description": null
+  },
+  {
+    "temp_id": "a17eebc99-9c0b-4ef8-bb6d-6bb9bd380a113",
+    "question_text": "What does section 5.4.2.6 say about distribution of NOTAM series other than those distributed internationally?",
+    "options": {
+      "A": "They shall not be distributed",
+      "B": "The originating State shall, upon request, grant distribution",
+      "C": "They must be distributed globally",
+      "D": "They require ICAO approval",
+      "E": "They are automatically distributed",
+      "F": "They are only for domestic use and cannot be shared"
+    },
+    "correct_answer": "B",
+    "explanation": "Section 5.4.2.6: 'The originating State shall, upon request, grant distribution of NOTAM series other than those distributed internationally.'",
+    "difficulty": "medium",
+    "topic": "NOTAM distribution - Other series",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 5. AERONAUTICAL INFORMATION PRODUCTS AND SERVICES",
+    "sub_chapter": "5.4.2 NOTAM distribution",
+    "image_description": null
+  },
+  {
+    "temp_id": "b17eebc99-9c0b-4ef8-bb6d-6bb9bd380a114",
+    "question_text": "True or False: According to section 6.2.6, the AIRAC system should be used for the provision of information relating to temporary danger areas and navigational hazards.",
+    "options": {
+      "True": "True",
+      "False": "False"
+    },
+    "correct_answer": "True",
+    "explanation": "Section 6.2.6: 'Recommendation. The regulated system (AIRAC) should be used for the provision of information relating to the establishment and withdrawal of, and premeditated significant changes in, the circumstances listed below: ... d) temporary danger, prohibited and restricted areas and navigational hazards, military exercises and mass movements of aircraft;'",
+    "difficulty": "medium",
+    "topic": "AIRAC recommendation - Temporary danger areas",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 6. UPDATING",
+    "sub_chapter": "6.2 Aeronautical information regulation and control (AIRAC)",
+    "image_description": null
+  },
+  {
+    "temp_id": "c17eebc99-9c0b-4ef8-bb6d-6bb9bd380a115",
+    "question_text": "According to section 6.3.2.3, which of the following must be notified by NOTAM?",
+    "options": {
+      "A": "Routine maintenance work on aprons that does not affect safe movement",
+      "B": "Establishment, withdrawal or significant changes in operation of aerodrome(s) or runways",
+      "C": "Partial failure of aerodrome lighting that does not directly affect aircraft operations",
+      "D": "Lack of apron marshalling services",
+      "E": "Unserviceability of location signs on movement area",
+      "F": "Parachuting in uncontrolled airspace under VFR"
+    },
+    "correct_answer": "B",
+    "explanation": "Section 6.3.2.3 a): 'establishment, closure or significant changes in operation of aerodrome(s) or heliport(s) or runways' must be notified by NOTAM. Options A, C, D, E, F are listed in 6.3.2.4 as information that shall NOT be notified by NOTAM.",
+    "difficulty": "hard",
+    "topic": "NOTAM mandatory vs exclusions",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 6. UPDATING",
+    "sub_chapter": "6.3.2 NOTAM",
+    "image_description": null
+  },
+  {
+    "temp_id": "d17eebc99-9c0b-4ef8-bb6d-6bb9bd380a116",
+    "question_text": "According to section 5.3.3.2, when should the length of Area 4 be extended beyond 900 m from the runway threshold?",
+    "options": {
+      "A": "Always for all precision approach runways",
+      "B": "Where the terrain at a distance greater than 900 m from the runway threshold is mountainous or otherwise significant, up to a distance not exceeding 2000 m",
+      "C": "Only for Category III runways",
+      "D": "Never, 900 m is the maximum",
+      "E": "Only when requested by operators",
+      "F": "For all runways with instrument approaches"
+    },
+    "correct_answer": "B",
+    "explanation": "Section 5.3.3.2: 'Recommendation.—Where the terrain at a distance greater than 900 m (3 000 ft) from the runway threshold is mountainous or otherwise significant, the length of Area 4 should be extended to a distance not exceeding 2 000 m (6 500 ft) from the runway threshold.'",
+    "difficulty": "medium",
+    "topic": "Terrain data - Area 4 extension",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 5. AERONAUTICAL INFORMATION PRODUCTS AND SERVICES",
+    "sub_chapter": "5.3.3 Terrain and obstacle data sets",
+    "image_description": null
+  },
+  {
+    "temp_id": "e17eebc99-9c0b-4ef8-bb6d-6bb9bd380a117",
+    "question_text": "What does section 5.3.3.3.7 recommend regarding terrain data for Area 3?",
+    "options": {
+      "A": "Terrain data should be provided for Area 3 for aerodromes regularly used by international civil aviation",
+      "B": "Terrain data is mandatory for Area 3 for all aerodromes",
+      "C": "Terrain data shall not be provided for Area 3",
+      "D": "Area 3 terrain data is only for military aerodromes",
+      "E": "Terrain data for Area 3 is optional for all aerodromes",
+      "F": "Area 3 terrain data is replaced by obstacle data"
+    },
+    "correct_answer": "A",
+    "explanation": "Section 5.3.3.3.7: 'Recommendation.—For aerodromes regularly used by international civil aviation, terrain data should be provided for Area 3.'",
+    "difficulty": "easy",
+    "topic": "Terrain data - Area 3 recommendation",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 5. AERONAUTICAL INFORMATION PRODUCTS AND SERVICES",
+    "sub_chapter": "5.3.3.3 Terrain data sets",
+    "image_description": null
+  },
+  {
+    "temp_id": "f17eebc99-9c0b-4ef8-bb6d-6bb9bd380a118",
+    "question_text": "True or False: Section 5.3.3.3.9 recommends that if additional terrain data is collected to meet other aeronautical requirements, the terrain data sets should be expanded to include this additional data.",
+    "options": {
+      "True": "True",
+      "False": "False"
+    },
+    "correct_answer": "True",
+    "explanation": "Section 5.3.3.3.9: 'Recommendation.—Where additional terrain data is collected to meet other aeronautical requirements, the terrain data sets should be expanded to include this additional data.'",
+    "difficulty": "easy",
+    "topic": "Terrain data - Expansion recommendation",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 5. AERONAUTICAL INFORMATION PRODUCTS AND SERVICES",
+    "sub_chapter": "5.3.3.3 Terrain data sets",
+    "image_description": null
+  },
+  {
+    "temp_id": "a18eebc99-9c0b-4ef8-bb6d-6bb9bd380a119",
+    "question_text": "According to section 5.3.3.4.6, what is the height threshold below which obstacle data need not be collected in Area 2c?",
+    "options": {
+      "A": "3 m above ground",
+      "B": "15 m above ground",
+      "C": "100 m above ground",
+      "D": "1.2 m above ground",
+      "E": "0.5 m above ground",
+      "F": "No threshold, all obstacles must be collected"
+    },
+    "correct_answer": "B",
+    "explanation": "Section 5.3.3.4.6: '...except that data need not be collected for obstacles less than a height of 3 m above ground in Area 2b and less than a height of 15 m above ground in Area 2c.'",
+    "difficulty": "hard",
+    "topic": "Obstacle data - Area 2c height threshold",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 5. AERONAUTICAL INFORMATION PRODUCTS AND SERVICES",
+    "sub_chapter": "5.3.3.4 Obstacle data sets",
+    "image_description": null
+  },
+  {
+    "temp_id": "b18eebc99-9c0b-4ef8-bb6d-6bb9bd380a120",
+    "question_text": "What does section 5.3.3.4.9 recommend for obstacle data in Area 3?",
+    "options": {
+      "A": "Obstacle data should be provided for obstacles that penetrate a collection surface extending 0.5 m above the horizontal plane through the nearest point on the movement area",
+      "B": "No obstacle data is needed in Area 3",
+      "C": "Only obstacles higher than 3 m need to be collected",
+      "D": "Obstacle data is mandatory for all obstacles in Area 3",
+      "E": "Area 3 obstacle data is only for temporary obstacles",
+      "F": "Obstacle data should be provided for obstacles that penetrate 1.2% slope"
+    },
+    "correct_answer": "A",
+    "explanation": "Section 5.3.3.4.9: 'Recommendation.—For aerodromes regularly used by international civil aviation, obstacle data should be provided for Area 3 for obstacles that penetrate the relevant obstacle data collection surface extending a half-metre (0.5 m) above the horizontal plane passing through the nearest point on the aerodrome movement area.'",
+    "difficulty": "hard",
+    "topic": "Obstacle data - Area 3 collection surface",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 5. AERONAUTICAL INFORMATION PRODUCTS AND SERVICES",
+    "sub_chapter": "5.3.3.4 Obstacle data sets",
+    "image_description": null
+  },
+  {
+    "temp_id": "c18eebc99-9c0b-4ef8-bb6d-6bb9bd380a121",
+    "question_text": "According to section 5.4.1.2, how shall AIP, AIP Amendments, AIP Supplements and AIC be made available?",
+    "options": {
+      "A": "By regular postal mail only",
+      "B": "By the most expeditious means",
+      "C": "Only through the AFS",
+      "D": "Only in electronic format",
+      "E": "Within 30 days of publication",
+      "F": "On a quarterly basis"
+    },
+    "correct_answer": "B",
+    "explanation": "Section 5.4.1.2: 'AIP, AIP Amendments, AIP Supplements and AIC shall be made available by the most expeditious means.'",
+    "difficulty": "easy",
+    "topic": "Distribution - Most expeditious means",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 5. AERONAUTICAL INFORMATION PRODUCTS AND SERVICES",
+    "sub_chapter": "5.4.1 Distribution services - General",
+    "image_description": null
+  },
+  {
+    "temp_id": "d18eebc99-9c0b-4ef8-bb6d-6bb9bd380a122",
+    "question_text": "True or False: Section 5.4.2.7 recommends that selective distribution lists should be used when practicable for NOTAM.",
+    "options": {
+      "True": "True",
+      "False": "False"
+    },
+    "correct_answer": "True",
+    "explanation": "Section 5.4.2.7: 'Recommendation. - Selective distribution lists should be used when practicable.'",
+    "difficulty": "easy",
+    "topic": "NOTAM - Selective distribution lists",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 5. AERONAUTICAL INFORMATION PRODUCTS AND SERVICES",
+    "sub_chapter": "5.4.2 NOTAM distribution",
+    "image_description": null
+  },
+  {
+    "temp_id": "e18eebc99-9c0b-4ef8-bb6d-6bb9bd380a123",
+    "question_text": "According to section 6.2.7, which of the following is listed as a circumstance where information should be made available at least 56 days in advance?",
+    "options": {
+      "A": "Temporary danger areas",
+      "B": "New aerodromes for international IFR operations",
+      "C": "Hours of service of aerodromes",
+      "D": "Position of navigational obstacles",
+      "E": "Customs and immigration services",
+      "F": "Military exercises"
+    },
+    "correct_answer": "B",
+    "explanation": "Section 6.2.7 lists: 'a) new aerodromes for international instrument flight rules (IFR) operations; b) new runways for IFR operations at international aerodromes; c) design and structure of the ATS route network; d) design and structure of a set of terminal procedures; e) circumstances listed in 6.2.1 if the entire State or any significant portion thereof is affected or if cross-border coordination is required.'",
+    "difficulty": "hard",
+    "topic": "AIRAC - 56-day advance notice for major changes",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 6. UPDATING",
+    "sub_chapter": "6.2 Aeronautical information regulation and control (AIRAC)",
+    "image_description": null
+  },
+  {
+    "temp_id": "f18eebc99-9c0b-4ef8-bb6d-6bb9bd380a124",
+    "question_text": "What does section 6.3.1.2 state about permanent changes to the AIP?",
+    "options": {
+      "A": "They shall be published as AIP Supplements",
+      "B": "They shall be published as AIP Amendments",
+      "C": "They shall be published as NOTAM",
+      "D": "They shall be published as AIC",
+      "E": "They shall be published only in digital format",
+      "F": "They require no publication if minor"
+    },
+    "correct_answer": "B",
+    "explanation": "Section 6.3.1.2: 'Permanent changes to the AIP shall be published as AIP Amendments.'",
+    "difficulty": "easy",
+    "topic": "AIP updates - Permanent changes",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 6. UPDATING",
+    "sub_chapter": "6.3.1 AIP updates",
+    "image_description": null
+  },
+  {
+    "temp_id": "a19eebc99-9c0b-4ef8-bb6d-6bb9bd380a125",
+    "question_text": "According to section 6.3.2.3, when must a NOTAM be originated concerning conflict zones?",
+    "options": {
+      "A": "Only when requested by airlines",
+      "B": "Conflict zones which affect air navigation, including information as specific as possible about the nature and extent of threats and consequences for civil aviation",
+      "C": "Only for zones designated by ICAO",
+      "D": "Never, conflict zones are notified by other means",
+      "E": "Only after a formal declaration of war",
+      "F": "Only for zones over high seas"
+    },
+    "correct_answer": "B",
+    "explanation": "Section 6.3.2.3 n): 'conflict zones which affect air navigation (to include information that is as specific as possible regarding the nature and extent of threats of that conflict and its consequences for civil aviation);'",
+    "difficulty": "medium",
+    "topic": "NOTAM - Conflict zones",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 6. UPDATING",
+    "sub_chapter": "6.3.2 NOTAM",
+    "image_description": null
+  },
+  {
+    "temp_id": "b19eebc99-9c0b-4ef8-bb6d-6bb9bd380a126",
+    "question_text": "True or False: Section 6.3.2.3 states that unavailability of back-up and secondary systems having a direct operational impact shall be notified by NOTAM.",
+    "options": {
+      "True": "True",
+      "False": "False"
+    },
+    "correct_answer": "True",
+    "explanation": "Section 6.3.2.3 d): 'unavailability of back-up and secondary systems, having a direct operational impact' shall be notified by NOTAM. (Compare with 6.3.2.4 j which excludes back-up systems without operational impact.)",
+    "difficulty": "medium",
+    "topic": "NOTAM - Back-up systems with operational impact",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 6. UPDATING",
+    "sub_chapter": "6.3.2 NOTAM",
+    "image_description": null
+  },
+  {
+    "temp_id": "c19eebc99-9c0b-4ef8-bb6d-6bb9bd380a127",
+    "question_text": "According to section 6.3.2.4, which of the following is NOT permitted to be notified by NOTAM?",
+    "options": {
+      "A": "Closure of movement area parts for work locally coordinated of duration less than one hour",
+      "B": "Establishment of a new prohibited area",
+      "C": "Volcanic ash cloud affecting flight levels",
+      "D": "Change in rescue and firefighting category",
+      "E": "Outbreak of epidemics necessitating quarantine changes",
+      "F": "Space weather phenomena observations"
+    },
+    "correct_answer": "A",
+    "explanation": "Section 6.3.2.4 q): 'closure of movement area parts in connection with planned work locally coordinated of duration of less than one hour' is listed as information that shall NOT be notified by NOTAM. The other options are listed in 6.3.2.3 as requiring NOTAM.",
+    "difficulty": "hard",
+    "topic": "NOTAM exclusions - Short-term closure",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 6. UPDATING",
+    "sub_chapter": "6.3.2 NOTAM",
+    "image_description": null
+  },
+  {
+    "temp_id": "d19eebc99-9c0b-4ef8-bb6d-6bb9bd380a128",
+    "question_text": "What does section 6.3.3.3 recommend regarding reissued data sets?",
+    "options": {
+      "A": "The differences from the previously issued complete data set should be indicated",
+      "B": "Only the complete data set should be provided without changes marked",
+      "C": "No indication of changes is required",
+      "D": "Changes must be highlighted in a separate NOTAM",
+      "E": "Only metadata should indicate changes",
+      "F": "The previous data set must be retained"
+    },
+    "correct_answer": "A",
+    "explanation": "Section 6.3.3.3: 'Recommendation. When made available as a completely reissued data set, the differences from the previously issued complete data set should be indicated.'",
+    "difficulty": "easy",
+    "topic": "Data set updates - Indication of differences",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 6. UPDATING",
+    "sub_chapter": "6.3.3 Data set updates",
+    "image_description": null
+  },
+  {
+    "temp_id": "e19eebc99-9c0b-4ef8-bb6d-6bb9bd380a129",
+    "question_text": "According to section 6.3.3.4, what should temporary changes of short duration made available as digital data use?",
+    "options": {
+      "A": "A different model from the complete data set",
+      "B": "The same aeronautical information model as the complete data set",
+      "C": "A paper supplement",
+      "D": "A NOTAM only",
+      "E": "A special digital NOTAM format not aligned with the data set",
+      "F": "No specific requirement"
+    },
+    "correct_answer": "B",
+    "explanation": "Section 6.3.3.4: 'Recommendation. When temporary changes of short duration are made available as digital data (digital NOTAM), they should use the same aeronautical information model as the complete data set.'",
+    "difficulty": "medium",
+    "topic": "Digital NOTAM - Same model as data set",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 6. UPDATING",
+    "sub_chapter": "6.3.3 Data set updates",
+    "image_description": null
+  },
+  {
+    "temp_id": "f19eebc99-9c0b-4ef8-bb6d-6bb9bd380a130",
+    "question_text": "What does the definition of 'Cyclic redundancy check (CRC)' in Chapter 1.1 refer to?",
+    "options": {
+      "A": "A method for data compression",
+      "B": "A mathematical algorithm applied to digital data to provide assurance against loss or alteration",
+      "C": "A type of data encryption",
+      "D": "A checksum for paper documents",
+      "E": "A method for error correction in voice communications",
+      "F": "A protocol for data transmission"
+    },
+    "correct_answer": "B",
+    "explanation": "Chapter 1.1: 'Cyclic redundancy check (CRC). A mathematical algorithm applied to the digital expression of data that provides a level of assurance against loss or alteration of data.'",
+    "difficulty": "medium",
+    "topic": "Definitions - CRC",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 1. GENERAL",
+    "sub_chapter": "1.1 Definitions",
+    "image_description": null
+  },
+  {
+    "temp_id": "a20eebc99-9c0b-4ef8-bb6d-6bb9bd380a131",
+    "question_text": "According to the definition of 'Data quality' in Chapter 1.1, which elements are included?",
+    "options": {
+      "A": "Only accuracy and resolution",
+      "B": "Accuracy, resolution, integrity, traceability, timeliness, completeness and format",
+      "C": "Only integrity and traceability",
+      "D": "Accuracy and timeliness only",
+      "E": "Completeness and format only",
+      "F": "Only resolution and integrity"
+    },
+    "correct_answer": "B",
+    "explanation": "Chapter 1.1: 'Data quality. A degree or level of confidence that the data provided meet the requirements of the data user in terms of accuracy, resolution, integrity (or equivalent assurance level), traceability, timeliness, completeness and format.'",
+    "difficulty": "hard",
+    "topic": "Definitions - Data quality elements",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 1. GENERAL",
+    "sub_chapter": "1.1 Definitions",
+    "image_description": null
+  },
+  {
+    "temp_id": "b20eebc99-9c0b-4ef8-bb6d-6bb9bd380a132",
+    "question_text": "True or False: Chapter 1.1 defines 'Data traceability' as the degree that a system can provide a record of changes to a product enabling an audit trail from end-user to originator.",
+    "options": {
+      "True": "True",
+      "False": "False"
+    },
+    "correct_answer": "True",
+    "explanation": "Chapter 1.1: 'Data traceability. The degree that a system or a data product can provide a record of the changes made to that product and thereby enable an audit trail to be followed from the end-user to the originator.'",
+    "difficulty": "easy",
+    "topic": "Definitions - Data traceability",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 1. GENERAL",
+    "sub_chapter": "1.1 Definitions",
+    "image_description": null
+  },
+  {
+    "temp_id": "c20eebc99-9c0b-4ef8-bb6d-6bb9bd380a133",
+    "question_text": "According to the definition of 'International airport' in Chapter 1.1, what formalities are carried out there?",
+    "options": {
+      "A": "Only customs and immigration",
+      "B": "Customs, immigration, public health, animal and plant quarantine and similar procedures",
+      "C": "Only security checks",
+      "D": "Only passport control",
+      "E": "Only customs",
+      "F": "Only health inspections"
+    },
+    "correct_answer": "B",
+    "explanation": "Chapter 1.1: 'International airport. Any airport designated by the Contracting State ... as an airport of entry and departure for international air traffic, where the formalities incident to customs, immigration, public health, animal and plant quarantine and similar procedures are carried out.'",
+    "difficulty": "easy",
+    "topic": "Definitions - International airport",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 1. GENERAL",
+    "sub_chapter": "1.1 Definitions",
+    "image_description": null
+  },
+  {
+    "temp_id": "d20eebc99-9c0b-4ef8-bb6d-6bb9bd380a134",
+    "question_text": "What is the definition of 'Manoeuvring area' in Chapter 1.1?",
+    "options": {
+      "A": "The entire aerodrome including aprons",
+      "B": "That part of an aerodrome to be used for take-off, landing and taxiing of aircraft, excluding aprons",
+      "C": "Only the runways",
+      "D": "Only the taxiways",
+      "E": "The area including all buildings",
+      "F": "The airspace above the aerodrome"
+    },
+    "correct_answer": "B",
+    "explanation": "Chapter 1.1: 'Manoeuvring area. That part of an aerodrome to be used for the take-off, landing and taxiing of aircraft, excluding aprons.'",
+    "difficulty": "easy",
+    "topic": "Definitions - Manoeuvring area",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 1. GENERAL",
+    "sub_chapter": "1.1 Definitions",
+    "image_description": null
+  },
+  {
+    "temp_id": "e20eebc99-9c0b-4ef8-bb6d-6bb9bd380a135",
+    "question_text": "According to section 2.2.2, what shall an AIS do with aeronautical data and information concerning the entire territory of the State?",
+    "options": {
+      "A": "Only distribute it to domestic users",
+      "B": "Receive, collate or assemble, edit, format, publish/store and distribute as aeronautical information products",
+      "C": "Only store it for future use",
+      "D": "Forward it to ICAO",
+      "E": "Destroy it after 5 years",
+      "F": "Convert it to military format"
+    },
+    "correct_answer": "B",
+    "explanation": "Section 2.2.2: 'An AIS shall receive, collate or assemble, edit, format, publish/store and distribute aeronautical data and aeronautical information concerning the entire territory of the State as well as those areas over the high seas for which the State is responsible for the provision of ATS. Aeronautical data and aeronautical information shall be provided as aeronautical information products.'",
+    "difficulty": "medium",
+    "topic": "AIS functions - Processing chain",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 2. STATE RESPONSIBILITIES",
+    "sub_chapter": "2.2 AIS responsibilities and functions",
+    "image_description": null
+  },
+  {
+    "temp_id": "f20eebc99-9c0b-4ef8-bb6d-6bb9bd380a136",
+    "question_text": "What does section 2.2.7 require an AIS to do?",
+    "options": {
+      "A": "Charge other States for aeronautical information",
+      "B": "Promptly make available to the AIS of other States any aeronautical data and information necessary for safety, regularity or efficiency of air navigation required by them",
+      "C": "Withhold information from other States for national security",
+      "D": "Only exchange data with neighboring States",
+      "E": "Provide information only upon payment",
+      "F": "Provide information only through ICAO"
+    },
+    "correct_answer": "B",
+    "explanation": "Section 2.2.7: 'An AIS shall promptly make available to the AIS of other States any aeronautical data and aeronautical information necessary for the safety, regularity or efficiency of air navigation required by them, to enable them to comply with 2.2.1.'",
+    "difficulty": "easy",
+    "topic": "AIS - Provision to other States",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 2. STATE RESPONSIBILITIES",
+    "sub_chapter": "2.2 AIS responsibilities and functions",
+    "image_description": null
+  },
+  {
+    "temp_id": "a21eebc99-9c0b-4ef8-bb6d-6bb9bd380a137",
+    "question_text": "According to section 3.2.5, how is timeliness of aeronautical data ensured?",
+    "options": {
+      "A": "By daily updates",
+      "B": "By including limits on the effective period of the data elements",
+      "C": "By using real-time feeds",
+      "D": "By automatic deletion of old data",
+      "E": "By requiring revalidation every year",
+      "F": "By timestamping each data element"
+    },
+    "correct_answer": "B",
+    "explanation": "Section 3.2.5: 'Timeliness of aeronautical data shall be ensured by including limits on the effective period of the data elements.'",
+    "difficulty": "medium",
+    "topic": "Data quality - Timeliness",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 3. INFORMATION MANAGEMENT AND QUALITY",
+    "sub_chapter": "3.2 Data quality specifications",
+    "image_description": null
+  },
+  {
+    "temp_id": "b21eebc99-9c0b-4ef8-bb6d-6bb9bd380a138",
+    "question_text": "True or False: Section 3.6.5 requires that the quality management system include policies to allow data anomalies to be corrected and communicated to affected users.",
+    "options": {
+      "True": "True",
+      "False": "False"
+    },
+    "correct_answer": "True",
+    "explanation": "Section 3.6.5: 'Each quality management system shall include the necessary policies, processes and procedures, including those for the use of metadata, to ensure and verify that aeronautical data is traceable throughout the aeronautical information data chain so as to allow any data anomalies or errors detected in use to be identified by root cause, corrected and communicated to affected users.'",
+    "difficulty": "medium",
+    "topic": "Quality management - Error correction and communication",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 3. INFORMATION MANAGEMENT AND QUALITY",
+    "sub_chapter": "3.6 Quality management system",
+    "image_description": null
+  },
+  {
+    "temp_id": "c21eebc99-9c0b-4ef8-bb6d-6bb9bd380a139",
+    "question_text": "According to section 4.1.2, determination and reporting of aeronautical data shall be in accordance with what?",
+    "options": {
+      "A": "The preference of the AIS",
+      "B": "The accuracy and integrity classification required to meet the needs of the end-user",
+      "C": "The cost of data collection",
+      "D": "The type of aircraft using the data",
+      "E": "The age of the data",
+      "F": "The format of the data product"
+    },
+    "correct_answer": "B",
+    "explanation": "Section 4.1.2: 'Determination and reporting of aeronautical data shall be in accordance with the accuracy and integrity classification required to meet the needs of the end-user of aeronautical data.'",
+    "difficulty": "medium",
+    "topic": "Data determination - Accuracy and integrity classification",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 4. AERONAUTICAL DATA AND AERONAUTICAL INFORMATION SCOPE AND METADATA",
+    "sub_chapter": "4.1 Scope of aeronautical data and aeronautical information",
+    "image_description": null
+  },
+  {
+    "temp_id": "d21eebc99-9c0b-4ef8-bb6d-6bb9bd380a140",
+    "question_text": "What does section 5.2.3 require regarding AIP Supplements?",
+    "options": {
+      "A": "A checklist of valid AIP Supplements shall be regularly provided",
+      "B": "AIP Supplements are valid indefinitely",
+      "C": "AIP Supplements must be reissued annually",
+      "D": "Only one AIP Supplement is allowed at a time",
+      "E": "AIP Supplements are not required for international distribution",
+      "F": "AIP Supplements replace the AIP"
+    },
+    "correct_answer": "A",
+    "explanation": "Section 5.2.3: 'A checklist of valid AIP Supplements shall be regularly provided.'",
+    "difficulty": "easy",
+    "topic": "AIP Supplements - Checklist",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 5. AERONAUTICAL INFORMATION PRODUCTS AND SERVICES",
+    "sub_chapter": "5.2.3 AIP Supplement",
+    "image_description": null
+  },
+  {
+    "temp_id": "e21eebc99-9c0b-4ef8-bb6d-6bb9bd380a141",
+    "question_text": "According to section 5.2.4.4, a checklist of currently valid AIC shall be provided. How often?",
+    "options": {
+      "A": "Monthly",
+      "B": "Regularly (detailed specifications in PANS-AIM)",
+      "C": "Annually",
+      "D": "Every two years",
+      "E": "Only when a new AIC is issued",
+      "F": "Never"
+    },
+    "correct_answer": "B",
+    "explanation": "Section 5.2.4.4: 'A checklist of currently valid AIC shall be regularly provided. Note.- Detailed specifications concerning the frequency for providing checklists of valid AIC are contained in the PANS-AIM (Doc 10066).'",
+    "difficulty": "easy",
+    "topic": "AIC checklist - Regular provision",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 5. AERONAUTICAL INFORMATION PRODUCTS AND SERVICES",
+    "sub_chapter": "5.2.4 Aeronautical Information Circulars",
+    "image_description": null
+  },
+  {
+    "temp_id": "f21eebc99-9c0b-4ef8-bb6d-6bb9bd380a142",
+    "question_text": "True or False: Section 5.3.1.3 requires that a checklist of valid data sets shall be regularly provided.",
+    "options": {
+      "True": "True",
+      "False": "False"
+    },
+    "correct_answer": "True",
+    "explanation": "Section 5.3.1.3: 'A checklist of valid data sets shall be regularly provided.'",
+    "difficulty": "easy",
+    "topic": "Data sets - Checklist requirement",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 5. AERONAUTICAL INFORMATION PRODUCTS AND SERVICES",
+    "sub_chapter": "5.3.1 Digital data sets - General",
+    "image_description": null
+  },
+  {
+    "temp_id": "a22eebc99-9c0b-4ef8-bb6d-6bb9bd380a143",
+    "question_text": "According to section 5.3.5.2, for which aerodromes should instrument flight procedure data sets be made available?",
+    "options": {
+      "A": "All aerodromes",
+      "B": "Aerodromes regularly used by international civil aviation",
+      "C": "Only military aerodromes",
+      "D": "Only aerodromes with instrument approaches",
+      "E": "Only aerodromes in controlled airspace",
+      "F": "Only aerodromes with Category II/III approaches"
+    },
+    "correct_answer": "B",
+    "explanation": "Section 5.3.5.2: 'Recommendation. - Instrument flight procedure data sets should be made available for aerodromes regularly used by international civil aviation.'",
+    "difficulty": "easy",
+    "topic": "Instrument flight procedure data sets - Recommendation",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 5. AERONAUTICAL INFORMATION PRODUCTS AND SERVICES",
+    "sub_chapter": "5.3.5 Instrument flight procedure data sets",
+    "image_description": null
+  },
+  {
+    "temp_id": "b22eebc99-9c0b-4ef8-bb6d-6bb9bd380a144",
+    "question_text": "What does section 5.5.2 Note 1 indicate about pre-flight information from adjacent States?",
+    "options": {
+      "A": "It must be provided regardless of cost",
+      "B": "The elements of aeronautical information products may be limited to national publications and when practicable, those of adjacent States, provided a complete library is available centrally with direct communications",
+      "C": "Adjacent States' information is never required",
+      "D": "Only NOTAM from adjacent States is needed",
+      "E": "Adjacent States must provide their AIP free of charge",
+      "F": "Pre-flight information must include all States worldwide"
+    },
+    "correct_answer": "B",
+    "explanation": "Section 5.5.2 Note 1: 'The elements of aeronautical information products may be limited to national publications and when practicable, those of adjacent States, provided a complete library of aeronautical information is available at a central location and means of direct communications are available with that library.'",
+    "difficulty": "hard",
+    "topic": "Pre-flight information - Adjacent States",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 5. AERONAUTICAL INFORMATION PRODUCTS AND SERVICES",
+    "sub_chapter": "5.5 Pre-flight information service",
+    "image_description": null
+  },
+  {
+    "temp_id": "c22eebc99-9c0b-4ef8-bb6d-6bb9bd380a145",
+    "question_text": "According to section 6.1, what is the general specification for aeronautical data and information?",
+    "options": {
+      "A": "They shall be kept up to date",
+      "B": "They shall be archived after 10 years",
+      "C": "They shall be validated annually",
+      "D": "They shall be replaced every 5 years",
+      "E": "They shall be stored in multiple locations",
+      "F": "They shall be encrypted"
+    },
+    "correct_answer": "A",
+    "explanation": "Section 6.1: 'Aeronautical data and aeronautical information shall be kept up to date.'",
+    "difficulty": "easy",
+    "topic": "Updating - General requirement",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 6. UPDATING",
+    "sub_chapter": "6.1 General specifications",
+    "image_description": null
+  },
+  {
+    "temp_id": "d22eebc99-9c0b-4ef8-bb6d-6bb9bd380a146",
+    "question_text": "Which of the following is NOT listed in section 6.2.1 as a circumstance requiring distribution under the AIRAC system?",
+    "options": {
+      "A": "Limits of flight information regions",
+      "B": "Positions and frequencies of radio navigation aids",
+      "C": "Aerodrome ground operating procedures including low visibility procedures",
+      "D": "Temporary danger areas of short duration (less than 28 days)",
+      "E": "Holding and approach procedures",
+      "F": "Runways and stopways"
+    },
+    "correct_answer": "D",
+    "explanation": "Section 6.2.1 lists permanent or significant changes to various elements. Temporary danger areas are listed in 6.2.6 as a recommendation but not in the mandatory list of 6.2.1. Also, temporary short-duration items are typically NOTAM, not AIRAC.",
+    "difficulty": "hard",
+    "topic": "AIRAC - Mandatory circumstances",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 6. UPDATING",
+    "sub_chapter": "6.2 Aeronautical information regulation and control (AIRAC)",
+    "image_description": null
+  },
+  {
+    "temp_id": "e22eebc99-9c0b-4ef8-bb6d-6bb9bd380a147",
+    "question_text": "True or False: According to section 6.3.2.3, a NOTAM shall be originated for the allocation, cancellation or change of location indicators.",
+    "options": {
+      "True": "True",
+      "False": "False"
+    },
+    "correct_answer": "True",
+    "explanation": "Section 6.3.2.3 s): 'allocation, cancellation or change of location indicators' is listed as information that shall be originated and issued as NOTAM.",
+    "difficulty": "easy",
+    "topic": "NOTAM - Location indicators",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 6. UPDATING",
+    "sub_chapter": "6.3.2 NOTAM",
+    "image_description": null
+  },
+  {
+    "temp_id": "f22eebc99-9c0b-4ef8-bb6d-6bb9bd380a148",
+    "question_text": "According to section 6.3.2.4, which of the following information shall NOT be notified by NOTAM?",
+    "options": {
+      "A": "General reminders on already published information",
+      "B": "Occurrence of volcanic ash cloud",
+      "C": "Change in rescue and firefighting category",
+      "D": "Establishment of a prohibited area",
+      "E": "Interruption of radio navigation aids",
+      "F": "Presence of obstacles affecting air navigation"
+    },
+    "correct_answer": "A",
+    "explanation": "Section 6.3.2.4 n): 'general reminders on already published information' is listed as information that shall NOT be notified by NOTAM. The other options are listed in 6.3.2.3 as requiring NOTAM.",
+    "difficulty": "hard",
+    "topic": "NOTAM exclusions - General reminders",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 6. UPDATING",
+    "sub_chapter": "6.3.2 NOTAM",
+    "image_description": null
+  },
+  {
+    "temp_id": "a23eebc99-9c0b-4ef8-bb6d-6bb9bd380a149",
+    "question_text": "What does Note 4 in Chapter 1.1 of Annex 15 indicate about guidance material on AIS organization?",
+    "options": {
+      "A": "It is contained in the Aeronautical Information Services Manual (Doc 8126)",
+      "B": "It is contained in PANS-AIM",
+      "C": "It is contained in Annex 4",
+      "D": "It is contained in Doc 10066",
+      "E": "It is contained in Doc 8400",
+      "F": "No guidance material exists"
+    },
+    "correct_answer": "A",
+    "explanation": "Chapter 1, Note 4: 'Guidance material on the organization and operation of the AIS is contained in the Aeronautical Information Services Manual (Doc 8126).'",
+    "difficulty": "easy",
+    "topic": "Guidance material - Doc 8126",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 1. GENERAL",
+    "image_description": null
+  },
+  {
+    "temp_id": "b23eebc99-9c0b-4ef8-bb6d-6bb9bd380a150",
+    "question_text": "According to the definition of 'Next intended user' in Chapter 1.1, who is the next intended user?",
+    "options": {
+      "A": "The original data originator",
+      "B": "The entity that receives the aeronautical data or information from the AIS",
+      "C": "The end customer such as a pilot",
+      "D": "The ICAO",
+      "E": "The State authority",
+      "F": "The AIS itself"
+    },
+    "correct_answer": "B",
+    "explanation": "Chapter 1.1: 'Next intended user. The entity that receives the aeronautical data or information from the aeronautical information service.'",
+    "difficulty": "easy",
+    "topic": "Definitions - Next intended user",
+    "document": "ICAO Annex 15",
+    "chapter": "CHAPTER 1. GENERAL",
+    "sub_chapter": "1.1 Definitions",
+    "image_description": null
+  }
+]

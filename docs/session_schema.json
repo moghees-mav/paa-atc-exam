@@ -1,0 +1,47 @@
+﻿{
+  "_purpose": "Documents the shape of a runtime exam session. Not loaded by the app.",
+  "_schema_version": "2.0",
+  "session": {
+    "id": "uuid-string",
+    "created_at": "ISO timestamp",
+    "mode": "mock | by_chapter | by_document | custom",
+    "config": {
+      "timer_minutes": 120,
+      "question_count": 100,
+      "pass_threshold": 70,
+      "filters": { "documents": [], "chapters": [], "difficulty": [], "source": [] },
+      "distribution": { "chapter_name": 25 }
+    },
+    "questions": [],
+    "answers": {},
+    "flags": [],
+    "status": "configured | active | paused | submitted",
+    "timer": {
+      "started_at": null,
+      "paused_at": null,
+      "elapsed_seconds": 0
+    }
+  },
+  "question_schema_v2": {
+    "id": "integer (unique, 1-10 manual, 11+ generated)",
+    "source": "bank or generated",
+    "q_type": "mcq or true_false",
+    "document": "string (normalised canonical name)",
+    "chapter": "string",
+    "sub_chapter": "string or null",
+    "topic": "string",
+    "difficulty": "easy or medium or hard",
+    "question": "string (mapped from question_text)",
+    "options": "object with 2-6 keys (A-F for MCQ, True/False for T/F)",
+    "correct_answer": "string (matches one of options keys)",
+    "explanation": "string",
+    "tags": ["string"],
+    "image_description": "string or null",
+    "temp_id_original": "string (original UUID for traceability)"
+  },
+  "id_allocation": {
+    "1-10": "Original manual placeholder questions (preserved as-is)",
+    "11+": "Generated questions (IDs allocated by .id_map.json for stability)"
+  },
+  "merge_usage": "python scripts/merge_questions.py [--dry-run]"
+}

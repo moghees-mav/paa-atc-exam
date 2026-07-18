@@ -1,0 +1,40 @@
+{
+  "_instructions": "Edit this file to configure the application.",
+  "app": {
+    "title": "PAA IIAP ATC EXAM SIMULATOR",
+    "subtitle": "Practice and Mock Examination for your Air Traffic Control Exam",
+    "organization": "PAKISTAN AIRPORTS AUTHORITY",
+    "logo_path": "assets/logo.png",
+    "version": "1.0.0"
+  },
+  "ui": {
+    "font_family": "Arial, Helvetica, sans-serif",
+    "font_size_base": "14px",
+    "font_size_min": "12px",
+    "theme": "light",
+    "primary_color": "#1a3a5c",
+    "accent_color": "#2980b9",
+    "pass_color": "#27ae60",
+    "fail_color": "#c0392b",
+    "warn_color": "#e67e22"
+  },
+  "exam_defaults": {
+    "question_count": 50,
+    "timer_minutes": 60,
+    "pass_threshold_percent": 70,
+    "allow_timer_edit": true,
+    "allow_question_count_edit": true,
+    "flag_questions": true,
+    "show_source_tags": true,
+    "difficulty_distribution": {
+      "easy": 0.5,
+      "medium": 0.3,
+      "hard": 0.2
+    }
+  },
+  "database": {
+    "questions_path": "data/questions.json",
+    "difficulty_levels": ["easy", "medium", "hard"],
+    "sources": ["bank", "generated"]
+  }
+}

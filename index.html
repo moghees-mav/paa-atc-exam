@@ -1,0 +1,493 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ATC Exam Simulator</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <button id="btn-admin-access" class="admin-access-btn" type="button">⚙ Admin</button>
+  <div id="utc-clock" class="utc-clock"></div>
+
+  <!-- Screen: Loading -->
+  <div id="screen-loading" class="screen active">
+    <div class="loading-content">
+      <h2>Loading Question Database...</h2>
+      <div class="loading-bar"><div class="loading-fill"></div></div>
+      <p id="loading-status">Initializing...</p>
+    </div>
+  </div>
+
+    <!-- Screen: Examiner Configuration (Step 1) -->
+  <div id="screen-examiner" class="screen hidden">
+    <header id="app-header-examiner">
+      <div id="logo-area-examiner"></div>
+      <div id="title-area-examiner">
+        <h1 id="app-title-examiner"></h1>
+        <p id="app-subtitle-examiner"></p>
+      </div>
+    </header>
+        <main id="home-main-examiner">
+      <section id="examiner-info">
+        <h2>Examiner Details</h2>
+        <div class="setting-row">
+                    <label for="examiner-name">Examiner Name</label>
+          <input type="text" id="examiner-name" placeholder="Enter your name" required>
+        </div>
+      </section>
+
+      <section id="exam-config">
+        <h2>Exam Configuration</h2>
+        <div class="setting-row">
+          <label>Number of Questions</label>
+          <input type="number" id="question-count" min="1" max="200" value="50">
+          <span style="font-size:12px;color:var(--text-muted)">(2 marks each)</span>
+        </div>
+        <div class="setting-row">
+          <label>Time Allowed (minutes)</label>
+          <input type="number" id="timer-minutes" min="10" max="360" value="60">
+        </div>
+        <div class="setting-row">
+          <label>Difficulty Distribution</label>
+          <div id="difficulty-dist" style="display:flex;gap:8px;align-items:center;flex-wrap:wrap">
+            <label style="font-size:12px;min-width:auto">Easy</label>
+            <input type="number" id="dist-easy" class="diff-input" min="0" max="100" value="50" style="width:60px">%
+            <label style="font-size:12px;min-width:auto">Medium</label>
+            <input type="number" id="dist-medium" class="diff-input" min="0" max="100" value="30" style="width:60px">%
+            <label style="font-size:12px;min-width:auto">Hard</label>
+            <input type="number" id="dist-hard" class="diff-input" min="0" max="100" value="20" style="width:60px">%
+            <span id="diff-total" style="font-size:12px;color:var(--pass);font-weight:bold">100%</span>
+          </div>
+        </div>
+        <div class="setting-row">
+          <label>Qualification</label>
+          <select id="qualification-select">
+            <option value="">-- Select a qualification --</option>
+            <option value="Aerodrome">Aerodrome</option>
+            <option value="Area Procedure">Area Procedure</option>
+            <option value="Area Radar">Area Radar</option>
+            <option value="Approach Procedure">Approach Procedure</option>
+            <option value="Approach Radar">Approach Radar</option>
+          </select>
+          <button id="btn-customize" type="button">Customize (advanced)</button>
+        </div>
+      </section>
+
+      <!-- Hierarchical document/chapter selection (hidden by default) -->
+      <section id="filter-panel" class="hidden">
+        <h3>Select Documents & Chapters</h3>
+        <div id="hierarchical-selector"></div>
+        <div class="filter-select-all">
+          <button id="btn-select-all-docs" type="button">Select All Documents</button>
+          <button id="btn-clear-all-docs" type="button">Clear All</button>
+        </div>
+      </section>
+
+      <section id="distribution-panel" class="hidden">
+        <h3>Question Distribution</h3>
+        <div class="setting-row">
+          <label for="dist-granularity">Distribution Granularity</label>
+          <select id="dist-granularity">
+            <option value="document">By Document</option>
+            <option value="chapter">By Chapter</option>
+          </select>
+        </div>
+        <div class="setting-row">
+                    <label for="dist-mode">Distribution Mode</label>
+          <select id="dist-mode">
+            <option value="equal">Equal across selected items</option>
+            <option value="percentage">Percentage per item</option>
+          </select>
+        </div>
+        <div id="distribution-rows"></div>
+        <div id="distribution-footer">
+          <span>Total: <strong id="distribution-total">0</strong> / <span id="distribution-target">50</span></span>
+          <button id="btn-auto-distribute" type="button">Reset to Equal</button>
+        </div>
+      </section>
+
+            <section id="replay-panel">
+        <h3>Exam Replay</h3>
+        <p style="font-size:13px;color:var(--text-muted);margin:4px 0 10px">
+          Enter a 5-character Exam ID to retake that exact exam, review it, or flag it for the examiner/admin.
+        </p>
+        <div class="setting-row">
+          <label for="replay-id-input">Exam ID</label>
+          <input type="text" id="replay-id-input" maxlength="5" placeholder="e.g. 7K9MQ" style="width:120px;text-transform:uppercase;font-family:monospace;letter-spacing:2px">
+          <button id="btn-load-replay" type="button">Load Exam</button>
+        </div>
+        <div class="setting-row">
+          <label style="min-width:auto;font-size:13px"><input type="checkbox" id="replay-use-updated"> Use updated questions instead of the original snapshot</label>
+        </div>
+        <p id="replay-status-msg" class="hidden" style="font-size:13px"></p>
+            </section>
+
+      <div style="text-align:right;margin:10px 0">
+        <button id="btn-feature-request-examiner" type="button">💡 Submit Feature Request</button>
+      </div>
+
+      <div id="home-actions">
+        <p id="start-validation-msg" class="hidden"></p>
+        <button id="btn-create-exam" class="btn-primary">Create Exam →</button>
+      </div>
+    </main>
+  </div>
+
+    <!-- Screen: Examinee Details (Step 2) -->
+  <div id="screen-examinee" class="screen hidden">
+    <header id="app-header-examinee">
+      <div id="logo-area-examinee"></div>
+      <div id="title-area-examinee">
+        <h1 id="app-title-examinee"></h1>
+        <p id="app-subtitle-examinee"></p>
+      </div>
+        </header>
+    <main id="home-main-examinee">
+      <section>
+        <h2>Examinee Information</h2>
+        <div class="setting-row">
+          <label for="examinee-name">Examinee Name</label>
+          <input type="text" id="examinee-name" placeholder="Enter your full name" required>
+        </div>
+        <div class="setting-row">
+          <label for="examinee-designation">Examinee Designation</label>
+          <input type="text" id="examinee-designation" placeholder="Enter your designation e.g. AD, DDS etc" required>
+                </div>
+        <div class="setting-row">
+                    <label for="examinee-serviceno">Service Number</label>
+          <div style="display:flex;align-items:center;gap:2px">
+            <span style="font-size:16px;font-weight:bold;color:var(--text-muted)">OF-</span>
+            <input type="text" id="examinee-serviceno" placeholder="####" maxlength="4" pattern="\d{4}" style="width:100px;font-family:monospace;font-size:16px;letter-spacing:4px" required>
+          </div>
+          <small>Enter 4-digit number (e.g., 1234)</small>
+        </div>
+      </section>
+            <div id="home-actions-examinee">
+        <button id="btn-back-examiner" class="btn-secondary">← Back</button>
+        <button id="btn-start-exam" class="btn-primary">Start Exam</button>
+        
+      </div>
+    </main>
+  </div>
+
+
+  <!-- Screen: Exam -->
+  <div id="screen-exam" class="screen hidden">
+    <div id="exam-topbar">
+      <div id="exam-progress">
+        <span id="q-counter">Question 1 / 100</span>
+        <div id="progress-bar"><div id="progress-fill"></div></div>
+      </div>
+      <div id="exam-timer">
+        <svg id="timer-ring" viewBox="0 0 60 60">
+          <circle cx="30" cy="30" r="26" class="timer-track"/>
+          <circle cx="30" cy="30" r="26" class="timer-progress" id="timer-arc"/>
+        </svg>
+
+                <span id="timer-display">1:00:00</span>
+      </div>
+      <div id="exam-fontsize">
+        <button id="btn-font-down" title="Decrease font size">A-</button>
+        <button id="btn-font-up" title="Increase font size">A+</button>
+      </div>
+      <div id="exam-controls">
+        <button id="btn-pause">Pause</button>
+        <button id="btn-flag">Flag</button>
+        <button id="btn-end-early">End Exam</button>
+      </div>
+    </div>
+
+    <div id="exam-body">
+      <div id="question-area">
+        <div id="question-tags">
+          <span id="tag-document"></span>
+          <span id="tag-chapter"></span>
+          <span id="tag-difficulty"></span>
+        </div>
+        <p id="question-text"></p>
+        <div id="options-list">
+          <button class="option-btn" data-key="A"><span class="option-key">A</span><span class="option-text"></span></button>
+          <button class="option-btn" data-key="B"><span class="option-key">B</span><span class="option-text"></span></button>
+          <button class="option-btn" data-key="C"><span class="option-key">C</span><span class="option-text"></span></button>
+          <button class="option-btn" data-key="D"><span class="option-key">D</span><span class="option-text"></span></button>
+          <button class="option-btn" data-key="E"><span class="option-key">E</span><span class="option-text"></span></button>
+          <button class="option-btn" data-key="F"><span class="option-key">F</span><span class="option-text"></span></button>
+                    <button class="option-btn" data-key="True"><span class="option-key">True</span><span class="option-text"></span></button>
+          <button class="option-btn" data-key="False"><span class="option-key">False</span><span class="option-text"></span></button>
+        </div>
+        <div id="question-nav">
+          <button id="btn-prev">← Previous</button>
+          <button id="btn-next">Next →</button>
+          <button id="btn-submit-exam" class="btn-primary hidden">Complete Exam</button>
+        </div>
+      </div>
+
+      <aside id="question-palette">
+        <h4>Questions</h4>
+        <div id="palette-grid"></div>
+        <div id="palette-legend">
+          <span class="legend-item unanswered">Unanswered</span>
+          <span class="legend-item answered">Answered</span>
+          <span class="legend-item flagged">Flagged</span>
+        </div>
+      </aside>
+    </div>
+
+    <div id="pause-overlay" class="hidden">
+      <div class="overlay-box">
+        <h2>Exam Paused</h2>
+        <p>Timer is stopped. Questions are hidden.</p>
+        <button id="btn-resume" class="btn-primary">Resume Exam</button>
+      </div>
+    </div>
+  </div>
+
+
+    <!-- Screen: Results -->
+  <div id="screen-results" class="screen hidden">
+        <header id="results-header">
+      <h1>Exam Complete</h1>
+            <p id="results-exam-id" style="font-family:monospace;font-size:14px;color:var(--text-muted)"></p>
+      <div id="results-actions">
+        <button id="btn-feature-request-results" type="button">💡 Submit Feature Request</button>
+        <button id="btn-retake">Retake Same Config</button>
+        <button id="btn-new-exam">New Exam</button>
+        <button id="btn-print">Export / Print</button>
+      </div>
+    </header>
+
+    <div id="results-top-row">
+      <section class="results-section results-half" id="results-examiner-details" style="display:none">
+        <h2>Session Details</h2>
+        <div id="session-details-content" style="font-size:14px;line-height:1.8"></div>
+      </section>
+
+      <section class="results-section results-half" id="score-card">
+        <div id="score-display">
+          <div id="score-number"></div>
+          <div id="score-label"></div>
+          <div id="pass-fail-badge"></div>
+        </div>
+        <div id="score-breakdown">
+          <div class="score-stat" id="stat-correct"></div>
+          <div class="score-stat" id="stat-incorrect"></div>
+          <div class="score-stat" id="stat-unanswered"></div>
+          <div class="score-stat" id="stat-time"></div>
+        </div>
+      </section>
+    </div>
+
+    <section class="results-section" id="weakness-alerts"></section>
+
+    <details id="results-performance-tree" class="results-section">
+      <summary><h2 style="display:inline;margin:0">Performance by Document & Chapter</h2></summary>
+      <section class="results-section" id="performance-document" style="border:none;margin:8px 0;padding:0">
+        <h3>Performance by Document</h3>
+        <table id="document-table"><thead><tr><th>Document</th><th>Questions</th><th>Correct</th><th>Score</th><th>Status</th></tr></thead><tbody></tbody></table>
+      </section>
+      <details id="results-chapter-tree">
+        <summary><h3 style="display:inline;margin:0">Performance by Chapter</h3></summary>
+        <table id="chapter-table"><thead><tr><th>Chapter</th><th>Document</th><th>Questions</th><th>Correct</th><th>Score</th><th>Status</th></tr></thead><tbody></tbody></table>
+      </details>
+    </details>
+
+        <section class="results-section" id="question-review">
+      <h2>Question Review</h2>
+      <div id="review-filters">
+        <button class="review-filter-btn active" data-filter="all" type="button">All</button>
+        <button class="review-filter-btn" data-filter="incorrect" type="button">Incorrect</button>
+        <button class="review-filter-btn" data-filter="flagged" type="button">Flagged</button>
+        <button class="review-filter-btn" data-filter="unanswered" type="button">Unanswered</button>
+      </div>
+      <div id="review-list"></div>
+    </section>
+
+    <section class="results-section" id="flagged-remarks-section" style="display:none">
+      <h2>Flagged Questions & Remarks</h2>
+      <div id="flagged-remarks-content"></div>
+        </section>
+  </div>
+
+  <!-- Screen: Admin Dashboard -->
+  <div id="screen-admin" class="screen hidden">
+    <header id="app-header-admin">
+      <div id="logo-area-admin"></div>
+      <div id="title-area-admin">
+        <h1 id="app-title-admin"></h1>
+        <p id="app-subtitle-admin"></p>
+      </div>
+    </header>
+    <div id="admin-layout">
+      <nav id="admin-sidebar">
+        <h2>Admin</h2>
+        <button class="admin-tab-btn active" data-tab="stats" type="button">Dashboard / Stats</button>
+        <button class="admin-tab-btn" data-tab="questions" type="button">Question Bank</button>
+        <button class="admin-tab-btn" data-tab="flagged" type="button">Flagged Remarks</button>
+        <button class="admin-tab-btn" data-tab="requests" type="button">Feature Requests</button>
+        <button class="admin-tab-btn" data-tab="security" type="button">Security</button>
+        <button id="btn-admin-logout" type="button">Log Out</button>
+      </nav>
+      <main id="admin-content">
+        <section id="admin-tab-stats" class="admin-tab-panel"></section>
+        <section id="admin-tab-questions" class="admin-tab-panel hidden">
+          <div id="admin-qbank-toolbar">
+            <div class="admin-filter-row">
+              <label for="admin-qbank-doc">Document</label>
+              <select id="admin-qbank-doc">
+                <option value="">-- All Documents --</option>
+              </select>
+            </div>
+            <div class="admin-filter-row">
+              <label for="admin-qbank-chapter">Chapter</label>
+              <select id="admin-qbank-chapter">
+                <option value="">-- All Chapters --</option>
+              </select>
+            </div>
+            <div id="admin-qbank-actions">
+              <button id="btn-admin-add-question" type="button">+ Add Question</button>
+              <button id="btn-admin-export-json" type="button">Export JSON</button>
+            </div>
+          </div>
+          <div id="admin-qbank-list"></div>
+        </section>
+        <section id="admin-tab-flagged" class="admin-tab-panel hidden"></section>
+        <section id="admin-tab-requests" class="admin-tab-panel hidden"></section>
+        <section id="admin-tab-security" class="admin-tab-panel hidden">
+          <div id="security-warning-banner" class="hidden" style="background:#fff3cd;border:1px solid #ffc107;padding:12px 16px;border-radius:6px;margin-bottom:16px;font-size:14px;color:#856404">⚠ Password expiring soon — change it now.</div>
+          <h2>Password Management</h2>
+          <div class="setting-row">
+            <label>Current Password</label>
+            <input type="password" id="sec-current-password" style="padding:6px 10px;border:1px solid var(--border);border-radius:4px;font-size:14px;font-family:var(--font);width:200px">
+          </div>
+          <div class="setting-row">
+            <label>New Password</label>
+            <input type="password" id="sec-new-password" style="padding:6px 10px;border:1px solid var(--border);border-radius:4px;font-size:14px;font-family:var(--font);width:200px">
+          </div>
+          <div class="setting-row">
+            <label>Confirm New Password</label>
+            <input type="password" id="sec-confirm-password" style="padding:6px 10px;border:1px solid var(--border);border-radius:4px;font-size:14px;font-family:var(--font);width:200px">
+          </div>
+          <div style="margin:12px 0">
+            <button id="btn-change-password" class="btn-primary" type="button">Change Password</button>
+            <span id="sec-status-msg" style="margin-left:12px;font-size:13px"></span>
+          </div>
+          <p style="font-size:12px;color:var(--text-muted);margin-top:4px">Password rules: 5–10 characters, alphanumeric only.</p>
+
+          <!-- V2 Roadmap: Email integration (disabled in V1) -->
+          <hr style="margin:20px 0;border:none;border-top:1px solid var(--border)">
+          <h3 style="color:var(--text-muted)">V2 Roadmap — Email Integration</h3>
+          <p style="font-size:13px;color:var(--text-muted);margin-bottom:12px">These fields are placeholders for future server-side email notification support.</p>
+          <div class="setting-row">
+            <label style="color:var(--text-muted)">Examiner Email</label>
+            <input type="email" id="sec-examiner-email" disabled placeholder="examiner@paa.gov.pk" style="padding:6px 10px;border:1px solid var(--border);border-radius:4px;font-size:14px;font-family:var(--font);width:250px;background:var(--bg);color:var(--text-muted)">
+          </div>
+          <div class="setting-row">
+            <label style="color:var(--text-muted)">Examinee Email</label>
+            <input type="email" id="sec-examinee-email" disabled placeholder="examinee@paa.gov.pk" style="padding:6px 10px;border:1px solid var(--border);border-radius:4px;font-size:14px;font-family:var(--font);width:250px;background:var(--bg);color:var(--text-muted)">
+          </div>
+        </section>
+      </main>
+    </div>
+  </div>
+
+  <!-- Modal: Custom Dialog (replaces alert/confirm) -->
+  <div id="modal-custom-dialog" class="modal-overlay hidden">
+    <div class="modal-box dialog-box">
+      <button id="dialog-close-x" class="dialog-close-x" title="Close">✕</button>
+      <h3 id="dialog-title"></h3>
+      <div id="dialog-body"></div>
+      <div id="dialog-actions" class="modal-actions"></div>
+    </div>
+  </div>
+
+  <div id="modal-feature-request" class="modal-overlay hidden">
+    <div class="modal-box">
+      <h3>Submit a Feature Request</h3>
+      <textarea id="feature-request-text" rows="5" placeholder="Describe what you'd like to see..." maxlength="1000"></textarea>
+      <div class="modal-actions">
+        <button id="btn-feature-request-cancel" type="button">Cancel</button>
+        <button id="btn-feature-request-submit" class="btn-primary" type="button">Submit</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Modal: Question Editor (Add / Edit) -->
+  <div id="modal-question-editor" class="modal-overlay hidden">
+    <div class="modal-box" id="modal-qeditor-box">
+      <h3 id="modal-qeditor-title">Edit Question</h3>
+      <div class="qeditor-scroll">
+        <div class="qeditor-field">
+          <label for="qedit-text">Question Text</label>
+          <textarea id="qedit-text" rows="3" maxlength="2000"></textarea>
+        </div>
+        <div class="qeditor-field">
+          <label for="qedit-explanation">Explanation</label>
+          <textarea id="qedit-explanation" rows="2" maxlength="2000"></textarea>
+        </div>
+        <div class="qeditor-row">
+          <div class="qeditor-field">
+            <label for="qedit-document">Document</label>
+            <input type="text" id="qedit-document" list="qedit-doc-list">
+            <datalist id="qedit-doc-list"></datalist>
+          </div>
+          <div class="qeditor-field">
+            <label for="qedit-chapter">Chapter</label>
+            <input type="text" id="qedit-chapter" list="qedit-chapter-list">
+            <datalist id="qedit-chapter-list"></datalist>
+          </div>
+          <div class="qeditor-field">
+            <label for="qedit-topic">Topic</label>
+            <input type="text" id="qedit-topic" list="qedit-topic-list">
+            <datalist id="qedit-topic-list"></datalist>
+          </div>
+        </div>
+        <div class="qeditor-row">
+          <div class="qeditor-field">
+            <label for="qedit-difficulty">Difficulty</label>
+            <select id="qedit-difficulty">
+              <option value="easy">Easy</option>
+              <option value="medium" selected>Medium</option>
+              <option value="hard">Hard</option>
+            </select>
+          </div>
+          <div class="qeditor-field">
+            <label for="qedit-type">Question Type</label>
+            <select id="qedit-type">
+              <option value="mcq">MCQ</option>
+              <option value="true_false">True / False</option>
+            </select>
+          </div>
+        </div>
+        <div id="qedit-options-area">
+          <label>Options</label>
+          <div class="qeditor-opt-row"><label class="qeditor-opt-label">A</label><input type="text" id="qedit-opt-A" class="qedit-opt" placeholder="Option A"></div>
+          <div class="qeditor-opt-row"><label class="qeditor-opt-label">B</label><input type="text" id="qedit-opt-B" class="qedit-opt" placeholder="Option B"></div>
+          <div class="qeditor-opt-row"><label class="qeditor-opt-label">C</label><input type="text" id="qedit-opt-C" class="qedit-opt" placeholder="Option C"></div>
+          <div class="qeditor-opt-row"><label class="qeditor-opt-label">D</label><input type="text" id="qedit-opt-D" class="qedit-opt" placeholder="Option D"></div>
+          <div class="qeditor-opt-row"><label class="qeditor-opt-label">E</label><input type="text" id="qedit-opt-E" class="qedit-opt" placeholder="Option E"></div>
+          <div class="qeditor-opt-row"><label class="qeditor-opt-label">F</label><input type="text" id="qedit-opt-F" class="qedit-opt" placeholder="Option F"></div>
+        </div>
+        <div class="qeditor-field">
+          <label for="qedit-correct">Correct Answer</label>
+          <select id="qedit-correct">
+            <option value="A">A</option>
+            <option value="B">B</option>
+            <option value="C">C</option>
+            <option value="D">D</option>
+            <option value="E">E</option>
+            <option value="F">F</option>
+          </select>
+        </div>
+      </div>
+      <div class="modal-actions">
+        <button id="btn-qeditor-cancel" type="button">Cancel</button>
+        <button id="btn-qeditor-save" class="btn-primary" type="button">Save</button>
+      </div>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,2338 @@
+[
+  {
+    "temp_id": "1a2b3c4d-5e6f-7a8b-9c0d-1e2f3a4b5c6d",
+    "question_text": "According to Chapter 1, what is the definition of 'Alternative means of communication'?",
+    "options": {
+      "A": "A means of communication that replaces the primary means when it fails",
+      "B": "A means of communication provided with equal status, and in addition to the primary means",
+      "C": "A backup communication method used only in distress situations",
+      "D": "A communication method that operates on a different frequency band than the primary",
+      "E": "A means of communication that is less reliable than the primary",
+      "F": "A communication channel reserved solely for emergency locator transmitters"
+    },
+    "correct_answer": "B",
+    "explanation": "Chapter 1 states: 'Alternative means of communication. A means of communication provided with equal status, and in addition to the primary means.'",
+    "difficulty": "easy",
+    "topic": "Definitions",
+    "document": "ICAO Annex 10",
+    "chapter": "Chapter 1. DEFINITIONS",
+    "sub_chapter": null,
+    "image_description": null
+  },
+  {
+    "temp_id": "2b3c4d5e-6f7a-8b9c-0d1e-2f3a4b5c6d7e",
+    "question_text": "What is the definition of 'Double channel simplex'?",
+    "options": {
+      "A": "Simplex using the same frequency channel in each direction",
+      "B": "Simplex using two frequency channels, one in each direction",
+      "C": "A method where communication takes place in both directions simultaneously",
+      "D": "Simplex using offset frequencies slightly different in each direction",
+      "E": "A duplex method using two channels for the same direction",
+      "F": "A half-duplex method with automatic switching"
+    },
+    "correct_answer": "B",
+    "explanation": "Chapter 1 states: 'Double channel simplex. Simplex using two frequency channels, one in each direction.'",
+    "difficulty": "easy",
+    "topic": "Definitions",
+    "document": "ICAO Annex 10",
+    "chapter": "Chapter 1. DEFINITIONS",
+    "sub_chapter": null,
+    "image_description": null
+  },
+  {
+    "temp_id": "3c4d5e6f-7a8b-9c0d-1e2f-3a4b5c6d7e8f",
+    "question_text": "Which method allows telecommunication between two stations to take place in both directions simultaneously?",
+    "options": {
+      "A": "Simplex",
+      "B": "Double channel simplex",
+      "C": "Offset frequency simplex",
+      "D": "Single channel simplex",
+      "E": "Duplex",
+      "F": "Half-duplex"
+    },
+    "correct_answer": "E",
+    "explanation": "Chapter 1 states: 'Duplex. A method in which telecommunication between two stations can take place in both directions simultaneously.'",
+    "difficulty": "easy",
+    "topic": "Definitions",
+    "document": "ICAO Annex 10",
+    "chapter": "Chapter 1. DEFINITIONS",
+    "sub_chapter": null,
+    "image_description": null
+  },
+  {
+    "temp_id": "4d5e6f7a-8b9c-0d1e-2f3a-4b5c6d7e8f9a",
+    "question_text": "What does 'Operational control communications' refer to, as defined in Chapter 1?",
+    "options": {
+      "A": "Communications between pilots and air traffic control for routine clearances",
+      "B": "Communications required for the exercise of authority over the initiation, continuation, diversion or termination of a flight in the interest of safety and regularity",
+      "C": "Communications between aircraft and maritime stations in distress",
+      "D": "Communications for search and rescue coordination only",
+      "E": "Communications between ground stations for frequency management",
+      "F": "Communications for broadcasting weather information to aircraft"
+    },
+    "correct_answer": "B",
+    "explanation": "Chapter 1 states: 'Operational control communications. Communications required for the exercise of authority over the initiation, continuation, diversion or termination of a flight in the interest of the safety of the aircraft and the regularity and efficiency of a flight.'",
+    "difficulty": "medium",
+    "topic": "Definitions",
+    "document": "ICAO Annex 10",
+    "chapter": "Chapter 1. DEFINITIONS",
+    "sub_chapter": null,
+    "image_description": null
+  },
+  {
+    "temp_id": "5e6f7a8b-9c0d-1e2f-3a4b-5c6d7e8f9a0b",
+    "question_text": "According to the definitions, what is the 'Primary means of communication'?",
+    "options": {
+      "A": "The means of communication used only when all other means fail",
+      "B": "The means of communication to be adopted normally by aircraft and ground stations as a first choice where alternative means exist",
+      "C": "The communication method with the highest data rate",
+      "D": "The frequency channel designated for emergency use only",
+      "E": "The communication system that is most expensive to maintain",
+      "F": "The means of communication reserved for operational control"
+    },
+    "correct_answer": "B",
+    "explanation": "Chapter 1 states: 'Primary means of communication. The means of communication to be adopted normally by aircraft and ground stations as a first choice where alternative means of communication exist.'",
+    "difficulty": "easy",
+    "topic": "Definitions",
+    "document": "ICAO Annex 10",
+    "chapter": "Chapter 1. DEFINITIONS",
+    "sub_chapter": null,
+    "image_description": null
+  },
+  {
+    "temp_id": "6f7a8b9c-0d1e-2f3a-4b5c-6d7e8f9a0b1c",
+    "question_text": "Which simplex variation uses frequencies that are intentionally slightly different in each direction but within the same allotted spectrum portion?",
+    "options": {
+      "A": "Single channel simplex",
+      "B": "Double channel simplex",
+      "C": "Offset frequency simplex",
+      "D": "Duplex simplex",
+      "E": "Cross-band simplex",
+      "F": "Wideband simplex"
+    },
+    "correct_answer": "C",
+    "explanation": "Chapter 1 states: 'Offset frequency simplex. A variation of single channel simplex wherein telecommunication between two stations is effected by using in each direction frequencies that are intentionally slightly different but contained within a portion of the spectrum allotted for the operation.'",
+    "difficulty": "medium",
+    "topic": "Definitions",
+    "document": "ICAO Annex 10",
+    "chapter": "Chapter 1. DEFINITIONS",
+    "sub_chapter": null,
+    "image_description": null
+  },
+  {
+    "temp_id": "7a8b9c0d-1e2f-3a4b-5c6d-7e8f9a0b1c2d",
+    "question_text": "What does 'VHF digital link (VDL)' refer to?",
+    "options": {
+      "A": "A digital voice system for air traffic control",
+      "B": "A constituent mobile subnetwork of the aeronautical telecommunication network (ATN), operating in the aeronautical mobile VHF frequency band",
+      "C": "A satellite-based communication system for oceanic flights",
+      "D": "A high-frequency data link for long-range communications",
+      "E": "A ground-based radar data link",
+      "F": "A communication protocol for emergency locator transmitters"
+    },
+    "correct_answer": "B",
+    "explanation": "Chapter 1 states: 'VHF digital link (VDL). A constituent mobile subnetwork of the aeronautical telecommunication network (ATN), operating in the aeronautical mobile VHF frequency band.'",
+    "difficulty": "easy",
+    "topic": "Definitions",
+    "document": "ICAO Annex 10",
+    "chapter": "Chapter 1. DEFINITIONS",
+    "sub_chapter": null,
+    "image_description": null
+  },
+  {
+    "temp_id": "8b9c0d1e-2f3a-4b5c-6d7e-8f9a0b1c2d3e",
+    "question_text": "True or False: Single channel simplex uses two different frequency channels, one in each direction.",
+    "options": {
+      "True": "True",
+      "False": "False"
+    },
+    "correct_answer": "False",
+    "explanation": "Chapter 1 states: 'Single channel simplex. Simplex using the same frequency channel in each direction.'",
+    "difficulty": "easy",
+    "topic": "Definitions",
+    "document": "ICAO Annex 10",
+    "chapter": "Chapter 1. DEFINITIONS",
+    "sub_chapter": null,
+    "image_description": null
+  },
+  {
+    "temp_id": "9c0d1e2f-3a4b-5c6d-7e8f-9a0b1c2d3e4f",
+    "question_text": "True or False: According to the definitions, 'Duplex' allows telecommunication in only one direction at a time.",
+    "options": {
+      "True": "True",
+      "False": "False"
+    },
+    "correct_answer": "False",
+    "explanation": "Chapter 1 defines Duplex as 'a method in which telecommunication between two stations can take place in both directions simultaneously.'",
+    "difficulty": "easy",
+    "topic": "Definitions",
+    "document": "ICAO Annex 10",
+    "chapter": "Chapter 1. DEFINITIONS",
+    "sub_chapter": null,
+    "image_description": null
+  },
+  {
+    "temp_id": "0d1e2f3a-4b5c-6d7e-8f9a-0b1c2d3e4f5a",
+    "question_text": "True or False: The definition of 'Frequency channel' includes the requirement that it must be used for a specific class of emission.",
+    "options": {
+      "True": "True",
+      "False": "False"
+    },
+    "correct_answer": "True",
+    "explanation": "Chapter 1 states: 'Frequency channel. A continuous portion of the frequency spectrum appropriate for a transmission utilizing a specified class of emission.'",
+    "difficulty": "medium",
+    "topic": "Definitions",
+    "document": "ICAO Annex 10",
+    "chapter": "Chapter 1. DEFINITIONS",
+    "sub_chapter": null,
+    "image_description": null
+  },
+  {
+    "temp_id": "1e2f3a4b-5c6d-7e8f-9a0b-1c2d3e4f5a6b",
+    "question_text": "According to the distress frequencies section, what frequency is the international distress frequency for radiotelephony for ships, aircraft, and survival craft in the bands between 1605 kHz and 4000 kHz?",
+    "options": {
+      "A": "121.500 MHz",
+      "B": "406 MHz",
+      "C": "2182 kHz",
+      "D": "4125 kHz",
+      "E": "3023 kHz",
+      "F": "5680 kHz"
+    },
+    "correct_answer": "C",
+    "explanation": "Page 3 states: 'The ITU Radio Regulations specify... that the frequency 2 182 kHz is the international distress frequency for radiotelephony to be used for emergency communications by ship, aircraft and survival craft stations using frequencies in the authorized bands between 1 605 kHz and 4 000 kHz'.",
+    "difficulty": "easy",
+    "topic": "Distress Frequencies",
+    "document": "ICAO Annex 10",
+    "chapter": "2. DISTRESS FREQUENCIES",
+    "sub_chapter": null,
+    "image_description": null
+  },
+  {
+    "temp_id": "2f3a4b5c-6d7e-8f9a-0b1c-2d3e4f5a6b7c",
+    "question_text": "What band is used exclusively by satellite EPIRBs (emergency position indicating radio beacons) in the earth-to-space direction?",
+    "options": {
+      "A": "117.975 - 137.000 MHz",
+      "B": "406 - 406.1 MHz",
+      "C": "960 - 1215 MHz",
+      "D": "2.8 - 22 MHz",
+      "E": "108 - 117.975 MHz",
+      "F": "5030.4 - 5150.0 MHz"
+    },
+    "correct_answer": "B",
+    "explanation": "Page 3 states: 'ITU Radio Regulations Article 31, Section I, No. 31.1 specifies that the band 406 - 406.1 MHz is used exclusively by satellite EPIRBs in the earth-to-space direction.'",
+    "difficulty": "easy",
+    "topic": "Distress Frequencies",
+    "document": "ICAO Annex 10",
+    "chapter": "2. DISTRESS FREQUENCIES",
+    "sub_chapter": null,
+    "image_description": null
+  },
+  {
+    "temp_id": "3a4b5c6d-7e8f-9a0b-1c2d-3e4f5a6b7c8d",
+    "question_text": "Which frequencies are designated for ELTs carried in compliance with Annex 6 Standards?",
+    "options": {
+      "A": "121.500 MHz only",
+      "B": "243 MHz only",
+      "C": "406 MHz and 121.500 MHz",
+      "D": "2182 kHz and 4125 kHz",
+      "E": "3023 kHz and 5680 kHz",
+      "F": "406 MHz and 243 MHz"
+    },
+    "correct_answer": "C",
+    "explanation": "Page 3, section 2.1.1: 'All emergency locator transmitters carried in compliance with Standards of Annex 6, Parts I, II and III shall operate on both 406 MHz and 121.500 MHz.'",
+    "difficulty": "easy",
+    "topic": "Distress Frequencies",
+    "document": "ICAO Annex 10",
+    "chapter": "2. DISTRESS FREQUENCIES",
+    "sub_chapter": "2.1 Frequencies for emergency locator transmitters (ELTs) for search and rescue",
+    "image_description": null
+  },
+  {
+    "temp_id": "4b5c6d7e-8f9a-0b1c-2d3e-4f5a6b7c8d9e",
+    "question_text": "For search and rescue scene of action coordination purposes, which HF frequencies shall be employed?",
+    "options": {
+      "A": "2182 kHz and 4125 kHz",
+      "B": "3023 kHz and 5680 kHz",
+      "C": "121.500 MHz and 123.100 MHz",
+      "D": "406 MHz and 121.500 MHz",
+      "E": "8364 kHz and 2182 kHz",
+      "F": "243 MHz and 121.500 MHz"
+    },
+    "correct_answer": "B",
+    "explanation": "Page 4, section 2.2.1: 'Where there is a requirement for the use of high frequencies for search and rescue scene of action coordination purposes, the frequencies 3 023 kHz and 5 680 kHz shall be employed.'",
+    "difficulty": "medium",
+    "topic": "Distress Frequencies",
+    "document": "ICAO Annex 10",
+    "chapter": "2. DISTRESS FREQUENCIES",
+    "sub_chapter": "2.2 Search and rescue frequencies",
+    "image_description": null
+  },
+  {
+    "temp_id": "5c6d7e8f-9a0b-1c2d-3e4f-5a6b7c8d9e0f",
+    "question_text": "True or False: The frequency 4125 kHz is authorized by ITU to enable communications between maritime mobile service stations and aircraft stations in distress.",
+    "options": {
+      "True": "True",
+      "False": "False"
+    },
+    "correct_answer": "True",
+    "explanation": "Page 3 states: 'The frequency 4 125 kHz is also authorized by the ITU to enable communications between stations in the maritime mobile service and aircraft stations in distress.'",
+    "difficulty": "easy",
+    "topic": "Distress Frequencies",
+    "document": "ICAO Annex 10",
+    "chapter": "2. DISTRESS FREQUENCIES",
+    "sub_chapter": null,
+    "image_description": null
+  },
+  {
+    "temp_id": "6d7e8f9a-0b1c-2d3e-4f5a-6b7c8d9e0f1a",
+    "question_text": "True or False: According to the document, survival craft stations may use 8364 kHz if capable of operating in the band 4000-27500 kHz.",
+    "options": {
+      "True": "True",
+      "False": "False"
+    },
+    "correct_answer": "True",
+    "explanation": "Page 3 states: 'With respect to survival craft stations, the Radio Regulations provide for the use of the frequencies 8 364 kHz , 2 182 kHz , 121.500 MHz and 243 MHz , if the survival craft is capable of operating in the bands 4 000 - 27 500 kHz'.",
+    "difficulty": "medium",
+    "topic": "Distress Frequencies",
+    "document": "ICAO Annex 10",
+    "chapter": "2. DISTRESS FREQUENCIES",
+    "sub_chapter": null,
+    "image_description": null
+  },
+  {
+    "temp_id": "7e8f9a0b-1c2d-3e4f-5a6b-7c8d9e0f1a2b",
+    "question_text": "What method of operation shall be used in the aeronautical mobile service for radiotelephone communications utilizing frequencies below 30 MHz in bands allocated exclusively to the aeronautical mobile (R) service?",
+    "options": {
+      "A": "Duplex",
+      "B": "Double channel simplex",
+      "C": "Offset frequency simplex",
+      "D": "Single channel simplex",
+      "E": "Full duplex",
+      "F": "Half-duplex with frequency hopping"
+    },
+    "correct_answer": "D",
+    "explanation": "Page 5, section 3.1.1: 'In the aeronautical mobile service, single channel simplex shall be used in radiotelephone communications utilizing radio frequencies below 30 MHz in the bands allocated exclusively to the aeronautical mobile (R) service.'",
+    "difficulty": "easy",
+    "topic": "Utilization of frequencies below 30 MHz",
+    "document": "ICAO Annex 10",
+    "chapter": "3 UTILIZATION OF FREQUENCIES BELOW 30 MHz",
+    "sub_chapter": "3.1 Method of operations",
+    "image_description": null
+  },
+  {
+    "temp_id": "8f9a0b1c-2d3e-4f5a-6b7c-8d9e0f1a2b3c",
+    "question_text": "According to Appendix 27 of the ITU Radio Regulations (27/14), what restriction applies to a given channel in the same allotment area?",
+    "options": {
+      "A": "It may be used for both radiotelephony and data transmissions simultaneously",
+      "B": "It should not be used for radiotelephony and data transmissions",
+      "C": "It may only be used for data transmissions",
+      "D": "It may only be used for radiotelephony",
+      "E": "It requires prior approval from ICAO for any use",
+      "F": "It can be used for any class of emission without restriction"
+    },
+    "correct_answer": "B",
+    "explanation": "Page 6, section 3.1.2.5 quoting Appendix 27, No. 27/14: 'On account of the possibility of interference, a given channel should not be used in the same allotment area for radiotelephony and data transmissions.'",
+    "difficulty": "medium",
+    "topic": "Utilization of frequencies below 30 MHz",
+    "document": "ICAO Annex 10",
+    "chapter": "3 UTILIZATION OF FREQUENCIES BELOW 30 MHz",
+    "sub_chapter": "3.1.2 Assignment of single sideband channels",
+    "image_description": null
+  },
+  {
+    "temp_id": "0a1b2c3d-4e5f-6a7b-8c9d-0e1f2a3b4c5d",
+    "question_text": "What is a 'worldwide allotment area' with respect to HF frequencies?",
+    "options": {
+      "A": "An area where frequencies are allotted for short-range communications only",
+      "B": "An area where frequencies are allotted to provide long distance communications between an aeronautical station within that area and aircraft operating anywhere in the world",
+      "C": "An area where all frequencies are shared with maritime services",
+      "D": "An area reserved for VOLMET broadcasts",
+      "E": "An area where only national assignments are permitted",
+      "F": "An area where frequencies are assigned on a temporary basis"
+    },
+    "correct_answer": "B",
+    "explanation": "Page 6, section 3.1.3.1: 'A world-wide allotment area is one in which frequencies are allotted to provide long distance communications between an aeronautical station within that allotment area and aircraft operating anywhere in the world.'",
+    "difficulty": "medium",
+    "topic": "Utilization of frequencies below 30 MHz",
+    "document": "ICAO Annex 10",
+    "chapter": "3 UTILIZATION OF FREQUENCIES BELOW 30 MHz",
+    "sub_chapter": "3.1.3 Assignment of frequencies for aeronautical operational control communications",
+    "image_description": null
+  },
+  {
+    "temp_id": "1b2c3d4e-5f6a-7b8c-9d0e-1f2a3b4c5d6e",
+    "question_text": "Worldwide frequencies for aeronautical operational control communications are reserved for assignment to stations serving which purpose?",
+    "options": {
+      "A": "For MWARA, RDARA and VOLMET purposes",
+      "B": "For exercising control over regularity of flight and for safety of aircraft",
+      "C": "For air-to-air communications only",
+      "D": "For distress and emergency communications exclusively",
+      "E": "For national aeronautical mobile services",
+      "F": "For broadcasting weather information"
+    },
+    "correct_answer": "B",
+    "explanation": "Page 6, section 3.1.3.1 quoting Appendix 27, No. 27/17: 'Such assignments are to provide communications between an appropriate aeronautical station and an aircraft station anywhere in the world for exercising control over regularity of flight and for safety of aircraft.'",
+    "difficulty": "hard",
+    "topic": "Utilization of frequencies below 30 MHz",
+    "document": "ICAO Annex 10",
+    "chapter": "3 UTILIZATION OF FREQUENCIES BELOW 30 MHz",
+    "sub_chapter": "3.1.3 Assignment of frequencies for aeronautical operational control communications",
+    "image_description": null
+  },
+  {
+    "temp_id": "2c3d4e5f-6a7b-8c9d-0e1f-2a3b4c5d6e7f",
+    "question_text": "True or False: Worldwide frequencies for aeronautical operational control may be assigned by administrations for MWARA, RDARA and VOLMET purposes.",
+    "options": {
+      "True": "True",
+      "False": "False"
+    },
+    "correct_answer": "False",
+    "explanation": "Page 6, section 3.1.3.1: 'Worldwide frequencies are not to be assigned by administrations for MWARA, RDARA and VOLMET purposes.'",
+    "difficulty": "easy",
+    "topic": "Utilization of frequencies below 30 MHz",
+    "document": "ICAO Annex 10",
+    "chapter": "3 UTILIZATION OF FREQUENCIES BELOW 30 MHz",
+    "sub_chapter": "3.1.3 Assignment of frequencies for aeronautical operational control communications",
+    "image_description": null
+  },
+  {
+    "temp_id": "3d4e5f6a-7b8c-9d0e-1f2a-3b4c5d6e7f8a",
+    "question_text": "According to the NDB frequency management recommendation, what is one factor that should be taken into account?",
+    "options": {
+      "A": "The color coding of NDB antennas",
+      "B": "The interference protection required at the edge of the rated coverage",
+      "C": "The brand of ADF equipment used",
+      "D": "The altitude of the NDB site above sea level",
+      "E": "The number of aircraft in the vicinity",
+      "F": "The type of modulation used by the NDB"
+    },
+    "correct_answer": "B",
+    "explanation": "Page 7, section 3.2.1 a): 'the interference protection required at the edge of the rated coverage' is listed as a factor to consider in NDB frequency management.",
+    "difficulty": "easy",
+    "topic": "NDB frequency management",
+    "document": "ICAO Annex 10",
+    "chapter": "3 UTILIZATION OF FREQUENCIES BELOW 30 MHz",
+    "sub_chapter": "3.2 NDB frequency management",
+    "image_description": null
+  },
+  {
+    "temp_id": "4e5f6a7b-8c9d-0e1f-2a3b-4c5d6e7f8a9b",
+    "question_text": "To alleviate frequency congestion at locations with two ILS facilities serving opposite ends of a single runway, what is recommended?",
+    "options": {
+      "A": "Use different frequency bands for each locator",
+      "B": "Assign a common frequency to both outer locators and a common frequency to both inner locators, provided conditions are met",
+      "C": "Operate both ILS facilities on the same frequency simultaneously",
+      "D": "Assign different frequencies to each locator without exception",
+      "E": "Shut down one of the ILS facilities",
+      "F": "Use only one ILS facility for both ends"
+    },
+    "correct_answer": "B",
+    "explanation": "Page 7, section 3.2.2: 'the assignment of a common frequency to both of the outer locators should be permitted, and the assignment of a common frequency to both of the inner locators should be permitted, provided that: a) the operational circumstances permit; b) each locator is assigned a different identification signal; and c) arrangements are made whereby locators using the same frequency cannot radiate simultaneously.'",
+    "difficulty": "medium",
+    "topic": "NDB frequency management",
+    "document": "ICAO Annex 10",
+    "chapter": "3 UTILIZATION OF FREQUENCIES BELOW 30 MHz",
+    "sub_chapter": "3.2 NDB frequency management",
+    "image_description": null
+  },
+  {
+    "temp_id": "5f6a7b8c-9d0e-1f2a-3b4c-5d6e7f8a9b0c",
+    "question_text": "True or False: The recommendation for NDB frequency management suggests that if two separate ILS facilities serve opposite ends of a single runway, they must always use different frequencies.",
+    "options": {
+      "True": "True",
+      "False": "False"
+    },
+    "correct_answer": "False",
+    "explanation": "Page 7, section 3.2.2 states that assignment of a common frequency to both outer locators and a common frequency to both inner locators should be permitted under certain conditions, contradicting the statement.",
+    "difficulty": "easy",
+    "topic": "NDB frequency management",
+    "document": "ICAO Annex 10",
+    "chapter": "3 UTILIZATION OF FREQUENCIES BELOW 30 MHz",
+    "sub_chapter": "3.2 NDB frequency management",
+    "image_description": null
+  },
+  {
+    "temp_id": "6a7b8c9d-0e1f-2a3b-4c5d-6e7f8a9b0c1d",
+    "question_text": "In the VHF band 117.975-137.000 MHz, what is the lowest assignable frequency according to 4.1.2.1?",
+    "options": {
+      "A": "117.975 MHz",
+      "B": "118.000 MHz",
+      "C": "118.025 MHz",
+      "D": "121.500 MHz",
+      "E": "136.000 MHz",
+      "F": "136.975 MHz"
+    },
+    "correct_answer": "B",
+    "explanation": "Page 9, section 4.1.2.1: 'In the frequency band 117.975 - 137.000 MHz, the lowest assignable frequency shall be 118.000 MHz'.",
+    "difficulty": "easy",
+    "topic": "Utilization in the frequency band 117.975 - 137.000 MHz",
+    "document": "ICAO Annex 10",
+    "chapter": "4.1 Utilization in the frequency band 117.975 - 137.000 MHz",
+    "sub_chapter": "4.1.2 Frequency separation and limits of assignable frequencies",
+    "image_description": null
+  },
+  {
+    "temp_id": "7b8c9d0e-1f2a-3b4c-5d6e-7f8a9b0c1d2e",
+    "question_text": "What is the minimum separation between assignable frequencies in the aeronautical mobile (R) service in the band 117.975-137.000 MHz?",
+    "options": {
+      "A": "25 kHz",
+      "B": "50 kHz",
+      "C": "8.33 kHz",
+      "D": "12.5 kHz",
+      "E": "100 kHz",
+      "F": "20 kHz"
+    },
+    "correct_answer": "C",
+    "explanation": "Page 9, section 4.1.2.2: 'The minimum separation between assignable frequencies in the aeronautical mobile (R) service shall be 8.33 kHz'.",
+    "difficulty": "easy",
+    "topic": "Utilization in the frequency band 117.975 - 137.000 MHz",
+    "document": "ICAO Annex 10",
+    "chapter": "4.1 Utilization in the frequency band 117.975 - 137.000 MHz",
+    "sub_chapter": "4.1.2 Frequency separation and limits of assignable frequencies",
+    "image_description": null
+  },
+  {
+    "temp_id": "8c9d0e1f-2a3b-4c5d-6e7f-8a9b0c1d2e3f",
+    "question_text": "According to Table 4-1, which frequency is designated as the emergency frequency?",
+    "options": {
+      "A": "123.100 MHz",
+      "B": "121.500 MHz",
+      "C": "123.450 MHz",
+      "D": "136.975 MHz",
+      "E": "118.000 MHz",
+      "F": "122.000 MHz"
+    },
+    "correct_answer": "B",
+    "explanation": "Page 10, Table 4-1, block b) shows '121.500' with remark 'Emergency frequency'.",
+    "difficulty": "easy",
+    "topic": "Utilization in the frequency band 117.975 - 137.000 MHz",
+    "document": "ICAO Annex 10",
+    "chapter": "4.1 Utilization in the frequency band 117.975 - 137.000 MHz",
+    "sub_chapter": "4.1.1 General allotment of frequency band",
+    "image_description": "Table 4-1 allotment table showing frequency blocks and their worldwide utilization"
+  },
+  {
+    "temp_id": "9d0e1f2a-3b4c-5d6e-7f8a-9b0c1d2e3f4a",
+    "question_text": "What is the auxiliary search and rescue frequency according to 4.1.3.4?",
+    "options": {
+      "A": "121.500 MHz",
+      "B": "123.450 MHz",
+      "C": "123.100 MHz",
+      "D": "136.925 MHz",
+      "E": "118.000 MHz",
+      "F": "122.000 MHz"
+    },
+    "correct_answer": "C",
+    "explanation": "Page 13, section 4.1.3.4.1: 'Where a requirement is established for the use of a frequency auxiliary to 121.500 MHz... the frequency 123.100 MHz shall be used.'",
+    "difficulty": "easy",
+    "topic": "Utilization in the frequency band 117.975 - 137.000 MHz",
+    "document": "ICAO Annex 10",
+    "chapter": "4.1 Utilization in the frequency band 117.975 - 137.000 MHz",
+    "sub_chapter": "4.1.3.4 Auxiliary frequencies for search and rescue operations",
+    "image_description": null
+  },
+  {
+    "temp_id": "0e1f2a3b-4c5d-6e7f-8a9b-0c1d2e3f4a5b",
+    "question_text": "Which channel is designated for air-to-air communications in remote and oceanic areas out of range of VHF ground stations?",
+    "options": {
+      "A": "121.500 MHz",
+      "B": "123.100 MHz",
+      "C": "123.450 MHz",
+      "D": "136.975 MHz",
+      "E": "118.000 MHz",
+      "F": "122.000 MHz"
+    },
+    "correct_answer": "C",
+    "explanation": "Page 10, Table 4-1 block g) shows '123.450' with description 'Air-to-air communications' and page 13, section 4.1.3.2.1 states 'An air-to-air VHF communications channel on the frequency of 123.450 MHz shall be designated'.",
+    "difficulty": "easy",
+    "topic": "Utilization in the frequency band 117.975 - 137.000 MHz",
+    "document": "ICAO Annex 10",
+    "chapter": "4.1 Utilization in the frequency band 117.975 - 137.000 MHz",
+    "sub_chapter": "4.1.3.2 Air-to-air communications channel",
+    "image_description": null
+  },
+  {
+    "temp_id": "1f2a3b4c-5d6e-7f8a-9b0c-1d2e3f4a5b6c",
+    "question_text": "True or False: The emergency channel (121.500 MHz) may be used for routine air-to-air communications to reduce congestion on other channels.",
+    "options": {
+      "True": "True",
+      "False": "False"
+    },
+    "correct_answer": "False",
+    "explanation": "Page 12, section 4.1.3.1.1: 'The emergency channel (121.500 MHz) shall be used only for genuine emergency purposes' as broadly outlined in subparagraphs a) through f).",
+    "difficulty": "easy",
+    "topic": "Utilization in the frequency band 117.975 - 137.000 MHz",
+    "document": "ICAO Annex 10",
+    "chapter": "4.1 Utilization in the frequency band 117.975 - 137.000 MHz",
+    "sub_chapter": "4.1.3.1 Emergency channel",
+    "image_description": null
+  },
+  {
+    "temp_id": "2a3b4c5d-6e7f-8a9b-0c1d-2e3f4a5b6c7d",
+    "question_text": "According to 4.1.3.1.4, how shall the emergency channel be guarded?",
+    "options": {
+      "A": "Only during daylight hours",
+      "B": "Continuously during the hours of service of the units at which it is installed",
+      "C": "Only when distress traffic is expected",
+      "D": "On an intermittent basis",
+      "E": "Only during approach and departure phases",
+      "F": "At the discretion of the pilot in command"
+    },
+    "correct_answer": "B",
+    "explanation": "Page 13, section 4.1.3.1.4: 'The emergency channel shall be guarded continuously during the hours of service of the units at which it is installed.'",
+    "difficulty": "easy",
+    "topic": "Utilization in the frequency band 117.975 - 137.000 MHz",
+    "document": "ICAO Annex 10",
+    "chapter": "4.1 Utilization in the frequency band 117.975 - 137.000 MHz",
+    "sub_chapter": "4.1.3.1 Emergency channel",
+    "image_description": null
+  },
+  {
+    "temp_id": "3b4c5d6e-7f8a-9b0c-1d2e-3f4a5b6c7d8e",
+    "question_text": "What is the common signalling channel (CSC) frequency for VDL Mode 2?",
+    "options": {
+      "A": "136.925 MHz",
+      "B": "113.250 MHz",
+      "C": "136.975 MHz",
+      "D": "121.500 MHz",
+      "E": "123.450 MHz",
+      "F": "118.000 MHz"
+    },
+    "correct_answer": "C",
+    "explanation": "Page 13, section 4.1.3.3.1: 'Common signalling channel VDL Mode 2. The frequency 136.975 MHz is reserved on a worldwide basis to provide a common signalling channel (CSC) to the VHF digital link Mode 2 (VDL Mode 2).'",
+    "difficulty": "medium",
+    "topic": "Utilization in the frequency band 117.975 - 137.000 MHz",
+    "document": "ICAO Annex 10",
+    "chapter": "4.1 Utilization in the frequency band 117.975 - 137.000 MHz",
+    "sub_chapter": "4.1.3.3 Common signalling channels for VDL",
+    "image_description": null
+  },
+  {
+    "temp_id": "4c5d6e7f-8a9b-0c1d-2e3f-4a5b6c7d8e9f",
+    "question_text": "Which frequencies are provided as common signalling channels for VDL Mode 4 where implemented?",
+    "options": {
+      "A": "136.975 MHz only",
+      "B": "136.925 MHz and 113.250 MHz",
+      "C": "121.500 MHz and 123.100 MHz",
+      "D": "123.450 MHz and 136.975 MHz",
+      "E": "118.000 MHz and 136.925 MHz",
+      "F": "113.250 MHz and 121.500 MHz"
+    },
+    "correct_answer": "B",
+    "explanation": "Page 13, section 4.1.3.3.2: 'In areas where VDL Mode 4 is implemented, the frequencies 136.925 MHz and 113.250 MHz shall be provided as common signalling channels (CSCs) to the VHF digital link Mode 4 (VDL Mode 4).'",
+    "difficulty": "medium",
+    "topic": "Utilization in the frequency band 117.975 - 137.000 MHz",
+    "document": "ICAO Annex 10",
+    "chapter": "4.1 Utilization in the frequency band 117.975 - 137.000 MHz",
+    "sub_chapter": "4.1.3.3 Common signalling channels for VDL",
+    "image_description": null
+  },
+  {
+    "temp_id": "5d6e7f8a-9b0c-1d2e-3f4a-5b6c7d8e9f0a",
+    "question_text": "According to 4.1.4.1, what is one criterion for geographical separation between facilities operating on the same frequency?",
+    "options": {
+      "A": "A desired to undesired signal ratio of 30 dB",
+      "B": "A desired to undesired signal ratio of 20 dB",
+      "C": "A desired to undesired signal ratio of 14 dB",
+      "D": "A desired to undesired signal ratio of 10 dB",
+      "E": "A desired to undesired signal ratio of 25 dB",
+      "F": "A desired to undesired signal ratio of 40 dB"
+    },
+    "correct_answer": "B",
+    "explanation": "Page 14, section 4.1.4.1: '...such that the protected service volume of one facility is separated from the protected service volume of another facility by a distance not less than that required to provide a desired to undesired signal ratio of 20 dB'.",
+    "difficulty": "medium",
+    "topic": "Utilization in the frequency band 117.975 - 137.000 MHz",
+    "document": "ICAO Annex 10",
+    "chapter": "4.1 Utilization in the frequency band 117.975 - 137.000 MHz",
+    "sub_chapter": "4.1.4 Provisions concerning the deployment of VHF frequencies and the avoidance of harmful interference",
+    "image_description": null
+  },
+  {
+    "temp_id": "6e7f8a9b-0c1d-2e3f-4a5b-6c7d8e9f0a1b",
+    "question_text": "In areas where frequency assignment congestion is severe, what reduced desired to undesired signal ratio may be used based on regional agreement?",
+    "options": {
+      "A": "10 dB",
+      "B": "14 dB",
+      "C": "20 dB",
+      "D": "25 dB",
+      "E": "30 dB",
+      "F": "6 dB"
+    },
+    "correct_answer": "B",
+    "explanation": "Page 14, section 4.1.4.2: '...the geographical separation between facilities operating on the same frequency shall... be such that the protected service volume of one facility is separated from... a desired to undesired signal ratio of 14 dB'. This provision requires regional air navigation agreement.",
+    "difficulty": "medium",
+    "topic": "Utilization in the frequency band 117.975 - 137.000 MHz",
+    "document": "ICAO Annex 10",
+    "chapter": "4.1 Utilization in the frequency band 117.975 - 137.000 MHz",
+    "sub_chapter": "4.1.4 Provisions concerning the deployment of VHF frequencies and the avoidance of harmful interference",
+    "image_description": null
+  },
+  {
+    "temp_id": "7f8a9b0c-1d2e-3f4a-5b6c-7d8e9f0a1b2c",
+    "question_text": "What method of operation shall be used in the frequency band 117.975-137.000 MHz at all stations providing service for aircraft engaged in international air navigation?",
+    "options": {
+      "A": "Duplex",
+      "B": "Double channel simplex",
+      "C": "Offset frequency simplex",
+      "D": "Single channel simplex",
+      "E": "Full duplex with frequency hopping",
+      "F": "Half-duplex with automatic repeat"
+    },
+    "correct_answer": "D",
+    "explanation": "Page 15, section 4.1.5.1: 'Single channel simplex operation shall be used in the frequency band 117.975 - 137.000 MHz at all stations providing service for aircraft engaged in international air navigation.'",
+    "difficulty": "easy",
+    "topic": "Utilization in the frequency band 117.975 - 137.000 MHz",
+    "document": "ICAO Annex 10",
+    "chapter": "4.1 Utilization in the frequency band 117.975 - 137.000 MHz",
+    "sub_chapter": "4.1.5 Method of operation",
+    "image_description": null
+  },
+  {
+    "temp_id": "8a9b0c1d-2e3f-4a5b-6c7d-8e9f0a1b2c3d",
+    "question_text": "According to List A of assignable frequencies in regions where 25 kHz assignments are deployed, which range is included?",
+    "options": {
+      "A": "118.000 - 121.450 MHz in 25 kHz steps",
+      "B": "118.000 - 136.975 MHz in 8.33 kHz steps",
+      "C": "121.550 - 136.975 MHz in 50 kHz steps",
+      "D": "123.150 - 136.475 MHz in 25 kHz steps",
+      "E": "118.000 - 121.450 MHz in 8.33 kHz steps",
+      "F": "121.550 - 123.050 MHz in 8.33 kHz steps"
+    },
+    "correct_answer": "A",
+    "explanation": "Page 16, section 4.1.6.1.1 List A includes '118.000 - 121.450 MHz in 25 kHz steps' as one of the ranges.",
+    "difficulty": "easy",
+    "topic": "Utilization in the frequency band 117.975 - 137.000 MHz",
+    "document": "ICAO Annex 10",
+    "chapter": "4.1 Utilization in the frequency band 117.975 - 137.000 MHz",
+    "sub_chapter": "4.1.6 Plan of assignable VHF radio frequencies",
+    "image_description": null
+  },
+  {
+    "temp_id": "9b0c1d2e-3f4a-5b6c-7d8e-9f0a1b2c3d4e",
+    "question_text": "True or False: In regions where 8.33 kHz spacing is deployed, the assignable frequencies include 136.500 to 136.975 MHz in 8.33 kHz steps.",
+    "options": {
+      "True": "True",
+      "False": "False"
+    },
+    "correct_answer": "False",
+    "explanation": "Page 16, Note 1 under 4.1.6.1 states: 'The frequencies 136.500 - 136.975 MHz inclusive are not available for assignment to channels of less than 25 kHz width.' Also List B stops at 136.475 MHz.",
+    "difficulty": "hard",
+    "topic": "Utilization in the frequency band 117.975 - 137.000 MHz",
+    "document": "ICAO Annex 10",
+    "chapter": "4.1 Utilization in the frequency band 117.975 - 137.000 MHz",
+    "sub_chapter": "4.1.6 Plan of assignable VHF radio frequencies",
+    "image_description": null
+  },
+  {
+    "temp_id": "0c1d2e3f-4a5b-6c7d-8e9f-0a1b2c3d4e5f",
+    "question_text": "According to 4.2.1, in the band 108-111.975 MHz, which navigational aids are allowed?",
+    "options": {
+      "A": "Only ILS",
+      "B": "ILS, VOR, and GBAS under certain conditions",
+      "C": "Only VOR",
+      "D": "Only GBAS",
+      "E": "ILS and VOR only, no GBAS",
+      "F": "Only NDB"
+    },
+    "correct_answer": "B",
+    "explanation": "Page 17, section 4.2.1: Band 108-111.975 MHz: a) ILS; b) VOR provided that no harmful adjacent channel interference is caused to ILS and frequencies ending in even tenths or even tenths plus a twentieth of a MHz; c) GNSS ground-based augmentation system (GBAS) provided no harmful interference to ILS and VOR.",
+    "difficulty": "medium",
+    "topic": "Utilization in the frequency band 108 - 117.975 MHz",
+    "document": "ICAO Annex 10",
+    "chapter": "4.2 Utilization in the frequency band 108 - 117.975 MHz",
+    "sub_chapter": "4.2.1",
+    "image_description": null
+  },
+  {
+    "temp_id": "1d2e3f4a-5b6c-7d8e-9f0a-1b2c3d4e5f6a",
+    "question_text": "For ILS facilities, what is the first order of selection for regional assignment planning?",
+    "options": {
+      "A": "Localizer channels ending in odd tenths of a megahertz and their associated glide path channels",
+      "B": "Localizer channels ending in even tenths of a megahertz",
+      "C": "Localizer channels ending in odd tenths plus a twentieth of a megahertz",
+      "D": "Localizer channels ending in even tenths plus a twentieth",
+      "E": "Localizer channels ending in whole megahertz",
+      "F": "Localizer channels ending in quarter megahertz"
+    },
+    "correct_answer": "A",
+    "explanation": "Page 17, section 4.2.2: 'For regional assignment planning, the frequencies for ILS facilities shall be selected in the following order: a) localizer channels ending in odd tenths of a megahertz and their associated glide path channels;'",
+    "difficulty": "hard",
+    "topic": "Utilization in the frequency band 108 - 117.975 MHz",
+    "document": "ICAO Annex 10",
+    "chapter": "4.2 Utilization in the frequency band 108 - 117.975 MHz",
+    "sub_chapter": "4.2.2",
+    "image_description": null
+  },
+  {
+    "temp_id": "2e3f4a5b-6c7d-8e9f-0a1b-2c3d4e5f6a7b",
+    "question_text": "True or False: For VOR facilities, frequencies ending in odd tenths of a megahertz in the band 111.975-117.975 MHz are selected first.",
+    "options": {
+      "True": "True",
+      "False": "False"
+    },
+    "correct_answer": "True",
+    "explanation": "Page 17, section 4.2.3: 'For regional assignment planning, the frequencies for VOR facilities shall be selected in the following order: a) frequencies ending in odd tenths of a megahertz in the band 111.975 - 117.975 MHz;'",
+    "difficulty": "medium",
+    "topic": "Utilization in the frequency band 108 - 117.975 MHz",
+    "document": "ICAO Annex 10",
+    "chapter": "4.2 Utilization in the frequency band 108 - 117.975 MHz",
+    "sub_chapter": "4.2.3",
+    "image_description": null
+  },
+  {
+    "temp_id": "3f4a5b6c-7d8e-9f0a-1b2c-3d4e5f6a7b8c",
+    "question_text": "According to 4.2.5, frequency deployment geographical separation between facilities operating on the same and adjacent frequencies shall be based on which criteria?",
+    "options": {
+      "A": "The required functional service radii of the facilities, maximum flight altitude, and desirability of keeping minimum IFR altitude as low as terrain permits",
+      "B": "Only the distance between airports",
+      "C": "The type of aircraft using the facilities",
+      "D": "The time of day and weather conditions",
+      "E": "The available budget for frequency management",
+      "F": "The number of runways at the airport"
+    },
+    "correct_answer": "A",
+    "explanation": "Page 18, section 4.2.5: 'Frequency deployment. The geographical separation between facilities operating on the same and adjacent frequencies shall be determined regionally and shall be based on the following criteria: a) the required functional service radii of the facilities; b) the maximum flight altitude of the aircraft using the facilities; c) the desirability of keeping the minimum IFR altitude as low as the terrain will permit.'",
+    "difficulty": "hard",
+    "topic": "Utilization in the frequency band 108 - 117.975 MHz",
+    "document": "ICAO Annex 10",
+    "chapter": "4.2 Utilization in the frequency band 108 - 117.975 MHz",
+    "sub_chapter": "4.2.5",
+    "image_description": null
+  },
+  {
+    "temp_id": "4a5b6c7d-8e9f-0a1b-2c3d-4e5f6a7b8c9d",
+    "question_text": "What DME operating channel suffixes may be chosen on a general basis without restriction?",
+    "options": {
+      "A": "X and Y",
+      "B": "W and Z",
+      "C": "Only X",
+      "D": "Only Y",
+      "E": "X, Y, W, and Z",
+      "F": "Only W"
+    },
+    "correct_answer": "A",
+    "explanation": "Page 19, section 4.3.1: 'DME operating channels bearing the suffix X or Y in Table A, Chapter 3 of Annex 10, Volume I shall be chosen on a general basis without restriction.'",
+    "difficulty": "easy",
+    "topic": "Utilization in the frequency band 960 - 1 215 MHz for DME",
+    "document": "ICAO Annex 10",
+    "chapter": "4.3 Utilization in the frequency band 960 - 1 215 MHz for DME",
+    "sub_chapter": "4.3.1",
+    "image_description": null
+  },
+  {
+    "temp_id": "5b6c7d8e-9f0a-1b2c-3d4e-5f6a7b8c9d0e",
+    "question_text": "DME channels bearing suffix W or Z shall be chosen on the basis of regional agreement and become applicable for general use on or after which date?",
+    "options": {
+      "A": "1 January 1989",
+      "B": "1 January 1995",
+      "C": "1 January 2000",
+      "D": "1 January 1976",
+      "E": "1 January 1973",
+      "F": "1 January 1985"
+    },
+    "correct_answer": "B",
+    "explanation": "Page 19, section 4.3.2 b): 'for general use on or after, whichever is the later: 1) 1 January 1995; or 2) a date prescribed by the Council...'",
+    "difficulty": "medium",
+    "topic": "Utilization in the frequency band 960 - 1 215 MHz for DME",
+    "document": "ICAO Annex 10",
+    "chapter": "4.3 Utilization in the frequency band 960 - 1 215 MHz for DME",
+    "sub_chapter": "4.3.2",
+    "image_description": null
+  },
+  {
+    "temp_id": "6c7d8e9f-0a1b-2c3d-4e5f-6a7b8c9d0e1f",
+    "question_text": "According to Table 4-2, which DME channel groups are associated with ILS 100 kHz spacings?",
+    "options": {
+      "A": "Group 1",
+      "B": "Group 2",
+      "C": "Group 3",
+      "D": "Group 6",
+      "E": "Group 8",
+      "F": "Group 10"
+    },
+    "correct_answer": "A",
+    "explanation": "Page 20, Table 4-2, Group 1 shows 'EVEN 18X to 56X' with 'ILS 100 kHz spacings' under 'Assignment procedure' column.",
+    "difficulty": "medium",
+    "topic": "Utilization in the frequency band 960 - 1 215 MHz for DME",
+    "document": "ICAO Annex 10",
+    "chapter": "4.3 Utilization in the frequency band 960 - 1 215 MHz for DME",
+    "sub_chapter": "4.3.3",
+    "image_description": "Table 4-2 listing DME channel groups and associated paired VHF channels"
+  },
+  {
+    "temp_id": "7d8e9f0a-1b2c-3d4e-5f6a-7b8c9d0e1f2a",
+    "question_text": "True or False: MLS channels shall be selected from Table A, Chapter 3 of Annex 10, Volume I.",
+    "options": {
+      "True": "True",
+      "False": "False"
+    },
+    "correct_answer": "True",
+    "explanation": "Page 21, section 4.4.1: 'The MLS channels shall be selected from Table A, Chapter 3 of Annex 10, Volume I.'",
+    "difficulty": "easy",
+    "topic": "Utilization in the frequency band 5 030.4 - 5 150.0 MHz",
+    "document": "ICAO Annex 10",
+    "chapter": "4.4 Utilization in the frequency band 5 030.4 - 5 150.0 MHz",
+    "sub_chapter": "4.4.1",
+    "image_description": null
+  },
+  {
+    "temp_id": "8e9f0a1b-2c3d-4e5f-6a7b-8c9d0e1f2a3b",
+    "question_text": "According to the NDB planning attachment, what is the minimum protection ratio (wanted/unwanted signal) used as basis for frequency assignment planning in LF/MF bands according to RR Appendix 12?",
+    "options": {
+      "A": "10 dB",
+      "B": "12 dB",
+      "C": "15 dB",
+      "D": "20 dB",
+      "E": "25 dB",
+      "F": "30 dB"
+    },
+    "correct_answer": "C",
+    "explanation": "Page 22, paragraph 2: 'A minimum protection ratio (wanted/unwanted signal ratio) of 15 dB is to be used as the basis for frequency assignment planning (RR Appendix 12).'",
+    "difficulty": "easy",
+    "topic": "NDB planning (Attachment)",
+    "document": "ICAO Annex 10",
+    "chapter": "Appendix / Attachment (pages 22-24)",
+    "sub_chapter": null,
+    "image_description": null
+  },
+  {
+    "temp_id": "9f0a1b2c-3d4e-5f6a-7b8c-9d0e1f2a3b4c",
+    "question_text": "In the EUR region, what attenuation figure is given for a frequency difference of 3 kHz according to the table?",
+    "options": {
+      "A": "0 dB",
+      "B": "6 dB",
+      "C": "35 dB",
+      "D": "65 dB",
+      "E": "80 dB",
+      "F": "12 dB"
+    },
+    "correct_answer": "C",
+    "explanation": "Page 22, bottom table: 'Frequency difference (kHz) 3' corresponds to 'Attenuation (dB) 35'.",
+    "difficulty": "easy",
+    "topic": "NDB planning (Attachment)",
+    "document": "ICAO Annex 10",
+    "chapter": "Appendix / Attachment (pages 22-24)",
+    "sub_chapter": null,
+    "image_description": "Table showing frequency difference in kHz and corresponding attenuation in dB"
+  },
+  {
+    "temp_id": "0a1b2c3d-4e5f-6a7b-8c9d-0e1f2a3b4c5d",
+    "question_text": "True or False: For bearing accuracy of ±5 degrees at the edge of cover, a minimum protection of 10 dB by day should be used for LF/MF channel assignment planning.",
+    "options": {
+      "True": "True",
+      "False": "False"
+    },
+    "correct_answer": "False",
+    "explanation": "Page 23, paragraph 2: 'Where a bearing accuracy of ±5 degrees is required at the edge of cover, a minimum protection of 15 dB by day should be used as the basis for LF/MF channel assignment planning.'",
+    "difficulty": "medium",
+    "topic": "NDB planning (Attachment)",
+    "document": "ICAO Annex 10",
+    "chapter": "Appendix / Attachment (pages 22-24)",
+    "sub_chapter": null,
+    "image_description": null
+  },
+  {
+    "temp_id": "1b2c3d4e-5f6a-7b8c-9d0e-1f2a3b4c5d6e",
+    "question_text": "According to the AOC HF station guidance, what should be used when an aircraft is within coverage of an appropriate VHF aeronautical station?",
+    "options": {
+      "A": "HF only",
+      "B": "VHF (general purpose or AOC channels)",
+      "C": "Satellite communications",
+      "D": "MF bands",
+      "E": "NDB frequencies",
+      "F": "Emergency channel 121.500 MHz"
+    },
+    "correct_answer": "B",
+    "explanation": "Page 24, paragraph 5: 'VHF (general purpose or AOC channels) and not HF should be used when an aircraft is within the coverage of an appropriate VHF aeronautical station.'",
+    "difficulty": "easy",
+    "topic": "Aeronautical Operational Control (AOC)",
+    "document": "ICAO Annex 10",
+    "chapter": "Appendix / Attachment (pages 22-24)",
+    "sub_chapter": "Aeronautical Operational Control (AOC) HF Stations",
+    "image_description": null
+  },
+  {
+    "temp_id": "2c3d4e5f-6a7b-8c9d-0e1f-2a3b4c5d6e7f",
+    "question_text": "True or False: Licenses for AOC HF stations should permit public correspondence and point-to-point type traffic.",
+    "options": {
+      "True": "True",
+      "False": "False"
+    },
+    "correct_answer": "False",
+    "explanation": "Page 24, paragraph 4: 'The licences... should prohibit public correspondence, or point-to-point type traffic, or other communications traffic not meeting the definition of operational control communications.'",
+    "difficulty": "easy",
+    "topic": "Aeronautical Operational Control (AOC)",
+    "document": "ICAO Annex 10",
+    "chapter": "Appendix / Attachment (pages 22-24)",
+    "sub_chapter": null,
+    "image_description": null
+  },
+  {
+    "temp_id": "3d4e5f6a-7b8c-9d0e-1f2a-3b4c5d6e7f8a",
+    "question_text": "According to the document, which frequency is the international distress frequency for radiotelephony for ships and aircraft?",
+    "options": {
+      "A": "121.500 MHz",
+      "B": "2182 kHz",
+      "C": "406 MHz",
+      "D": "3023 kHz",
+      "E": "5680 kHz",
+      "F": "4125 kHz"
+    },
+    "correct_answer": "B",
+    "explanation": "Page 3 states 'the frequency 2 182 kHz is the international distress frequency for radiotelephony to be used for emergency communications by ship, aircraft and survival craft stations'.",
+    "difficulty": "easy",
+    "topic": "Distress Frequencies",
+    "document": "ICAO Annex 10",
+    "chapter": "2. DISTRESS FREQUENCIES",
+    "sub_chapter": null,
+    "image_description": null
+  },
+  {
+    "temp_id": "4e5f6a7b-8c9d-0e1f-2a3b-4c5d6e7f8a9b",
+    "question_text": "What is the purpose of the guard bands around 121.500 MHz according to Table 4-1?",
+    "options": {
+      "A": "To provide additional emergency channels",
+      "B": "To protect the aeronautical emergency frequency",
+      "C": "To separate national from international services",
+      "D": "To allow for future expansion",
+      "E": "To provide air-to-air communication",
+      "F": "To be used for VOLMET broadcasts"
+    },
+    "correct_answer": "B",
+    "explanation": "Page 10, Table 4-1, block b) remark: 'In order to provide a guard band for the protection of the aeronautical emergency frequency, the nearest assignable frequencies on either side of 121.500 MHz are 121.450 MHz and 121.550 MHz.'",
+    "difficulty": "medium",
+    "topic": "Utilization in the frequency band 117.975 - 137.000 MHz",
+    "document": "ICAO Annex 10",
+    "chapter": "4.1 Utilization in the frequency band 117.975 - 137.000 MHz",
+    "sub_chapter": "4.1.1 General allotment",
+    "image_description": "Table 4-1 allotment table"
+  },
+  {
+    "temp_id": "5f6a7b8c-9d0e-1f2a-3b4c-5d6e7f8a9b0c",
+    "question_text": "Which VHF frequency is reserved for data link communications according to Table 4-1?",
+    "options": {
+      "A": "136.900 - 136.975 MHz",
+      "B": "118.000 - 121.450 MHz",
+      "C": "121.550 - 121.9917 MHz",
+      "D": "123.150 - 123.6917 MHz",
+      "E": "129.700 - 130.8917 MHz",
+      "F": "122.000 - 123.050 MHz"
+    },
+    "correct_answer": "A",
+    "explanation": "Page 10, Table 4-1 block k): '136.900 – 136.975 inclusive' with remark 'Reserved for VHF air-ground data link communications.'",
+    "difficulty": "easy",
+    "topic": "Utilization in the frequency band 117.975 - 137.000 MHz",
+    "document": "ICAO Annex 10",
+    "chapter": "4.1 Utilization in the frequency band 117.975 - 137.000 MHz",
+    "sub_chapter": "4.1.1 General allotment",
+    "image_description": "Table 4-1 allotment table"
+  },
+  {
+    "temp_id": "6a7b8c9d-0e1f-2a3b-4c5d-6e7f8a9b0c1d",
+    "question_text": "True or False: The emergency channel (121.500 MHz) shall be guarded on a duplex operation basis.",
+    "options": {
+      "True": "True",
+      "False": "False"
+    },
+    "correct_answer": "False",
+    "explanation": "Page 13, section 4.1.3.1.5: 'The emergency channel shall be guarded on a single channel simplex operation basis.'",
+    "difficulty": "easy",
+    "topic": "Utilization in the frequency band 117.975 - 137.000 MHz",
+    "document": "ICAO Annex 10",
+    "chapter": "4.1 Utilization in the frequency band 117.975 - 137.000 MHz",
+    "sub_chapter": "4.1.3.1 Emergency channel",
+    "image_description": null
+  },
+  {
+    "temp_id": "7b8c9d0e-1f2a-3b4c-5d6e-7f8a9b0c1d2e",
+    "question_text": "According to 4.1.4.10, how should the communication coverage provided by a VHF ground transmitter be kept?",
+    "options": {
+      "A": "At maximum possible range for safety",
+      "B": "To the minimum consistent with the operational requirement for the function",
+      "C": "To a standard international coverage of 200 nautical miles",
+      "D": "To cover all adjacent flight information regions",
+      "E": "To ensure overlap with all nearby facilities",
+      "F": "At a fixed power level regardless of need"
+    },
+    "correct_answer": "B",
+    "explanation": "Page 15, section 4.1.4.10: 'The communication coverage provided by a VHF ground transmitter shall, in order to avoid harmful interference to other stations, be kept to the minimum consistent with the operational requirement for the function.'",
+    "difficulty": "medium",
+    "topic": "Utilization in the frequency band 117.975 - 137.000 MHz",
+    "document": "ICAO Annex 10",
+    "chapter": "4.1 Utilization in the frequency band 117.975 - 137.000 MHz",
+    "sub_chapter": "4.1.4 Provisions concerning the deployment of VHF frequencies",
+    "image_description": null
+  },
+  {
+    "temp_id": "8c9d0e1f-2a3b-4c5d-6e7f-8a9b0c1d2e3f",
+    "question_text": "What does the note under 4.1.2.2 state about coexistence of 25 kHz and 8.33 kHz channel spacing?",
+    "options": {
+      "A": "8.33 kHz spacing will completely replace 25 kHz spacing by 2025",
+      "B": "Assignments based on both spacings may continue to co-exist within one region or area",
+      "C": "25 kHz spacing is no longer permitted anywhere",
+      "D": "Only 8.33 kHz spacing is allowed for international flights",
+      "E": "Countries must choose one spacing for their entire airspace",
+      "F": "8.33 kHz spacing is only for military use"
+    },
+    "correct_answer": "B",
+    "explanation": "Page 9, Note under 4.1.2.2: 'It is further recognized that assignments based on 25 kHz channel spacing as well as 8.33 kHz channel spacing may continue to co-exist within one region or area.'",
+    "difficulty": "medium",
+    "topic": "Utilization in the frequency band 117.975 - 137.000 MHz",
+    "document": "ICAO Annex 10",
+    "chapter": "4.1 Utilization in the frequency band 117.975 - 137.000 MHz",
+    "sub_chapter": "4.1.2 Frequency separation",
+    "image_description": null
+  },
+  {
+    "temp_id": "9d0e1f2a-3b4c-5d6e-7f8a-9b0c1d2e3f4a",
+    "question_text": "Which frequency shall be available to intercept control units for the purpose of intercepted civil aircraft communication?",
+    "options": {
+      "A": "123.100 MHz",
+      "B": "121.500 MHz",
+      "C": "123.450 MHz",
+      "D": "136.975 MHz",
+      "E": "118.000 MHz",
+      "F": "243.000 MHz"
+    },
+    "correct_answer": "B",
+    "explanation": "Page 12, section 4.1.3.1.3: 'The frequency 121.500 MHz shall be available to intercept control units where considered necessary for the purpose specified in 4.1.3.1.1 f).' Subsection f) refers to communication between civil aircraft and intercepting aircraft or intercept control units.",
+    "difficulty": "hard",
+    "topic": "Utilization in the frequency band 117.975 - 137.000 MHz",
+    "document": "ICAO Annex 10",
+    "chapter": "4.1 Utilization in the frequency band 117.975 - 137.000 MHz",
+    "sub_chapter": "4.1.3.1 Emergency channel",
+    "image_description": null
+  },
+  {
+    "temp_id": "0e1f2a3b-4c5d-6e7f-8a9b-0c1d2e3f4a5b",
+    "question_text": "True or False: The air-to-air communications channel on 123.450 MHz shall be available only with 8.33 kHz channel characteristics.",
+    "options": {
+      "True": "True",
+      "False": "False"
+    },
+    "correct_answer": "False",
+    "explanation": "Page 13, section 4.1.3.2.2: 'the air-to-air VHF communications channel on the frequency 123.450 MHz shall be available only with the characteristics as contained in Annex 10, Volume III, Part II, Chapter 2 (25 kHz).'",
+    "difficulty": "easy",
+    "topic": "Utilization in the frequency band 117.975 - 137.000 MHz",
+    "document": "ICAO Annex 10",
+    "chapter": "4.1 Utilization in the frequency band 117.975 - 137.000 MHz",
+    "sub_chapter": "4.1.3.2 Air-to-air communications channel",
+    "image_description": null
+  },
+  {
+    "temp_id": "1f2a3b4c-5d6e-7f8a-9b0c-1d2e3f4a5b6c",
+    "question_text": "According to 4.1.4.4, what is a 'protection height'?",
+    "options": {
+      "A": "The maximum altitude at which an aircraft can safely operate",
+      "B": "A height above a specified datum associated with a particular facility, such that below it harmful interference is improbable",
+      "C": "The minimum altitude required for VHF communication",
+      "D": "The altitude at which ground stations must be placed",
+      "E": "The height above which only emergency communications are allowed",
+      "F": "The height that triggers frequency change"
+    },
+    "correct_answer": "B",
+    "explanation": "Page 14, section 4.1.4.4: 'The protection height shall be a height above a specified datum associated with a particular facility, such that below it harmful interference is improbable.'",
+    "difficulty": "medium",
+    "topic": "Utilization in the frequency band 117.975 - 137.000 MHz",
+    "document": "ICAO Annex 10",
+    "chapter": "4.1 Utilization in the frequency band 117.975 - 137.000 MHz",
+    "sub_chapter": "4.1.4 Provisions concerning the deployment of VHF frequencies",
+    "image_description": null
+  },
+  {
+    "temp_id": "2a3b4c5d-6e7f-8a9b-0c1d-2e3f4a5b6c7d",
+    "question_text": "In the band 108-117.975 MHz, what is the band from 111.975 to 117.975 MHz allocated to?",
+    "options": {
+      "A": "Only ILS",
+      "B": "VOR and GBAS (provided no harmful interference to VOR)",
+      "C": "Only GBAS",
+      "D": "Only NDB",
+      "E": "ILS and VOR only",
+      "F": "Communication services only"
+    },
+    "correct_answer": "B",
+    "explanation": "Page 17, section 4.2.1: 'Band 111.975 - 117.975 MHz: a) VOR; b) GNSS ground-based augmentation system (GBAS) ... provided that no harmful interference is caused to VOR.'",
+    "difficulty": "easy",
+    "topic": "Utilization in the frequency band 108 - 117.975 MHz",
+    "document": "ICAO Annex 10",
+    "chapter": "4.2 Utilization in the frequency band 108 - 117.975 MHz",
+    "sub_chapter": "4.2.1",
+    "image_description": null
+  },
+  {
+    "temp_id": "3b4c5d6e-7f8a-9b0c-1d2e-3f4a5b6c7d8e",
+    "question_text": "True or False: ILS channels identified by localizer frequencies ending in an odd tenth plus one twentieth of a megahertz in the band 108-111.975 MHz are permitted for general use on or after 1 January 1976.",
+    "options": {
+      "True": "True",
+      "False": "False"
+    },
+    "correct_answer": "True",
+    "explanation": "Page 17, section 4.2.2.1 b): 'for general use on or after 1 January 1976.'",
+    "difficulty": "medium",
+    "topic": "Utilization in the frequency band 108 - 117.975 MHz",
+    "document": "ICAO Annex 10",
+    "chapter": "4.2 Utilization in the frequency band 108 - 117.975 MHz",
+    "sub_chapter": "4.2.2.1",
+    "image_description": null
+  },
+  {
+    "temp_id": "4c5d6e7f-8a9b-0c1d-2e3f-4a5b6c7d8e9f",
+    "question_text": "What does 'restricted use' mean in the context of ILS frequencies (4.2.2.1 a)?",
+    "options": {
+      "A": "Use only by military aircraft",
+      "B": "Limited use by only suitably equipped aircraft, protecting performance of equipment not capable of operating on these frequencies, and no general requirement for carriage",
+      "C": "Use only during daylight hours",
+      "D": "Use only in remote areas",
+      "E": "Use only for training purposes",
+      "F": "Use only after obtaining special permission from ICAO"
+    },
+    "correct_answer": "B",
+    "explanation": "Page 18, Note under 4.2.3.1: 'Restricted use... is intended to refer to the limited use of the frequencies by only suitably equipped aircraft and in such a manner that: a) the performance of ILS or VOR equipment not capable of operating on these frequencies will be protected from harmful interference; b) a general requirement for the carriage... will not be imposed; and c) operational service provided to international operators using 100 kHz airborne equipment is not derogated.'",
+    "difficulty": "hard",
+    "topic": "Utilization in the frequency band 108 - 117.975 MHz",
+    "document": "ICAO Annex 10",
+    "chapter": "4.2 Utilization in the frequency band 108 - 117.975 MHz",
+    "sub_chapter": "4.2.3.1",
+    "image_description": null
+  },
+  {
+    "temp_id": "5d6e7f8a-9b0c-1d2e-3f4a-5b6c7d8e9f0a",
+    "question_text": "According to 4.3.1, DME operating channels bearing suffix X or Y are chosen on what basis?",
+    "options": {
+      "A": "Regional agreement only",
+      "B": "General basis without restriction",
+      "C": "Only after Council approval",
+      "D": "Only for military use",
+      "E": "Restricted use only",
+      "F": "Only in conjunction with ILS"
+    },
+    "correct_answer": "B",
+    "explanation": "Page 19, section 4.3.1: 'DME operating channels bearing the suffix X or Y... shall be chosen on a general basis without restriction.'",
+    "difficulty": "easy",
+    "topic": "Utilization in the frequency band 960 - 1 215 MHz for DME",
+    "document": "ICAO Annex 10",
+    "chapter": "4.3 Utilization in the frequency band 960 - 1 215 MHz for DME",
+    "sub_chapter": "4.3.1",
+    "image_description": null
+  },
+  {
+    "temp_id": "6e7f8a9b-0c1d-2e3f-4a5b-6c7d8e9f0a1b",
+    "question_text": "When an MLS/DME is intended to operate on a runway with an ILS coexisting, which DME channel groups should be selected if possible?",
+    "options": {
+      "A": "Group 3, 4 or 5",
+      "B": "Group 1 or 2",
+      "C": "Group 6 or 7",
+      "D": "Group 8, 9 or 10",
+      "E": "Any group without preference",
+      "F": "Only Group 10"
+    },
+    "correct_answer": "B",
+    "explanation": "Page 20, section 4.3.3.1 a): 'when an MLS/DME is intended to operate on a runway in association with an ILS, the DME channel, if possible, shall be selected from Group 1 or 2 and paired with the ILS frequency'.",
+    "difficulty": "hard",
+    "topic": "Utilization in the frequency band 960 - 1 215 MHz for DME",
+    "document": "ICAO Annex 10",
+    "chapter": "4.3 Utilization in the frequency band 960 - 1 215 MHz for DME",
+    "sub_chapter": "4.3.3.1",
+    "image_description": "Table 4-2"
+  },
+  {
+    "temp_id": "7f8a9b0c-1d2e-3f4a-5b6c-7d8e9f0a1b2c",
+    "question_text": "True or False: Coordination of regional DME channel assignments should be effected through ICAO, according to a recommendation.",
+    "options": {
+      "True": "True",
+      "False": "False"
+    },
+    "correct_answer": "True",
+    "explanation": "Page 21, section 4.3.4: 'Recommendation.— Coordination of regional DME channel assignments should be effected through ICAO.'",
+    "difficulty": "easy",
+    "topic": "Utilization in the frequency band 960 - 1 215 MHz for DME",
+    "document": "ICAO Annex 10",
+    "chapter": "4.3 Utilization in the frequency band 960 - 1 215 MHz for DME",
+    "sub_chapter": "4.3.4",
+    "image_description": null
+  },
+  {
+    "temp_id": "8a9b0c1d-2e3f-4a5b-6c7d-8e9f0a1b2c3d",
+    "question_text": "According to the NDB attachment, what is the attenuation at a frequency difference of 5 kHz using the improved figures?",
+    "options": {
+      "A": "35 dB",
+      "B": "65 dB",
+      "C": "80 dB",
+      "D": "6 dB",
+      "E": "0 dB",
+      "F": "12 dB"
+    },
+    "correct_answer": "B",
+    "explanation": "Page 23, table of improved figures: 'Frequency difference (kHz) 5' corresponds to 'Attenuation (dB) 65'.",
+    "difficulty": "easy",
+    "topic": "NDB planning (Attachment)",
+    "document": "ICAO Annex 10",
+    "chapter": "Appendix / Attachment (pages 22-24)",
+    "sub_chapter": null,
+    "image_description": "Table showing improved attenuation figures"
+  },
+  {
+    "temp_id": "9b0c1d2e-3f4a-5b6c-7d8e-9f0a1b2c3d4e",
+    "question_text": "What is the maximum number of ground stations per State recommended for worldwide AOC HF channels?",
+    "options": {
+      "A": "One",
+      "B": "Two",
+      "C": "Three",
+      "D": "Four",
+      "E": "Five",
+      "F": "Unlimited"
+    },
+    "correct_answer": "A",
+    "explanation": "Page 24, paragraph 2: 'Consequently, a) there should normally be not more than one station per State;'",
+    "difficulty": "easy",
+    "topic": "Aeronautical Operational Control (AOC)",
+    "document": "ICAO Annex 10",
+    "chapter": "Appendix / Attachment (pages 22-24)",
+    "sub_chapter": "Aeronautical Operational Control (AOC) HF Stations",
+    "image_description": null
+  },
+  {
+    "temp_id": "0c1d2e3f-4a5b-6c7d-8e9f-0a1b2c3d4e5f",
+    "question_text": "True or False: According to the document, an aircraft in distress when airborne should use a special distress frequency different from the normal communications frequency.",
+    "options": {
+      "True": "True",
+      "False": "False"
+    },
+    "correct_answer": "False",
+    "explanation": "Page 3, paragraph 3: 'Annex10VlumeIrequirthatanairraftindistresswhenitisairbornehouldusethefrequencyinuseforormal communications with aeronautical stations at the time.' (The text says should use the frequency in use for normal communications).",
+    "difficulty": "medium",
+    "topic": "Distress Frequencies",
+    "document": "ICAO Annex 10",
+    "chapter": "2. DISTRESS FREQUENCIES",
+    "sub_chapter": null,
+    "image_description": null
+  },
+  {
+    "temp_id": "1d2e3f4a-5b6c-7d8e-9f0a-1b2c3d4e5f6a",
+    "question_text": "Which frequencies may be used for coordinated search and rescue operations with the maritime mobile service?",
+    "options": {
+      "A": "2182 kHz and 4125 kHz",
+      "B": "3023 kHz and 5680 kHz",
+      "C": "121.500 MHz and 123.100 MHz",
+      "D": "406 MHz and 243 MHz",
+      "E": "8364 kHz and 2182 kHz",
+      "F": "4125 kHz and 3023 kHz"
+    },
+    "correct_answer": "B",
+    "explanation": "Page 3: 'The aeronautical mobile (R) service frequencies 3 023 kHz and 5 680 kHz may be employed for coordinated search and rescue operations with the maritime mobile service under RR 5.115.'",
+    "difficulty": "medium",
+    "topic": "Distress Frequencies",
+    "document": "ICAO Annex 10",
+    "chapter": "2. DISTRESS FREQUENCIES",
+    "sub_chapter": null,
+    "image_description": null
+  },
+  {
+    "temp_id": "2e3f4a5b-6c7d-8e9f-0a1b-2c3d4e5f6a7b",
+    "question_text": "According to 27/15 of Appendix 27, use of channels for classes of emission other than J3E and H2B is subject to what?",
+    "options": {
+      "A": "Prohibition",
+      "B": "Special arrangements by the Administrations concerned to avoid harmful interference",
+      "C": "Automatic approval by ICAO",
+      "D": "Use only in remote areas",
+      "E": "Prior publication in the ITU journal",
+      "F": "A minimum protection ratio of 30 dB"
+    },
+    "correct_answer": "B",
+    "explanation": "Page 6, section 3.1.2.5 quoting 27/15: 'The use of channels derived from the frequencies indicated in 27/18 for the various classes of emissions other than J3E and H2B will be subject to special arrangements by the Administrations concerned and affected in order to avoid harmful interference which may result from the simultaneous use of the same channel for several classes of emission.'",
+    "difficulty": "hard",
+    "topic": "Utilization of frequencies below 30 MHz",
+    "document": "ICAO Annex 10",
+    "chapter": "3 UTILIZATION OF FREQUENCIES BELOW 30 MHz",
+    "sub_chapter": "3.1.2 Assignment of single sideband channels",
+    "image_description": null
+  },
+  {
+    "temp_id": "3f4a5b6c-7d8e-9f0a-1b2c-3d4e5f6a7b8c",
+    "question_text": "What is the channel spacing used for the emergency channel (121.500 MHz) according to 4.1.3.1.6?",
+    "options": {
+      "A": "8.33 kHz",
+      "B": "25 kHz",
+      "C": "50 kHz",
+      "D": "12.5 kHz",
+      "E": "100 kHz",
+      "F": "20 kHz"
+    },
+    "correct_answer": "B",
+    "explanation": "Page 13, section 4.1.3.1.6: 'The emergency channel (121.500 MHz) shall be available only with the characteristics as contained in Annex 10, Volume III, Part II, Chapter 2 (25 kHz).'",
+    "difficulty": "easy",
+    "topic": "Utilization in the frequency band 117.975 - 137.000 MHz",
+    "document": "ICAO Annex 10",
+    "chapter": "4.1 Utilization in the frequency band 117.975 - 137.000 MHz",
+    "sub_chapter": "4.1.3.1 Emergency channel",
+    "image_description": null
+  },
+  {
+    "temp_id": "4a5b6c7d-8e9f-0a1b-2c3d-4e5f6a7b8c9d",
+    "question_text": "True or False: The auxiliary search and rescue channel (123.100 MHz) shall be available only with 8.33 kHz characteristics.",
+    "options": {
+      "True": "True",
+      "False": "False"
+    },
+    "correct_answer": "False",
+    "explanation": "Page 13, section 4.1.3.4.2: 'The auxiliary search and rescue channel (123.100 MHz) shall be available only with the characteristics as contained in Annex 10, Volume III, Part II, Chapter 2 (25 kHz).'",
+    "difficulty": "easy",
+    "topic": "Utilization in the frequency band 117.975 - 137.000 MHz",
+    "document": "ICAO Annex 10",
+    "chapter": "4.1 Utilization in the frequency band 117.975 - 137.000 MHz",
+    "sub_chapter": "4.1.3.4 Auxiliary frequencies for search and rescue operations",
+    "image_description": null
+  },
+  {
+    "temp_id": "5b6c7d8e-9f0a-1b2c-3d4e-5f6a7b8c9d0e",
+    "question_text": "According to 4.1.5.2, the ground-to-air voice channel associated with an ICAO standard radio navigation aid may be used for what purpose, subject to regional agreement?",
+    "options": {
+      "A": "Only for distress calls",
+      "B": "For broadcast or communication purposes or both",
+      "C": "Only for operational control",
+      "D": "Only for training",
+      "E": "Only for maintenance",
+      "F": "Only for military coordination"
+    },
+    "correct_answer": "B",
+    "explanation": "Page 15, section 4.1.5.2: 'In addition to the above, the ground-to-air voice channel associated with an ICAO standard radio navigation aid may be used, subject to regional agreement, for broadcast or communication purposes or both.'",
+    "difficulty": "medium",
+    "topic": "Utilization in the frequency band 117.975 - 137.000 MHz",
+    "document": "ICAO Annex 10",
+    "chapter": "4.1 Utilization in the frequency band 117.975 - 137.000 MHz",
+    "sub_chapter": "4.1.5 Method of operation",
+    "image_description": null
+  },
+  {
+    "temp_id": "6c7d8e9f-0a1b-2c3d-4e5f-6a7b8c9d0e1f",
+    "question_text": "What is the formula given for distance to the radio horizon from a station in an aircraft?",
+    "options": {
+      "A": "D = 1.23 √h (h in feet)",
+      "B": "D = 2.22 √h (h in metres)",
+      "C": "Both A and B are given as formulas with different constants",
+      "D": "D = h/2.22",
+      "E": "D = √(2hR)",
+      "F": "D = 1.5 * h"
+    },
+    "correct_answer": "C",
+    "explanation": "Page 14, Note 3: 'The distance to the radio horizon from a station in an aircraft is normally given by the formula: D = K√h where ... K = 2.22 when h is expressed in metres; and = 1.23 when h is expressed in feet.'",
+    "difficulty": "hard",
+    "topic": "Utilization in the frequency band 117.975 - 137.000 MHz",
+    "document": "ICAO Annex 10",
+    "chapter": "4.1 Utilization in the frequency band 117.975 - 137.000 MHz",
+    "sub_chapter": "4.1.4 Provisions concerning deployment",
+    "image_description": null
+  },
+  {
+    "temp_id": "7d8e9f0a-1b2c-3d4e-5f6a-7b8c9d0e1f2a",
+    "question_text": "True or False: The VHF band 108-111.975 MHz may be used for GBAS provided no harmful interference is caused to ILS and VOR.",
+    "options": {
+      "True": "True",
+      "False": "False"
+    },
+    "correct_answer": "True",
+    "explanation": "Page 17, section 4.2.1: 'c) GNSS ground-based augmentation system (GBAS) in accordance with Annex 10, Volume I, 3.7.3.5, provided that no harmful interference is caused to ILS and VOR.'",
+    "difficulty": "medium",
+    "topic": "Utilization in the frequency band 108 - 117.975 MHz",
+    "document": "ICAO Annex 10",
+    "chapter": "4.2 Utilization in the frequency band 108 - 117.975 MHz",
+    "sub_chapter": "4.2.1",
+    "image_description": null
+  },
+  {
+    "temp_id": "8e9f0a1b-2c3d-4e5f-6a7b-8c9d0e1f2a3b",
+    "question_text": "For DME channels in Groups 6 to 10, when shall they be permitted to be used?",
+    "options": {
+      "A": "On a general basis without restriction",
+      "B": "On the basis of a regional agreement when applicable according to conditions at 4.3.2",
+      "C": "Only for military use",
+      "D": "Only after 1 January 2000",
+      "E": "Only in conjunction with MLS",
+      "F": "Only for testing purposes"
+    },
+    "correct_answer": "B",
+    "explanation": "Page 20, section 4.3.3.2: 'Groups 6 to 10. These DME channels shall be permitted to be used on the basis of a regional agreement when they have become applicable in accordance with the conditions specified at 4.3.2.'",
+    "difficulty": "medium",
+    "topic": "Utilization in the frequency band 960 - 1 215 MHz for DME",
+    "document": "ICAO Annex 10",
+    "chapter": "4.3 Utilization in the frequency band 960 - 1 215 MHz for DME",
+    "sub_chapter": "4.3.3.2",
+    "image_description": "Table 4-2"
+  },
+  {
+    "temp_id": "9f0a1b2c-3d4e-5f6a-7b8c-9d0e1f2a3b4c",
+    "question_text": "According to the NDB attachment, what is the attenuation at a frequency difference of 0 kHz using the original EUR region figures?",
+    "options": {
+      "A": "0 dB",
+      "B": "6 dB",
+      "C": "12 dB",
+      "D": "15 dB",
+      "E": "20 dB",
+      "F": "25 dB"
+    },
+    "correct_answer": "A",
+    "explanation": "Page 22, table: 'Frequency difference (kHz) 0' corresponds to 'Attenuation (dB) 0'.",
+    "difficulty": "easy",
+    "topic": "NDB planning (Attachment)",
+    "document": "ICAO Annex 10",
+    "chapter": "Appendix / Attachment (pages 22-24)",
+    "sub_chapter": null,
+    "image_description": "Table showing frequency difference and attenuation"
+  },
+  {
+    "temp_id": "0a1b2c3d-4e5f-6a7b-8c9d-0e1f2a3b4c5d6e",
+    "question_text": "What is stated about the RF selectivity of modern ADF equipment compared to the improved attenuation figures?",
+    "options": {
+      "A": "It is, in general, worse than these figures",
+      "B": "It is, in general, better than these figures",
+      "C": "It is exactly equal to these figures",
+      "D": "No comparison is made",
+      "E": "It is only better for frequency differences above 5 kHz",
+      "F": "Modern ADF equipment is not considered"
+    },
+    "correct_answer": "B",
+    "explanation": "Page 23, paragraph 3: 'When using these figures, it should be noted that the RF selectivity of modern ADF equipment is, in general, better than these figures'.",
+    "difficulty": "medium",
+    "topic": "NDB planning (Attachment)",
+    "document": "ICAO Annex 10",
+    "chapter": "Appendix / Attachment (pages 22-24)",
+    "sub_chapter": null,
+    "image_description": null
+  },
+  {
+    "temp_id": "1b2c3d4e-5f6a-7b8c-9d0e-1f2a3b4c5d6e7f",
+    "question_text": "True or False: The guidance material for AOC HF stations states that HF should be used even when an aircraft is within VHF coverage.",
+    "options": {
+      "True": "True",
+      "False": "False"
+    },
+    "correct_answer": "False",
+    "explanation": "Page 24, paragraph 5: 'VHF (general purpose or AOC channels) and not HF should be used when an aircraft is within the coverage of an appropriate VHF aeronautical station.'",
+    "difficulty": "easy",
+    "topic": "Aeronautical Operational Control (AOC)",
+    "document": "ICAO Annex 10",
+    "chapter": "Appendix / Attachment (pages 22-24)",
+    "sub_chapter": null,
+    "image_description": null
+  },
+  {
+    "temp_id": "2c3d4e5f-6a7b-8c9d-0e1f-2a3b4c5d6e7f8a",
+    "question_text": "According to the definitions, what is 'Simplex'?",
+    "options": {
+      "A": "A method in which telecommunication takes place in both directions simultaneously",
+      "B": "A method in which telecommunication takes place in one direction at a time",
+      "C": "A method using two frequency channels in the same direction",
+      "D": "A method that always uses the same frequency for both directions",
+      "E": "A method that requires a guard band",
+      "F": "A method that is used only for emergency communications"
+    },
+    "correct_answer": "B",
+    "explanation": "Page 2, Chapter 1: 'Simplex. A method in which telecommunication between two stations takes place in one direction at a time.'",
+    "difficulty": "easy",
+    "topic": "Definitions",
+    "document": "ICAO Annex 10",
+    "chapter": "Chapter 1. DEFINITIONS",
+    "sub_chapter": null,
+    "image_description": null
+  },
+  {
+    "temp_id": "3d4e5f6a-7b8c-9d0e-1f2a-3b4c5d6e7f8a9b",
+    "question_text": "Which of the following is NOT a subdivision of simplex mentioned in the note?",
+    "options": {
+      "A": "Single channel simplex",
+      "B": "Double channel simplex",
+      "C": "Offset frequency simplex",
+      "D": "Triple channel simplex",
+      "E": "None of the above are subdivisions",
+      "F": "All of the above are subdivisions"
+    },
+    "correct_answer": "D",
+    "explanation": "Page 2, Note under Simplex: 'In application to the aeronautical mobile service, this method may be subdivided as follows: a) single channel simplex; b) double channel simplex; c) offset frequency simplex.' Triple channel simplex is not listed.",
+    "difficulty": "easy",
+    "topic": "Definitions",
+    "document": "ICAO Annex 10",
+    "chapter": "Chapter 1. DEFINITIONS",
+    "sub_chapter": null,
+    "image_description": null
+  },
+  {
+    "temp_id": "4e5f6a7b-8c9d-0e1f-2a3b-4c5d6e7f8a9b0c",
+    "question_text": "What is the highest assignable frequency in the band 117.975-137.000 MHz?",
+    "options": {
+      "A": "136.975 MHz",
+      "B": "137.000 MHz",
+      "C": "136.000 MHz",
+      "D": "136.900 MHz",
+      "E": "136.500 MHz",
+      "F": "135.975 MHz"
+    },
+    "correct_answer": "A",
+    "explanation": "Page 9, section 4.1.2.1: 'the highest 136.975 MHz.'",
+    "difficulty": "easy",
+    "topic": "Utilization in the frequency band 117.975 - 137.000 MHz",
+    "document": "ICAO Annex 10",
+    "chapter": "4.1 Utilization in the frequency band 117.975 - 137.000 MHz",
+    "sub_chapter": "4.1.2 Frequency separation",
+    "image_description": null
+  },
+  {
+    "temp_id": "5f6a7b8c-9d0e-1f2a-3b4c-5d6e7f8a9b0c1d",
+    "question_text": "True or False: The frequency 121.500 MHz shall be provided at all area control centres and flight information centres.",
+    "options": {
+      "True": "True",
+      "False": "False"
+    },
+    "correct_answer": "True",
+    "explanation": "Page 12, section 4.1.3.1.2 a): 'The frequency 121.500 MHz shall be provided at: a) all area control centres and flight information centres;'",
+    "difficulty": "easy",
+    "topic": "Utilization in the frequency band 117.975 - 137.000 MHz",
+    "document": "ICAO Annex 10",
+    "chapter": "4.1 Utilization in the frequency band 117.975 - 137.000 MHz",
+    "sub_chapter": "4.1.3.1 Emergency channel",
+    "image_description": null
+  },
+  {
+    "temp_id": "6a7b8c9d-0e1f-2a3b-4c5d-6e7f8a9b0c1d2e",
+    "question_text": "According to 4.1.4.7, how shall geographical separation between VHF VOLMET stations be determined?",
+    "options": {
+      "A": "Globally by ICAO",
+      "B": "Regionally, ensuring operations free from harmful interference throughout the protected service volume of each VOLMET station",
+      "C": "By each State individually without coordination",
+      "D": "Using a fixed distance of 500 nautical miles",
+      "E": "Based solely on the power output of the stations",
+      "F": "Using the same criteria as for NDBs"
+    },
+    "correct_answer": "B",
+    "explanation": "Page 15, section 4.1.4.7: 'The geographical separation between VHF VOLMET stations shall be determined regionally and shall be such that operations free from harmful interference are secured throughout the protected service volume of each VOLMET station.'",
+    "difficulty": "medium",
+    "topic": "Utilization in the frequency band 117.975 - 137.000 MHz",
+    "document": "ICAO Annex 10",
+    "chapter": "4.1 Utilization in the frequency band 117.975 - 137.000 MHz",
+    "sub_chapter": "4.1.4 Provisions concerning deployment",
+    "image_description": null
+  },
+  {
+    "temp_id": "7b8c9d0e-1f2a-3b4c-5d6e-7f8a9b0c1d2e3f",
+    "question_text": "What is the recommendation for resolving inter-State interference problems?",
+    "options": {
+      "A": "Refer to ICAO for binding arbitration",
+      "B": "Resolved by consultation between the States concerned",
+      "C": "Use the ITU dispute resolution mechanism",
+      "D": "Change frequencies unilaterally",
+      "E": "Increase transmission power to overcome interference",
+      "F": "Shut down the interfering station"
+    },
+    "correct_answer": "B",
+    "explanation": "Page 15, section 4.1.4.9: 'Recommendation.—The problem of inter-State interference should be resolved by consultation between the States concerned.'",
+    "difficulty": "easy",
+    "topic": "Utilization in the frequency band 117.975 - 137.000 MHz",
+    "document": "ICAO Annex 10",
+    "chapter": "4.1 Utilization in the frequency band 117.975 - 137.000 MHz",
+    "sub_chapter": "4.1.4 Provisions concerning deployment",
+    "image_description": null
+  },
+  {
+    "temp_id": "8c9d0e1f-2a3b-4c5d-6e7f-8a9b0c1d2e3f4a",
+    "question_text": "True or False: For mandatory carriage of equipment designed for 8.33 kHz channel spacing, regional air navigation agreements must specify the airspace of operation and implementation timescales.",
+    "options": {
+      "True": "True",
+      "False": "False"
+    },
+    "correct_answer": "True",
+    "explanation": "Page 9, section 4.1.2.3: 'Requirements for mandatory carriage of equipment specifically designed for 8.33 kHz channel spacing shall be made on the basis of regional air navigation agreements which specify the airspace of operation and the implementation timescales for the carriage of equipment, including the appropriate lead time.'",
+    "difficulty": "medium",
+    "topic": "Utilization in the frequency band 117.975 - 137.000 MHz",
+    "document": "ICAO Annex 10",
+    "chapter": "4.1 Utilization in the frequency band 117.975 - 137.000 MHz",
+    "sub_chapter": "4.1.2 Frequency separation",
+    "image_description": null
+  },
+  {
+    "temp_id": "9d0e1f2a-3b4c-5d6e-7f8a-9b0c1d2e3f4a5b",
+    "question_text": "According to 4.2.6 recommendation, when may identical ILS localizer and glide path paired frequencies be assigned for two separate ILS facilities serving opposite ends of the same runway?",
+    "options": {
+      "A": "Never",
+      "B": "Provided operational circumstances permit, each localizer has a different identification signal, and arrangements prevent radiation of the not-in-use localizer and glide path",
+      "C": "Only if the runway is longer than 3000 meters",
+      "D": "Only during daytime",
+      "E": "Only with prior approval from all airlines",
+      "F": "Only if both ILS are of the same make and model"
+    },
+    "correct_answer": "B",
+    "explanation": "Page 18-19, section 4.2.6: 'To alleviate frequency congestion problems ... the assignment of identical ILS localizer and glide path paired frequencies should be permitted, provided that: a) the operational circumstances permit; b) each localizer is assigned a different identification signal; and c) arrangements are made whereby the localizer and glide path not in operational use cannot radiate.'",
+    "difficulty": "hard",
+    "topic": "Utilization in the frequency band 108 - 117.975 MHz",
+    "document": "ICAO Annex 10",
+    "chapter": "4.2 Utilization in the frequency band 108 - 117.975 MHz",
+    "sub_chapter": "4.2.6",
+    "image_description": null
+  },
+  {
+    "temp_id": "0e1f2a3b-4c5d-6e7f-8a9b-0c1d2e3f4a5b6c",
+    "question_text": "What does the abbreviation 'EPIRB' stand for in the context of the document?",
+    "options": {
+      "A": "Emergency Position Indicating Radio Beacon",
+      "B": "Electronic Pilot Incident Reporting Beacon",
+      "C": "Emergency Pulse Infrared Radio Beacon",
+      "D": "Enhanced Position Identification Radio Beacon",
+      "E": "Emergency Primary Interrogation Radio Beacon",
+      "F": "Electronic Positioning and Identification Radio Beacon"
+    },
+    "correct_answer": "A",
+    "explanation": "Page 3: 'satellite emergency position indicating radio beacons (EPIRBs)'",
+    "difficulty": "easy",
+    "topic": "Distress Frequencies",
+    "document": "ICAO Annex 10",
+    "chapter": "2. DISTRESS FREQUENCIES",
+    "sub_chapter": null,
+    "image_description": null
+  },
+  {
+    "temp_id": "1f2a3b4c-5d6e-7f8a-9b0c-1d2e3f4a5b6c7d",
+    "question_text": "According to 27/9, what is a world-wide allotment area?",
+    "options": {
+      "A": "An area where frequencies are allotted for local communications only",
+      "B": "An area where frequencies are allotted to provide long distance communications between an aeronautical station within that area and aircraft operating anywhere in the world",
+      "C": "An area that covers all ICAO member states",
+      "D": "An area where only VOLMET broadcasts are allowed",
+      "E": "An area reserved for military communications",
+      "F": "An area where no frequency coordination is required"
+    },
+    "correct_answer": "B",
+    "explanation": "Page 6, section 3.1.3.1 quoting 27/9: 'A world-wide allotment area is one in which frequencies are allotted to provide long distance communications between an aeronautical station within that allotment area and aircraft operating anywhere in the world.'",
+    "difficulty": "medium",
+    "topic": "Utilization of frequencies below 30 MHz",
+    "document": "ICAO Annex 10",
+    "chapter": "3 UTILIZATION OF FREQUENCIES BELOW 30 MHz",
+    "sub_chapter": "3.1.3 Assignment of frequencies for AOC",
+    "image_description": null
+  },
+  {
+    "temp_id": "2a3b4c5d-6e7f-8a9b-0c1d-2e3f4a5b6c7d8e",
+    "question_text": "What is the recommended notice period for mandatory carriage of airborne systems for VDL Mode 2/3/4?",
+    "options": {
+      "A": "6 months",
+      "B": "1 year",
+      "C": "At least two years",
+      "D": "3 years",
+      "E": "5 years",
+      "F": "No specific period"
+    },
+    "correct_answer": "C",
+    "explanation": "Page 9, section 4.1.2.4.1: 'The agreement indicated in 4.1.2.4 shall provide at least two years' notice of mandatory carriage of airborne systems.'",
+    "difficulty": "easy",
+    "topic": "Utilization in the frequency band 117.975 - 137.000 MHz",
+    "document": "ICAO Annex 10",
+    "chapter": "4.1 Utilization in the frequency band 117.975 - 137.000 MHz",
+    "sub_chapter": "4.1.2 Frequency separation",
+    "image_description": null
+  },
+  {
+    "temp_id": "3b4c5d6e-7f8a-9b0c-1d2e-3f4a5b6c7d8e9f",
+    "question_text": "True or False: Table 4-1 (bis) includes time slot indication for VDL Mode 3 channels.",
+    "options": {
+      "True": "True",
+      "False": "False"
+    },
+    "correct_answer": "True",
+    "explanation": "Page 11, footnote under Table 4-1 (bis): '* Time slot indication is for VDL Mode 3 channels. (Ref. Annex 10, Volume III, Part I, Chapter 6 for characteristics of VDL Mode 3 operation)'",
+    "difficulty": "easy",
+    "topic": "Utilization in the frequency band 117.975 - 137.000 MHz",
+    "document": "ICAO Annex 10",
+    "chapter": "4.1 Utilization in the frequency band 117.975 - 137.000 MHz",
+    "sub_chapter": "4.1.2 Frequency separation",
+    "image_description": "Table 4-1 (bis) showing channelling/frequency pairing"
+  },
+  {
+    "temp_id": "4c5d6e7f-8a9b-0c1d-2e3f-4a5b6c7d8e9f0a",
+    "question_text": "According to the document, what is the purpose of the frequency 123.100 MHz?",
+    "options": {
+      "A": "Air-to-air communications",
+      "B": "Auxiliary search and rescue frequency",
+      "C": "Emergency locator transmitter frequency",
+      "D": "Common signalling channel for VDL Mode 2",
+      "E": "Aeronautical operational control",
+      "F": "VOLMET broadcast"
+    },
+    "correct_answer": "B",
+    "explanation": "Page 10, Table 4-1 block e) shows '123.100' as 'Auxiliary frequency SAR'. Also section 4.1.3.4.1 states it is used as auxiliary to 121.500 MHz for search and rescue.",
+    "difficulty": "easy",
+    "topic": "Utilization in the frequency band 117.975 - 137.000 MHz",
+    "document": "ICAO Annex 10",
+    "chapter": "4.1 Utilization in the frequency band 117.975 - 137.000 MHz",
+    "sub_chapter": "4.1.3.4 Auxiliary frequencies for search and rescue operations",
+    "image_description": "Table 4-1 allotment table"
+  },
+  {
+    "temp_id": "5d6e7f8a-9b0c-1d2e-3f4a-5b6c7d8e9f0a1b",
+    "question_text": "What is the class of emission mentioned for radiotelephone emissions in Appendix 27/12?",
+    "options": {
+      "A": "J3E",
+      "B": "H2B",
+      "C": "J7B",
+      "D": "J9B",
+      "E": "A3E",
+      "F": "F3E"
+    },
+    "correct_answer": "A",
+    "explanation": "Page 6, section 3.1.2.5 quoting 27/12: 'For radiotelephone emissions... the occupied bandwidth of other authorized emissions will not exceed the upper limit of J3E emissions.'",
+    "difficulty": "hard",
+    "topic": "Utilization of frequencies below 30 MHz",
+    "document": "ICAO Annex 10",
+    "chapter": "3 UTILIZATION OF FREQUENCIES BELOW 30 MHz",
+    "sub_chapter": "3.1.2 Assignment of single sideband channels",
+    "image_description": null
+  },
+  {
+    "temp_id": "6e7f8a9b-0c1d-2e3f-4a5b-6c7d8e9f0a1b2c",
+    "question_text": "True or False: The band 406-406.1 MHz is used exclusively by satellite EPIRBs in the space-to-earth direction.",
+    "options": {
+      "True": "True",
+      "False": "False"
+    },
+    "correct_answer": "False",
+    "explanation": "Page 3: 'the band 406 - 406.1 MHz is used exclusively by satellite EPIRBs in the earth-to-space direction.'",
+    "difficulty": "easy",
+    "topic": "Distress Frequencies",
+    "document": "ICAO Annex 10",
+    "chapter": "2. DISTRESS FREQUENCIES",
+    "sub_chapter": null,
+    "image_description": null
+  },
+  {
+    "temp_id": "7f8a9b0c-1d2e-3f4a-5b6c-7d8e9f0a1b2c3d",
+    "question_text": "According to 4.1.6.2, how are the frequencies that may be allotted for use in a particular region limited?",
+    "options": {
+      "A": "To the number determined as necessary for operational needs in the region",
+      "B": "To a maximum of 100 frequencies per region",
+      "C": "To the frequencies that are not used by any other region",
+      "D": "To those below 130 MHz",
+      "E": "To those that are approved by all States in the region",
+      "F": "To those that are available in the global allotment plan"
+    },
+    "correct_answer": "A",
+    "explanation": "Page 16, section 4.1.6.2: 'The frequencies that may be allotted for use in the aeronautical mobile (R) service in a particular region shall be limited to the number determined as being necessary for operational needs in the region.'",
+    "difficulty": "medium",
+    "topic": "Utilization in the frequency band 117.975 - 137.000 MHz",
+    "document": "ICAO Annex 10",
+    "chapter": "4.1 Utilization in the frequency band 117.975 - 137.000 MHz",
+    "sub_chapter": "4.1.6 Plan of assignable VHF radio frequencies",
+    "image_description": null
+  },
+  {
+    "temp_id": "8a9b0c1d-2e3f-4a5b-6c7d-8e9f0a1b2c3d4e",
+    "question_text": "What is the role of ICAO according to 27/19 of Appendix 27?",
+    "options": {
+      "A": "It allocates all HF frequencies globally",
+      "B": "It co-ordinates radiocommunications of the aeronautical mobile (R) service with international aeronautical operations and should be consulted in the operational use of frequencies in the Plan",
+      "C": "It enforces frequency usage through fines",
+      "D": "It operates all aeronautical ground stations",
+      "E": "It designs all airborne communication equipment",
+      "F": "It resolves all interference disputes"
+    },
+    "correct_answer": "B",
+    "explanation": "Page 5, section 3.1.2.3 quoting 27/19: 'The International Civil Aviation Organization (ICAO) co-ordinates radiocommunications of the aeronautical mobile (R) service with international aeronautical operations and this Organization should be consulted in all appropriate cases in the operational use of the frequencies in the Plan.'",
+    "difficulty": "hard",
+    "topic": "Utilization of frequencies below 30 MHz",
+    "document": "ICAO Annex 10",
+    "chapter": "3 UTILIZATION OF FREQUENCIES BELOW 30 MHz",
+    "sub_chapter": "3.1.2 Assignment of single sideband channels",
+    "image_description": null
+  },
+  {
+    "temp_id": "9b0c1d2e-3f4a-5b6c-7d8e-9f0a1b2c3d4e5f",
+    "question_text": "True or False: The frequency 243 MHz is not mentioned in the document at all.",
+    "options": {
+      "True": "True",
+      "False": "False"
+    },
+    "correct_answer": "False",
+    "explanation": "Page 3 mentions 243 MHz in the context of survival craft stations: 'the frequencies ... 243 MHz, if the survival craft is capable of operating in the bands ... 235 - 328.6 MHz'. Also Note 1 on page 3 says ITU Radio Regulations provide for the use of 243 MHz in addition to 406 and 121.5 MHz.",
+    "difficulty": "easy",
+    "topic": "Distress Frequencies",
+    "document": "ICAO Annex 10",
+    "chapter": "2. DISTRESS FREQUENCIES",
+    "sub_chapter": "2.1.1",
+    "image_description": null
+  },
+  {
+    "temp_id": "0c1d2e3f-4a5b-6c7d-8e9f-0a1b2c3d4e5f6a",
+    "question_text": "According to 4.1.4.2, for areas with severe frequency congestion, the reduced desired to undesired signal ratio of 14 dB shall be implemented on what basis?",
+    "options": {
+      "A": "Global ICAO standard",
+      "B": "Regional air navigation agreement",
+      "C": "Individual State decision",
+      "D": "ITU recommendation",
+      "E": "Automatic after 2020",
+      "F": "Pilot discretion"
+    },
+    "correct_answer": "B",
+    "explanation": "Page 14, section 4.1.4.2: 'This provision shall be implemented on the basis of a regional air navigation agreement.'",
+    "difficulty": "easy",
+    "topic": "Utilization in the frequency band 117.975 - 137.000 MHz",
+    "document": "ICAO Annex 10",
+    "chapter": "4.1 Utilization in the frequency band 117.975 - 137.000 MHz",
+    "sub_chapter": "4.1.4 Provisions concerning deployment",
+    "image_description": null
+  },
+  {
+    "temp_id": "1d2e3f4a-5b6c-7d8e-9f0a-1b2c3d4e5f6a7b",
+    "question_text": "What is the range of frequencies for national aeronautical mobile services in Table 4-1 block d)?",
+    "options": {
+      "A": "118.000 - 121.450 MHz",
+      "B": "122.000 - 123.050 MHz",
+      "C": "123.150 - 123.6917 MHz",
+      "D": "129.700 - 130.8917 MHz",
+      "E": "All of the above",
+      "F": "None of the above"
+    },
+    "correct_answer": "B",
+    "explanation": "Page 10, Table 4-1 block d): '122.000 – 123.050 inclusive' with 'National Aeronautical Mobile Services'.",
+    "difficulty": "easy",
+    "topic": "Utilization in the frequency band 117.975 - 137.000 MHz",
+    "document": "ICAO Annex 10",
+    "chapter": "4.1 Utilization in the frequency band 117.975 - 137.000 MHz",
+    "sub_chapter": "4.1.1 General allotment",
+    "image_description": "Table 4-1"
+  },
+  {
+    "temp_id": "2e3f4a5b-6c7d-8e9f-0a1b-2c3d4e5f6a7b8c",
+    "question_text": "True or False: The frequency 123.450 MHz is designated for air-to-air communications and may also be used for air-ground communications without restriction.",
+    "options": {
+      "True": "True",
+      "False": "False"
+    },
+    "correct_answer": "False",
+    "explanation": "Page 13, Note under 4.1.3.2.1: 'Use of the air-to-air channel can cause interference to and from aircraft using the same frequency for air ground communications.' The channel is specifically designated for air-to-air, not unrestricted air-ground.",
+    "difficulty": "medium",
+    "topic": "Utilization in the frequency band 117.975 - 137.000 MHz",
+    "document": "ICAO Annex 10",
+    "chapter": "4.1 Utilization in the frequency band 117.975 - 137.000 MHz",
+    "sub_chapter": "4.1.3.2 Air-to-air communications channel",
+    "image_description": null
+  },
+  {
+    "temp_id": "3f4a5b6c-7d8e-9f0a-1b2c-3d4e5f6a7b8c9d",
+    "question_text": "According to the NDB attachment, what is one of the factors that regional meetings consider in planning?",
+    "options": {
+      "A": "The color of the NDB building",
+      "B": "The possibility of reducing the number of NDBs required by coordination of system plans",
+      "C": "The age of the ADF equipment in use",
+      "D": "The altitude of the NDB antenna",
+      "E": "The nationality of the aircraft using the NDB",
+      "F": "The cost of electricity for the NDB"
+    },
+    "correct_answer": "B",
+    "explanation": "Page 22, paragraph 1: 'Regional meetings include in their planning consideration of such factors as: a) the possibility of reducing the number of NDBs required, by coordination of system plans;'",
+    "difficulty": "easy",
+    "topic": "NDB planning (Attachment)",
+    "document": "ICAO Annex 10",
+    "chapter": "Appendix / Attachment (pages 22-24)",
+    "sub_chapter": null,
+    "image_description": null
+  },
+  {
+    "temp_id": "4a5b6c7d-8e9f-0a1b-2c3d-4e5f6a7b8c9d0e",
+    "question_text": "What is the recommended maximum number of ground stations per State for worldwide AOC HF channels?",
+    "options": {
+      "A": "Not more than one",
+      "B": "Not more than two",
+      "C": "Not more than three",
+      "D": "Not more than four",
+      "E": "As many as needed",
+      "F": "Exactly five"
+    },
+    "correct_answer": "A",
+    "explanation": "Page 24, paragraph 2 a): 'there should normally be not more than one station per State;'",
+    "difficulty": "easy",
+    "topic": "Aeronautical Operational Control (AOC)",
+    "document": "ICAO Annex 10",
+    "chapter": "Appendix / Attachment (pages 22-24)",
+    "sub_chapter": null,
+    "image_description": null
+  },
+  {
+    "temp_id": "5b6c7d8e-9f0a-1b2c-3d4e-5f6a7b8c9d0e1f",
+    "question_text": "True or False: According to the document, VDL Mode 2 common signalling channel uses carrier sense multiple access (CSMA).",
+    "options": {
+      "True": "True",
+      "False": "False"
+    },
+    "correct_answer": "True",
+    "explanation": "Page 13, section 4.1.3.3.1: 'This CSC uses the Mode 2 VDL modulation scheme and carrier sense multiple access (CSMA).'",
+    "difficulty": "easy",
+    "topic": "Utilization in the frequency band 117.975 - 137.000 MHz",
+    "document": "ICAO Annex 10",
+    "chapter": "4.1 Utilization in the frequency band 117.975 - 137.000 MHz",
+    "sub_chapter": "4.1.3.3 Common signalling channels for VDL",
+    "image_description": null
+  },
+  {
+    "temp_id": "6a7b8c9d-0e1f-2a3b-4c5d-6e7f8a9b0c1d2e",
+    "question_text": "What is the definition of a 'Frequency channel' according to Chapter 1?",
+    "options": {
+      "A": "A specific radio frequency assigned to an aircraft for communication",
+      "B": "A continuous portion of the frequency spectrum appropriate for a transmission utilizing a specified class of emission",
+      "C": "The bandwidth reserved for emergency locator transmitters",
+      "D": "The difference between the upper and lower frequency limits of a transmission",
+      "E": "A frequency allocated exclusively for air-to-ground communications",
+      "F": "The carrier frequency of an aeronautical station"
+    },
+    "correct_answer": "B",
+    "explanation": "Chapter 1 states: 'Frequency channel. A continuous portion of the frequency spectrum appropriate for a transmission utilizing a specified class of emission.'",
+    "difficulty": "easy",
+    "topic": "Definitions",
+    "document": "ICAO Annex 10",
+    "chapter": "Chapter 1. DEFINITIONS",
+    "sub_chapter": null,
+    "image_description": null
+  },
+  {
+    "temp_id": "7b8c9d0e-1f2a-3b4c-5d6e-7f8a9b0c1d2e3f",
+    "question_text": "True or False: The double channel simplex method was sometimes referred to as 'cross-band'.",
+    "options": {
+      "True": "True",
+      "False": "False"
+    },
+    "correct_answer": "True",
+    "explanation": "Chapter 1, note under 'Double channel simplex': 'Note.— This method was sometimes referred to as cross-band.'",
+    "difficulty": "easy",
+    "topic": "Definitions",
+    "document": "ICAO Annex 10",
+    "chapter": "Chapter 1. DEFINITIONS",
+    "sub_chapter": null,
+    "image_description": null
+  },
+  {
+    "temp_id": "8c9d0e1f-2a3b-4c5d-6e7f-8a9b0c1d2e3f4a",
+    "question_text": "According to Chapter 2, what is the source of the general conditions for distress and safety communications for all mobile services?",
+    "options": {
+      "A": "ICAO Annex 6",
+      "B": "ITU Radio Regulations Article 30",
+      "C": "ITU Radio Regulations Article 31",
+      "D": "ICAO Doc 9718",
+      "E": "The Final Acts of World Radiocommunication Conferences",
+      "F": "Annex 10 Volume III"
+    },
+    "correct_answer": "B",
+    "explanation": "Page 3 states: 'The ITU Radio Regulations Article 30 provides general conditions for distress and safety communications for all mobile services.'",
+    "difficulty": "easy",
+    "topic": "Distress Frequencies",
+    "document": "ICAO Annex 10",
+    "chapter": "2. DISTRESS FREQUENCIES",
+    "sub_chapter": null,
+    "image_description": null
+  },
+  {
+    "temp_id": "9d0e1f2a-3b4c-5d6e-7f8a-9b0c1d2e3f4a5b",
+    "question_text": "True or False: The frequency 121.500 MHz may be used by mobile stations of the maritime mobile service for distress and safety purposes with stations of the aeronautical mobile service.",
+    "options": {
+      "True": "True",
+      "False": "False"
+    },
+    "correct_answer": "True",
+    "explanation": "Page 12, Note 2 under 4.1.3.1.1: 'The ITU Radio Regulations (RR 5.200) permit the use of the aeronautical emergency frequency 121.500 MHz by mobile stations of the maritime mobile service... for distress and safety purposes with stations of the aeronautical mobile service.'",
+    "difficulty": "medium",
+    "topic": "Utilization in the frequency band 117.975 - 137.000 MHz",
+    "document": "ICAO Annex 10",
+    "chapter": "4.1 Utilization in the frequency band 117.975 - 137.000 MHz",
+    "sub_chapter": "4.1.3.1 Emergency channel",
+    "image_description": null
+  },
+  {
+    "temp_id": "0e1f2a3b-4c5d-6e7f-8a9b-0c1d2e3f4a5b6c",
+    "question_text": "According to 4.1.4.5, what factors should be taken into consideration when determining the protection height regionally?",
+    "options": {
+      "A": "The nature of the service, air traffic pattern, distribution of communication traffic, availability of frequency channels in airborne equipment, and probable future developments",
+      "B": "Only the type of aircraft and the weather",
+      "C": "The distance from the equator and the time of day",
+      "D": "The age of the ground equipment and the number of runways",
+      "E": "The nationality of the airline and the language spoken",
+      "F": "The altitude of the airport and the season"
+    },
+    "correct_answer": "A",
+    "explanation": "Page 15, section 4.1.4.5 lists factors: 'a) the nature of the service to be provided; b) the air traffic pattern involved; c) the distribution of communication traffic; d) the availability of frequency channels in airborne equipment; e) probable future developments.'",
+    "difficulty": "hard",
+    "topic": "Utilization in the frequency band 117.975 - 137.000 MHz",
+    "document": "ICAO Annex 10",
+    "chapter": "4.1 Utilization in the frequency band 117.975 - 137.000 MHz",
+    "sub_chapter": "4.1.4 Provisions concerning deployment",
+    "image_description": null
+  },
+  {
+    "temp_id": "1f2a3b4c-5d6e-7f8a-9b0c-1d2e3f4a5b6c7d",
+    "question_text": "What is the recommendation regarding frequencies for operational control communications (4.1.6.1.2)?",
+    "options": {
+      "A": "They should be selected from a dedicated band which is determined regionally",
+      "B": "They should always be selected from the 8.33 kHz spaced frequencies",
+      "C": "They must be the same worldwide",
+      "D": "They should be avoided in favor of satellite communications",
+      "E": "They shall be assigned only by ICAO",
+      "F": "They shall be the same as emergency frequencies"
+    },
+    "correct_answer": "A",
+    "explanation": "Page 16, section 4.1.6.1.2: 'Recommendation. Frequencies for operational control communications may be required... in which case they should be selected from a dedicated band which is determined regionally.'",
+    "difficulty": "medium",
+    "topic": "Utilization in the frequency band 117.975 - 137.000 MHz",
+    "document": "ICAO Annex 10",
+    "chapter": "4.1 Utilization in the frequency band 117.975 - 137.000 MHz",
+    "sub_chapter": "4.1.6 Plan of assignable VHF radio frequencies",
+    "image_description": null
+  },
+  {
+    "temp_id": "2a3b4c5d-6e7f-8a9b-0c1d-2e3f4a5b6c7d8e",
+    "question_text": "True or False: For VOR facilities, frequencies ending in even tenths plus a twentieth of a megahertz in the band 108-111.975 MHz may be used for general use at a date fixed by the Council with at least one year after approval of the regional agreement.",
+    "options": {
+      "True": "True",
+      "False": "False"
+    },
+    "correct_answer": "False",
+    "explanation": "Page 18, section 4.2.3.1 c): 'for general use in the band 108 - 111.975 MHz at a date fixed by the Council but giving a period of two years or more after the approval of the regional agreement concerned.'",
+    "difficulty": "hard",
+    "topic": "Utilization in the frequency band 108 - 117.975 MHz",
+    "document": "ICAO Annex 10",
+    "chapter": "4.2 Utilization in the frequency band 108 - 117.975 MHz",
+    "sub_chapter": "4.2.3.1",
+    "image_description": null
+  },
+  {
+    "temp_id": "3b4c5d6e-7f8a-9b0c-1d2e-3f4a5b6c7d8e9f",
+    "question_text": "According to 4.2.4, what must be done to existing VORs within interference range of a facility utilizing 50 kHz channel spacing?",
+    "options": {
+      "A": "They must be shut down",
+      "B": "They must be modified to comply with Annex 10, Volume I, 3.3.5.7",
+      "C": "They must operate on a different frequency band",
+      "D": "They must increase transmission power",
+      "E": "They must be converted to DME",
+      "F": "Nothing, they can remain as is"
+    },
+    "correct_answer": "B",
+    "explanation": "Page 18, section 4.2.4: 'all existing VORs within interference range of a facility utilizing 50 kHz channel spacing shall be modified to comply with the provisions of Annex 10, Volume I, 3.3.5.7.'",
+    "difficulty": "medium",
+    "topic": "Utilization in the frequency band 108 - 117.975 MHz",
+    "document": "ICAO Annex 10",
+    "chapter": "4.2 Utilization in the frequency band 108 - 117.975 MHz",
+    "sub_chapter": "4.2.4",
+    "image_description": null
+  },
+  {
+    "temp_id": "4c5d6e7f-8a9b-0c1d-2e3f-4a5b6c7d8e9f0a",
+    "question_text": "True or False: DME channels in Group 3 (EVEN 80Y to 118Y) are associated with VOR 50 kHz spacings and are for general use.",
+    "options": {
+      "True": "True",
+      "False": "False"
+    },
+    "correct_answer": "True",
+    "explanation": "Page 20, Table 4-2, Group 3 shows 'EVEN 80Y to 118Y', 'VOR 50 kHz spacings', and 'for general use (see 4.3.1)'. 4.3.1 states X and Y suffixes are chosen without restriction.",
+    "difficulty": "medium",
+    "topic": "Utilization in the frequency band 960 - 1 215 MHz for DME",
+    "document": "ICAO Annex 10",
+    "chapter": "4.3 Utilization in the frequency band 960 - 1 215 MHz for DME",
+    "sub_chapter": "4.3.3",
+    "image_description": "Table 4-2"
+  },
+  {
+    "temp_id": "5d6e7f8a-9b0c-1d2e-3f4a-5b6c7d8e9f0a1b",
+    "question_text": "According to the NDB attachment, what factor related to the environment should regional meetings consider?",
+    "options": {
+      "A": "The population density around the NDB",
+      "B": "The atmospheric noise grades appropriate to the area concerned",
+      "C": "The number of thunderstorms per year",
+      "D": "The average wind speed at the site",
+      "E": "The presence of mountains",
+      "F": "The distance from the coast"
+    },
+    "correct_answer": "B",
+    "explanation": "Page 22, paragraph 1 lists factors including 'd) the atmospheric noise grades, appropriate to the area concerned;'",
+    "difficulty": "easy",
+    "topic": "NDB planning (Attachment)",
+    "document": "ICAO Annex 10",
+    "chapter": "Appendix / Attachment (pages 22-24)",
+    "sub_chapter": null,
+    "image_description": null
+  },
+  {
+    "temp_id": "6e7f8a9b-0c1d-2e3f-4a5b-6c7d8e9f0a1b2c",
+    "question_text": "What is stated about NDBs used with voice channels in certain regions?",
+    "options": {
+      "A": "They are prohibited",
+      "B": "This usage is aligned with the Note at the head of Annex 10, Volume I, 3.4.6",
+      "C": "They must use digital modulation",
+      "D": "They are only allowed for military purposes",
+      "E": "They require a separate frequency for voice",
+      "F": "They are not mentioned"
+    },
+    "correct_answer": "B",
+    "explanation": "Page 23, paragraph 4: 'It is further noted that, in certain regions, many NDBs are used with voice channels and that this usage is aligned with the Note at the head of Annex 10, Volume I, 3.4.6.'",
+    "difficulty": "hard",
+    "topic": "NDB planning (Attachment)",
+    "document": "ICAO Annex 10",
+    "chapter": "Appendix / Attachment (pages 22-24)",
+    "sub_chapter": null,
+    "image_description": null
+  },
+  {
+    "temp_id": "7f8a9b0c-1d2e-3f4a-5b6c-7d8e9f0a1b2c3d",
+    "question_text": "According to AOC guidance, who may operate aeronautical stations depending on national policy?",
+    "options": {
+      "A": "Only the State",
+      "B": "States on behalf of aircraft operating agencies, or aircraft operating agencies or communication agencies under licence",
+      "C": "Only private communication companies",
+      "D": "Only the military",
+      "E": "Only ICAO",
+      "F": "Only the aircraft manufacturer"
+    },
+    "correct_answer": "B",
+    "explanation": "Page 24, paragraph 3: 'aeronautical stations could be operated by States on behalf of one or more aircraft operating agencies... or aeronautical stations could be operated by an aircraft operating agency or a communication agency... under licence issued by the State or States concerned.'",
+    "difficulty": "medium",
+    "topic": "Aeronautical Operational Control (AOC)",
+    "document": "ICAO Annex 10",
+    "chapter": "Appendix / Attachment (pages 22-24)",
+    "sub_chapter": null,
+    "image_description": null
+  },
+  {
+    "temp_id": "8a9b0c1d-2e3f-4a5b-6c7d-8e9f0a1b2c3d4e",
+    "question_text": "True or False: According to the ITU Radio Regulations, licences for AOC stations should define the purpose of the station for aeronautical operational control as defined in Annex 6, Part I.",
+    "options": {
+      "True": "True",
+      "False": "False"
+    },
+    "correct_answer": "True",
+    "explanation": "Page 24, Note: 'In accordance with RR 18.6 of the ITU Radio Regulations, licences should define the purpose of the station for aeronautical operational control (as defined in Annex 6, Part I)'",
+    "difficulty": "easy",
+    "topic": "Aeronautical Operational Control (AOC)",
+    "document": "ICAO Annex 10",
+    "chapter": "Appendix / Attachment (pages 22-24)",
+    "sub_chapter": null,
+    "image_description": null
+  },
+  {
+    "temp_id": "9b0c1d2e-3f4a-5b6c-7d8e-9f0a1b2c3d4e5f",
+    "question_text": "What does the note under 4.2.2.1 refer to regarding the general use of ILS channels?",
+    "options": {
+      "A": "General use requires a regional agreement",
+      "B": "See Note to 4.2.3.1",
+      "C": "General use is prohibited until 2000",
+      "D": "General use is automatically allowed",
+      "E": "General use only applies to VOR",
+      "F": "General use is defined in Chapter 3"
+    },
+    "correct_answer": "B",
+    "explanation": "Page 17, section 4.2.2.1 b) ends with 'Note.- See Note to 4.2.3.1.'",
+    "difficulty": "medium",
+    "topic": "Utilization in the frequency band 108 - 117.975 MHz",
+    "document": "ICAO Annex 10",
+    "chapter": "4.2 Utilization in the frequency band 108 - 117.975 MHz",
+    "sub_chapter": "4.2.2.1",
+    "image_description": null
+  },
+  {
+    "temp_id": "0c1d2e3f-4a5b-6c7d-8e9f-0a1b2c3d4e5f6a",
+    "question_text": "True or False: For 8.33 kHz channel spacing, the channel spacing is defined as 25 kHz divided by 3 which is 8.333... kHz.",
+    "options": {
+      "True": "True",
+      "False": "False"
+    },
+    "correct_answer": "True",
+    "explanation": "Page 9, Note under 4.1.2: 'In the following text, the channel spacing for 8.33 kHz channel assignments is defined as 25 kHz divided by 3 which is 8.333... kHz'",
+    "difficulty": "easy",
+    "topic": "Utilization in the frequency band 117.975 - 137.000 MHz",
+    "document": "ICAO Annex 10",
+    "chapter": "4.1 Utilization in the frequency band 117.975 - 137.000 MHz",
+    "sub_chapter": "4.1.2 Frequency separation",
+    "image_description": null
+  },
+  {
+    "temp_id": "1d2e3f4a-5b6c-7d8e-9f0a-1b2c3d4e5f6a7b",
+    "question_text": "According to 4.1.2.4, the agreement for mandatory carriage of VDL equipment shall provide at least how many years' notice?",
+    "options": {
+      "A": "One year",
+      "B": "Two years",
+      "C": "Three years",
+      "D": "Four years",
+      "E": "Five years",
+      "F": "Six months"
+    },
+    "correct_answer": "B",
+    "explanation": "Page 9, section 4.1.2.4.1: 'The agreement indicated in 4.1.2.4 shall provide at least two years' notice of mandatory carriage of airborne systems.'",
+    "difficulty": "easy",
+    "topic": "Utilization in the frequency band 117.975 - 137.000 MHz",
+    "document": "ICAO Annex 10",
+    "chapter": "4.1 Utilization in the frequency band 117.975 - 137.000 MHz",
+    "sub_chapter": "4.1.2 Frequency separation",
+    "image_description": null
+  },
+  {
+    "temp_id": "2e3f4a5b-6c7d-8e9f-0a1b-2c3d4e5f6a7b8c",
+    "question_text": "True or False: The document states that the frequency 123.100 MHz may be used by mobile stations of the maritime mobile service under conditions of Article 31 for distress and safety purposes.",
+    "options": {
+      "True": "True",
+      "False": "False"
+    },
+    "correct_answer": "True",
+    "explanation": "Page 13, Note under 4.1.3.4.2: 'The ITU Radio Regulations (RR 5.200) permit the use of the aeronautical auxiliary frequency 123.100 MHz by mobile stations of the maritime mobile service under the conditions laid down in Article 31 of the Radio Regulations for distress and safety purposes with stations of the aeronautical mobile service.'",
+    "difficulty": "medium",
+    "topic": "Utilization in the frequency band 117.975 - 137.000 MHz",
+    "document": "ICAO Annex 10",
+    "chapter": "4.1 Utilization in the frequency band 117.975 - 137.000 MHz",
+    "sub_chapter": "4.1.3.4 Auxiliary frequencies for search and rescue",
+    "image_description": null
+  },
+  {
+    "temp_id": "3f4a5b6c-7d8e-9f0a-1b2c-3d4e5f6a7b8c9d",
+    "question_text": "What does the note under 4.1.4.2 provide guidance on?",
+    "options": {
+      "A": "The use of 8.33 kHz spacing in mountainous terrain",
+      "B": "The establishment of minimum separation distance based on desired to undesired signal protection ratio of 20 dB or 14 dB and radio line-of-sight",
+      "C": "The calculation of VHF antenna height",
+      "D": "The selection of emergency frequencies",
+      "E": "The coordination of DME channels",
+      "F": "The maintenance of NDB equipment"
+    },
+    "correct_answer": "B",
+    "explanation": "Page 14, Note 1 under 4.1.4.2: 'Guidance material relating to the establishment of the minimum separation distance based on the desired to undesired signal protection ratio of 20 dB or 14 dB and radio line-of-sight is contained in Volume II of the Handbook...'",
+    "difficulty": "hard",
+    "topic": "Utilization in the frequency band 117.975 - 137.000 MHz",
+    "document": "ICAO Annex 10",
+    "chapter": "4.1 Utilization in the frequency band 117.975 - 137.000 MHz",
+    "sub_chapter": "4.1.4 Provisions concerning deployment",
+    "image_description": null
+  },
+  {
+    "temp_id": "4a5b6c7d-8e9f-0a1b-2c3d-4e5f6a7b8c9d0e",
+    "question_text": "According to 4.3.3.1 b), when an MLS/DME operates on a runway without coexistence of an ILS, the DME channel should preferably be selected from which groups?",
+    "options": {
+      "A": "Group 1 or 2",
+      "B": "Group 3, 4 or 5",
+      "C": "Group 6, 7, 8, 9 or 10",
+      "D": "Group 1 only",
+      "E": "Group 4 only",
+      "F": "Group 7 or 8"
+    },
+    "correct_answer": "B",
+    "explanation": "Page 20, section 4.3.3.1 b): 'when an MLS/DME is intended to operate on a runway without the coexistence of an ILS, the DME channel to be used shall preferably be selected from Group 3, 4 or 5.'",
+    "difficulty": "medium",
+    "topic": "Utilization in the frequency band 960 - 1 215 MHz for DME",
+    "document": "ICAO Annex 10",
+    "chapter": "4.3 Utilization in the frequency band 960 - 1 215 MHz for DME",
+    "sub_chapter": "4.3.3.1",
+    "image_description": null
+  },
+  {
+    "temp_id": "5b6c7d8e-9f0a-1b2c-3d4e-5f6a7b8c9d0e1f",
+    "question_text": "True or False: The document states that new channel assignments in the band 5 030.4 - 5 150.0 MHz may be made as necessary to satisfy future air navigation requirements.",
+    "options": {
+      "True": "True",
+      "False": "False"
+    },
+    "correct_answer": "True",
+    "explanation": "Page 21, section 4.4.3: 'Channel assignments in addition to those specified in 4.4.1 shall be made within the 5 030.4 - 5 150.0 MHz subband as necessary to satisfy future air navigation requirements.'",
+    "difficulty": "easy",
+    "topic": "Utilization in the frequency band 5 030.4 - 5 150.0 MHz",
+    "document": "ICAO Annex 10",
+    "chapter": "4.4 Utilization in the frequency band 5 030.4 - 5 150.0 MHz",
+    "sub_chapter": "4.4.3",
+    "image_description": null
+  }
+]

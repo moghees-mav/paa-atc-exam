@@ -1,0 +1,351 @@
+{
+  "_schema_version": "2.0",
+  "_last_updated": "2026-07-16T14:17:01.483779",
+  "_total_questions": 2088,
+  "_instructions": {
+    "adding_questions": "Add objects to the 'questions' array following the schema below.",
+    "id_format": "Unique integer. Never reuse. Increment from last highest.",
+    "difficulty": "easy | medium | hard",
+    "source": "bank (from question bank) | generated (AI-generated)"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "source": "bank",
+      "document": "ICAO Annex 11",
+      "chapter": "Airspace Classes",
+      "topic": "Aerodrome",
+      "difficulty": "medium",
+      "question": "[PLACEHOLDER] In Class C airspace, which of the following applies?",
+      "options": {
+        "A": "Two-way radio communication required",
+        "B": "Transponder not required",
+        "C": "VFR flight not permitted",
+        "D": "Speed limit of 250 knots below 10,000 ft"
+      },
+      "correct_answer": "A",
+      "explanation": "Per Annex 11, Section X.X \u2014 placeholder explanation.",
+      "tags": [
+        "airspace",
+        "classification"
+      ]
+    },
+    {
+      "id": 2,
+      "source": "bank",
+      "document": "ICAO Annex 2",
+      "chapter": "Rules of the Air",
+      "topic": "Area Procedure",
+      "difficulty": "easy",
+      "question": "[PLACEHOLDER] Which aircraft has the right-of-way over the other when two aircraft are converging at approximately the same altitude?",
+      "options": {
+        "A": "The aircraft on the left",
+        "B": "The aircraft on the right",
+        "C": "The faster aircraft",
+        "D": "The heavier aircraft"
+      },
+      "correct_answer": "B",
+      "explanation": "Rules of the Air, Chapter 3 \u2014 placeholder.",
+      "tags": [
+        "right-of-way"
+      ]
+    },
+    {
+      "id": 3,
+      "source": "bank",
+      "document": "ICAO Doc 4444",
+      "chapter": "Separation Standards",
+      "topic": "Area Radar",
+      "difficulty": "hard",
+      "question": "[PLACEHOLDER] What is the minimum vertical separation above FL 290 in RVSM airspace?",
+      "options": {
+        "A": "500 feet",
+        "B": "1000 feet",
+        "C": "2000 feet",
+        "D": "4000 feet"
+      },
+      "correct_answer": "B",
+      "explanation": "Doc 4444, Chapter 4 \u2014 placeholder.",
+      "tags": [
+        "separation"
+      ]
+    },
+    {
+      "id": 4,
+      "source": "bank",
+      "document": "PAA AIP",
+      "chapter": "ATS Airspace",
+      "topic": "Approach Procedure",
+      "difficulty": "medium",
+      "question": "[PLACEHOLDER] A Control Zone (CTR) normally extends from the surface up to:",
+      "options": {
+        "A": "FL 195",
+        "B": "The base of the overlying controlled airspace",
+        "C": "FL 100",
+        "D": "5000 feet AGL"
+      },
+      "correct_answer": "B",
+      "explanation": "AIP Pakistan, GEN 2.2 \u2014 placeholder.",
+      "tags": [
+        "CTR"
+      ]
+    },
+    {
+      "id": 5,
+      "source": "generated",
+      "document": "ICAO Annex 11",
+      "chapter": "ATS Reporting Offices",
+      "topic": "Approach Radar",
+      "difficulty": "easy",
+      "question": "[PLACEHOLDER] For which of the following flights must a flight plan be submitted?",
+      "options": {
+        "A": "VFR flight in class G airspace only",
+        "B": "Any flight crossing an international border",
+        "C": "All flights, regardless of rules",
+        "D": "Only IFR flights"
+      },
+      "correct_answer": "C",
+      "explanation": "Annex 11, 3.3.1 \u2014 placeholder.",
+      "tags": [
+        "flight plan"
+      ]
+    },
+    {
+      "id": 6,
+      "source": "bank",
+      "document": "ICAO Annex 11",
+      "chapter": "Aerodrome Control",
+      "topic": "Aerodrome",
+      "difficulty": "easy",
+      "question": "[PLACEHOLDER] What is the maximum tailwind component for a wet runway?",
+      "options": {
+        "A": "5 knots",
+        "B": "10 knots",
+        "C": "15 knots",
+        "D": "20 knots"
+      },
+      "correct_answer": "B",
+      "explanation": "Placeholder.",
+      "tags": [
+        "aerodrome"
+      ]
+    },
+    {
+      "id": 7,
+      "source": "bank",
+      "document": "ICAO Annex 11",
+      "chapter": "Area Control",
+      "topic": "Area Procedure",
+      "difficulty": "medium",
+      "question": "[PLACEHOLDER] What is the standard separation between aircraft in en-route airspace?",
+      "options": {
+        "A": "3 NM",
+        "B": "5 NM",
+        "C": "10 NM",
+        "D": "15 NM"
+      },
+      "correct_answer": "B",
+      "explanation": "Placeholder.",
+      "tags": [
+        "separation"
+      ]
+    },
+    {
+      "id": 8,
+      "source": "bank",
+      "document": "ICAO Doc 4444",
+      "chapter": "Radar Separation",
+      "topic": "Area Radar",
+      "difficulty": "hard",
+      "question": "[PLACEHOLDER] What is the minimum radar separation when using MSSR?",
+      "options": {
+        "A": "2.5 NM",
+        "B": "3 NM",
+        "C": "5 NM",
+        "D": "7 NM"
+      },
+      "correct_answer": "C",
+      "explanation": "Placeholder.",
+      "tags": [
+        "radar"
+      ]
+    },
+    {
+      "id": 9,
+      "source": "bank",
+      "document": "PAA AIP",
+      "chapter": "Instrument Approach",
+      "topic": "Approach Procedure",
+      "difficulty": "medium",
+      "question": "[PLACEHOLDER] What is the standard obstacle clearance for an ILS approach?",
+      "options": {
+        "A": "200 ft",
+        "B": "250 ft",
+        "C": "300 ft",
+        "D": "500 ft"
+      },
+      "correct_answer": "C",
+      "explanation": "Placeholder.",
+      "tags": [
+        "ILS"
+      ]
+    },
+    {
+      "id": 10,
+      "source": "generated",
+      "document": "ICAO Annex 11",
+      "chapter": "Surveillance",
+      "topic": "Approach Radar",
+      "difficulty": "medium",
+      "question": "[PLACEHOLDER] What is the typical range of an ASR (Airport Surveillance Radar)?",
+      "options": {
+        "A": "20 NM",
+        "B": "40 NM",
+        "C": "60 NM",
+        "D": "100 NM"
+      },
+      "correct_answer": "C",
+      "explanation": "Placeholder.",
+      "tags": [
+        "radar"
+      ]
+    }
+  ],
+  "_document_index": {
+    "ICAO Annex 11": {
+      "count": 5,
+      "chapters": [
+        "ATS Reporting Offices",
+        "Aerodrome Control",
+        "Airspace Classes",
+        "Area Control",
+        "Surveillance"
+      ]
+    },
+    "ICAO Annex 2": {
+      "count": 1,
+      "chapters": [
+        "Rules of the Air"
+      ]
+    },
+    "ICAO Doc 4444": {
+      "count": 313,
+      "chapters": [
+        "Appendix 1",
+        "Appendix 2",
+        "Appendix 3",
+        "Appendix 4",
+        "Appendix 5",
+        "Appendix 6",
+        "Chapter 10",
+        "Chapter 11",
+        "Chapter 12",
+        "Chapter 13",
+        "Chapter 14",
+        "Chapter 15",
+        "Chapter 16",
+        "Chapter 2",
+        "Chapter 3",
+        "Chapter 4",
+        "Chapter 5",
+        "Chapter 6",
+        "Chapter 7",
+        "Chapter 8",
+        "Chapter 9",
+        "Definitions",
+        "Radar Separation",
+        "Separation Standards"
+      ]
+    },
+    "PAA AIP": {
+      "count": 2,
+      "chapters": [
+        "ATS Airspace",
+        "Instrument Approach"
+      ]
+    },
+    "ICAO Annex 10": {
+      "count": 124,
+      "chapters": [
+        "2. DISTRESS FREQUENCIES",
+        "3 UTILIZATION OF FREQUENCIES BELOW 30 MHz",
+        "4.1 Utilization in the frequency band 117.975 - 137.000 MHz",
+        "4.2 Utilization in the frequency band 108 - 117.975 MHz",
+        "4.3 Utilization in the frequency band 960 - 1 215 MHz for DME",
+        "4.4 Utilization in the frequency band 5 030.4 - 5 150.0 MHz",
+        "Appendix / Attachment (pages 22-24)",
+        "Chapter 1. DEFINITIONS"
+      ]
+    },
+    "ICAO Annex 12": {
+      "count": 99,
+      "chapters": [
+        "APPENDIX. SEARCH AND RESCUE SIGNALS",
+        "CHAPTER 1. DEFINITIONS",
+        "CHAPTER 2. ORGANIZATION",
+        "CHAPTER 3. COOPERATION",
+        "CHAPTER 4. PREPARATORY MEASURES",
+        "CHAPTER 5. OPERATING PROCEDURES",
+        "Note"
+      ]
+    },
+    "ICAO Annex 14 Volume I": {
+      "count": 289,
+      "chapters": [
+        "Appendix 1",
+        "Appendix 2",
+        "Appendix 3",
+        "Appendix 4",
+        "Appendix 5",
+        "Attachment A",
+        "Attachment B",
+        "Chapter 1. General",
+        "Chapter 10. Aerodrome maintenance",
+        "Chapter 2. Aeronautical data",
+        "Chapter 3. Runways",
+        "Chapter 4. Obstacle restriction and removal",
+        "Chapter 5. Visual aids",
+        "Chapter 6. Obstacle marking and lighting",
+        "Chapter 7. Closed areas",
+        "Chapter 8. Electrical systems",
+        "Chapter 9. Emergency and other services"
+      ]
+    },
+    "ICAO Annex 15": {
+      "count": 140,
+      "chapters": [
+        "CHAPTER 1. GENERAL",
+        "CHAPTER 2. STATE RESPONSIBILITIES",
+        "CHAPTER 3. INFORMATION MANAGEMENT AND QUALITY",
+        "CHAPTER 4. AERONAUTICAL DATA AND AERONAUTICAL INFORMATION SCOPE AND METADATA",
+        "CHAPTER 5. AERONAUTICAL INFORMATION PRODUCTS AND SERVICES",
+        "CHAPTER 6. UPDATING"
+      ]
+    },
+    "ICAO Doc 9859": {
+      "count": 260,
+      "chapters": [
+        "Chapter 1",
+        "Chapter 2",
+        "Chapter 3",
+        "Chapter 4",
+        "Chapter 5",
+        "Chapter 6",
+        "Chapter 7",
+        "Chapter 8",
+        "Chapter 9",
+        "Glossary"
+      ]
+    },
+    "MNL-003-OPAT-10": {
+      "count": 855,
+      "chapters": [
+        "Chapter 3: Non-Radar",
+        "Chapter 4: Radar",
+        "Chapter 5: AIM",
+        "Chapter 6: Flight Procedure Design",
+        "Chapter 7: Search and Rescue"
+      ]
+    }
+  }
+}
