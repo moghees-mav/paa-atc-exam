@@ -35,5 +35,11 @@ data/*.backup*.json
 *.log
 
 #Old
-Cleanup
-instructions md
+Cleanup/
+instructions md/
+
+#Cline
+.clinerules/
+
+#RAW DOCS
+question_bank_raw/
