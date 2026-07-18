@@ -1,0 +1,29 @@
+v2 features for server-side implementation
+
+- i will intentionally not talk alot about server implementation steps, since theyre understood to be mandatory. like creating a database service etc for holding data, data security, secure connections etc. Those i will leave to claude for determination.
+
+- link to existing RTL DB api (api documentation to be loaded later for proper connections) for linking with personnel details via service number on examinee screen and examiner details via api - the api can provide examiner details, examinee details, location details (for location-specific testing, more on that in note 2) - in return, the exam system would provide examinee performance metrics back to RTL db. 
+
+-introduce 2 modes for the exam system. Mode 1 will be for practicing by all ATS Personnel. On the landing page, everyone will be offered a choice, Choose Practice/Mock Exam, or to proceed to a headquarters/admin defined Exam (such examinations occur regularly and are served to satisfy different regulatory requirements. Admin dashboard will allow for setting up such examinations, more on that in note 3)
+
+- for mode 2 specifically, reduce exam setup complexity. pre-defined linkage of exam qualification groups to documents and chapters. admin/examiner can still access custom document selector but shouldnt be required. (check note 4 as well). hide the difficulty settings for now. Replace it with complexity bar (0, 25, 50, 75, 100 corresponding to relevant (e)asy:(m)edium:(h)ard proportions)
+
+- upon flagging question, with-hold final result, pending a decision on the flagged question dispute, then show result and allow examinee to re-take the exam. This would require flagged questions to have ability to get examiner/admin remarks as well, so those remarks can be shown back to the examinee.
+
+- when examinee is actually being tested, and not just practicing, the re-take exam option should only appear if a flaggedquestion dispute has been raised by examinee. otherwise their result should be final. the logic is in note 1. The examinee, once served with the final result, should not be able to re-take the exam (mode 2 only).
+
+- Authentication procedures specifically for Mode 2. Regulatory requirements dictate that candidates undergoing testing must be authenticated. Currently, during manual testing, the HQ appointed supervisors make sure each candidate who sits the exam is actually them and not imposter through request for CNIC and ATC License. They can then determine authenticity through these 2 picture-carrying documents. Initially, for mode 2, once an examinee enters their service number and their details are fetched, they can then be asked to enter their license number and cnic number for validation against RTL db. Later on, we might implement camera snapshots before, during and after exam to authenticate with facial recognition, and/or fingerprint authentication against RTL-db. or some other identification check, whicever is most effective/convenient. Since this exam is served by a highly trained and controlled group of people in controlled setup, this is simply  a regulatory requirement, not a huuge priority right now.
+
+- another regulatory requirement, not really relevant here but worth considering, is to have detailed reasoning and linkage to official SOP docs and manuals regarding inclusion, or lack thereof, of certain documents in mode 2 testing. Might be good to keep such information for ready reference in case an examinee requests why they got certain questions.
+
+- This is an on-going brainstorm session and after a few back and forth chats, will finalise a series of task#.md files which will then be passed to cline in vs code for sequential and seamless integration into the project.
+
+note 1: ATC personnel go through regular scheduled testing to serve regulatory and training requirements. Some exams are small, while others more significant. The most significant testing occurs during Categorisation Examinations, conducted annually through Headquarters deployed supervisors. The Cat exam is broken down into Non-Radar and Radar groups. ATS Personnel who have not undergone Radar training will only give the Non-radar exam, whereas ATS personnel who have undergone radar training, must give Non-radar exam as well as Radar exam. The RTL-db api will allow for automatic determination of which examinees are to be given the additional radar exam based on their training qualification data.
+
+note 2: An ATCO goes through regualar scheduled testing. Some is done by HQ (Like categorisation examination annually) while some is done by the location (pre-solo checks), and some is requested by On-Job Training Instructor (OJTI) during location ATS-unit specific testing. This would obviously involve addition of location-specific documents for question generation. Read note 5 for more on that.
+
+note 3: 2 modes
+
+note 4: Thinking about some dynamic selections as well, e.g. an ATCO trained and deployed at Islamabad international airport can be served questions from OPIS sub-section of Aerodromes (AD) section of AIP, whereas a person trained at Karachi can be given OPKC-specific questions
+
+note 5: Looking at the size and number of documents, I think it would also be nice that the mode 1 offers examinees a chance to shore up their knowledge through availability of documents via an e-library. That would be a whole huge module on its own, but initially, a list of documents available for download and study would suffice i think. Open for suggestions.

@@ -34,9 +34,6 @@ data/*.backup*.json
 # Logs
 *.log
 
-#cline
-.clinerules
-
 #Old
 Cleanup
 instructions md

@@ -2,7 +2,7 @@
   "_instructions": "Edit this file to configure the application.",
   "app": {
     "title": "PAA IIAP ATC EXAM SIMULATOR",
-    "subtitle": "Practice and Mock Examination for your Air Traffic Control Exam",
+    "subtitle": "Practice Examination for Air Traffic Services Personnel",
     "organization": "PAKISTAN AIRPORTS AUTHORITY",
     "logo_path": "assets/logo.png",
     "version": "1.0.0"
