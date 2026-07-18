@@ -18,6 +18,9 @@ npm-debug.log*
 
 # OS
 .DS_Store
+
+# Memory Bank (local session context, not source code)
+memory-bank/
 Thumbs.db
 
 # Generated / Large files
@@ -30,3 +33,10 @@ data/*.backup*.json
 
 # Logs
 *.log
+
+#cline
+.clinerules
+
+#Old
+Cleanup
+instructions md

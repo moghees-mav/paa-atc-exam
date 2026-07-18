@@ -1,0 +1,27 @@
+/*
+ * ATC Exam Simulator — Theme
+ * CSS Variables, Reset, Base Typography
+ */
+
+/* === CSS Variables === */
+:root {
+  --primary: #1a3a5c;
+  --accent: #2980b9;
+  --pass: #27ae60;
+  --fail: #c0392b;
+  --warn: #e67e22;
+  --bg: #f4f6f9;
+  --surface: #ffffff;
+  --border: #dce3ea;
+  --text: #1a1a2e;
+  --text-muted: #6b7280;
+  --font: Arial, Helvetica, sans-serif;
+  --font-size: 14px;
+  --radius: 6px;
+  --shadow: 0 2px 8px rgba(0,0,0,0.08);
+}
+
+/* === Reset === */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+html { font-size: var(--font-size); font-family: var(--font); }
+body { background: var(--bg); color: var(--text); min-height: 100vh; }

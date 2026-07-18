@@ -4,7 +4,11 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>ATC Exam Simulator</title>
-  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="css/theme.css">
+  <link rel="stylesheet" href="css/layout.css">
+  <link rel="stylesheet" href="css/components.css">
+  <link rel="stylesheet" href="css/admin.css">
+  <link rel="stylesheet" href="css/print.css">
 </head>
 <body>
 
@@ -326,6 +330,7 @@
         <button class="admin-tab-btn" data-tab="questions" type="button">Question Bank</button>
         <button class="admin-tab-btn" data-tab="flagged" type="button">Flagged Remarks</button>
         <button class="admin-tab-btn" data-tab="requests" type="button">Feature Requests</button>
+        <button class="admin-tab-btn" data-tab="qualifications" type="button">Qualifications</button>
         <button class="admin-tab-btn" data-tab="security" type="button">Security</button>
         <button id="btn-admin-logout" type="button">Log Out</button>
       </nav>
@@ -354,6 +359,7 @@
         </section>
         <section id="admin-tab-flagged" class="admin-tab-panel hidden"></section>
         <section id="admin-tab-requests" class="admin-tab-panel hidden"></section>
+        <section id="admin-tab-qualifications" class="admin-tab-panel hidden"></section>
         <section id="admin-tab-security" class="admin-tab-panel hidden">
           <div id="security-warning-banner" class="hidden" style="background:#fff3cd;border:1px solid #ffc107;padding:12px 16px;border-radius:6px;margin-bottom:16px;font-size:14px;color:#856404">⚠ Password expiring soon — change it now.</div>
           <h2>Password Management</h2>
@@ -488,6 +494,6 @@
     </div>
   </div>
 
-  <script src="app.js"></script>
+  <script type="module" src="app.js"></script>
 </body>
 </html>

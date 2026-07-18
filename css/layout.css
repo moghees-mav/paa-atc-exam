@@ -1,0 +1,117 @@
+/*
+ * ATC Exam Simulator — Layout
+ * Screen containers, headers, sidebars
+ */
+
+/* === Screens === */
+.screen { display: none; min-height: 100vh; }
+.screen.active { display: block; }
+.hidden { display: none !important; }
+
+/* === Loading Screen === */
+#screen-loading {
+  display: flex; align-items: center; justify-content: center;
+  flex-direction: column; gap: 20px;
+}
+.loading-bar { width: 300px; height: 8px; background: var(--border); border-radius: 4px; overflow: hidden; }
+.loading-fill { height: 100%; width: 60%; background: var(--accent); animation: load 1.5s ease-in-out infinite alternate; }
+@keyframes load { from { width: 20%; } to { width: 80%; } }
+
+/* === Header === */
+#app-header-examiner,
+#app-header-examinee,
+#app-header-admin {
+  background: var(--primary); color: white;
+  padding: 20px 40px; display: flex; align-items: center; gap: 20px;
+  width: 100%;
+}
+#app-logo { height: 48px; width: auto; }
+#app-title-examiner,
+#app-title-examinee,
+#app-title-admin { font-size: 22px; font-weight: bold; }
+#app-subtitle-examiner,
+#app-subtitle-examinee,
+#app-subtitle-admin { font-size: 13px; opacity: 0.8; margin-top: 2px; }
+
+/* === Home Screen === */
+#home-main-examiner,
+#home-main-examinee { max-width: 900px; margin: 0 auto; padding: 24px 32px; }
+section { background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); padding: 20px; margin-bottom: 16px; }
+section h2, section h3 { font-size: 16px; color: var(--primary); margin-bottom: 14px; }
+
+/* === Exam Screen === */
+#screen-exam { display: flex; flex-direction: column; height: 100vh; }
+#exam-topbar {
+  background: var(--primary); color: white;
+  padding: 10px 20px; display: flex; align-items: center; gap: 20px;
+  flex-shrink: 0;
+}
+#exam-progress { flex: 1; }
+#exam-body { display: flex; flex: 1; overflow: hidden; }
+#question-area { flex: 1; padding: 24px; overflow-y: auto; }
+#question-palette {
+  width: 200px; background: var(--surface); border-left: 1px solid var(--border);
+  padding: 16px; overflow-y: auto; flex-shrink: 0;
+}
+/* Hidden during exam — metadata not shown to examinee */
+#question-tags { display: none; }
+
+/* === Pause Overlay === */
+#pause-overlay {
+  position: fixed; inset: 0; background: rgba(10,22,40,0.85);
+  display: flex; align-items: center; justify-content: center; z-index: 100;
+}
+.overlay-box {
+  background: white; padding: 40px; border-radius: var(--radius);
+  text-align: center; max-width: 360px;
+}
+.overlay-box h2 { margin-bottom: 12px; }
+.overlay-box p { color: var(--text-muted); margin-bottom: 20px; }
+
+/* === Results Screen === */
+#screen-results { overflow-y: auto; }
+#results-header {
+  background: var(--primary); color: white;
+  padding: 16px 32px; display: flex; align-items: center; justify-content: space-between;
+}
+#results-header h1 { font-size: 20px; }
+#results-actions { display: flex; gap: 10px; }
+#results-actions button {
+  padding: 8px 18px; border: 1px solid rgba(255,255,255,0.4);
+  background: transparent; color: white; border-radius: 4px;
+  cursor: pointer; font-size: 13px; font-family: var(--font);
+}
+#results-actions button:hover { background: rgba(255,255,255,0.15); }
+#results-top-row { display: flex; gap: 16px; max-width: 960px; margin: 16px auto; }
+#results-top-row .results-section { margin: 0; flex: 1; }
+#results-top-row .results-half { max-width: 50%; }
+
+/* === Admin Layout === */
+#admin-layout { display: flex; min-height: 100vh; }
+#admin-sidebar { width: 220px; flex-shrink: 0; padding: 20px; border-right: 1px solid var(--border); display: flex; flex-direction: column; gap: 8px; }
+#admin-sidebar button { text-align: left; padding: 10px 12px; border-radius: 6px; }
+#admin-sidebar button.active { background: var(--pass, #2ecc71); color: #fff; }
+#btn-admin-logout { margin-top: auto; }
+#admin-content { flex: 1; padding: 24px; overflow-y: auto; }
+.admin-tab-panel.hidden { display: none; }
+
+/* === Fixed Elements === */
+.admin-access-btn { position: fixed; bottom: 20px; left: 20px; z-index: 400; opacity: 0.85; padding: 10px 18px; font-size: 14px; border-radius: 6px; }
+.admin-access-btn:hover { opacity: 1; }
+
+.utc-clock {
+  position: fixed;
+  top: 16px;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 400;
+  font-family: monospace;
+  font-size: 16px;
+  color: #00ff00;
+  background: #1a1a1a;
+  padding: 6px 16px;
+  border-radius: 6px;
+  border: 1px solid #00ff00;
+  letter-spacing: 1px;
+  font-weight: bold;
+}
